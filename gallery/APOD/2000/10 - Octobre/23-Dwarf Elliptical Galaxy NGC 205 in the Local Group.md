@@ -1,0 +1,10 @@
+Dwarf Elliptical Galaxy NGC 205 in the Local Group,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0010/ngc205_cfht.jpg)](https://apod.nasa.gov/apod/image/0010/ngc205_cfht_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2000-10-23,
+
+Explanation: Our Milky Way Galaxy is not alone.  It is part of a gathering of about 25 galaxies known as the Local Group.  Members include the Great Andromeda Galaxy (M31), M32, M33, the Large Magellanic Cloud, the Small Magellanic Cloud, Dwingeloo 1, several small irregular galaxies, and many dwarf elliptical and dwarf spheroidal galaxies.  Pictured on the lower left is one of the many dwarf ellipticals: NGC 205.  Like M32, NGC 205 is a companion to the large M31, and can sometimes be seen to the south of M31's center in photographs.  The above image shows NGC 205 to be unusual for an elliptical galaxy in that it contains at least two dust clouds (at 1 and 4 o'clock - they are visible but hard to spot) and signs of recent star formation.  This galaxy is sometimes known as M110, although it was actually not part of Messier's original catalog.
+

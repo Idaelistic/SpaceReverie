@@ -1,0 +1,10 @@
+Apollo 14 Heads for Home,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2002/AS14-71-9845v2wmktwtr4Jerry1024.jpg)](https://apod.nasa.gov/apod/image/2002/AS14-71-9845v2wmktwtr4Jerry.jpg)
+
+Copyright: No copyright, 
+
+Date: 2020-02-01,
+
+Explanation: When leaving lunar orbit in February 1971, the crew of Apollo 14 watched this Earthrise from their command module Kitty Hawk. With Earth's sunlit crescent just peeking over the lunar horizon, the cratered terrain in the foreground is along the lunar farside. Of course, while orbiting the Moon, the crew could watch Earth rise and set, but the Earth hung stationary in the sky over Fra Mauro Base, their landing site on the lunar surface. Rock samples brought back by the Apollo 14 mission included a 20 pound rock nicknamed Big Bertha, later determined to contain a likely fragment of a meteorite from planet Earth.
+

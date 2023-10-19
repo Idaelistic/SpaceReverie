@@ -1,0 +1,10 @@
+The First Rocket Launch from Cape Canaveral,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1810/bumper2_nasa_960.jpg)](https://apod.nasa.gov/apod/image/1810/bumper2_nasa_1500.jpg)
+
+Copyright: No copyright, 
+
+Date: 2018-10-01,
+
+Explanation: A new chapter in space flight began in 1950 with the launch of the first rocket from Cape Canaveral, Florida: the Bumper V-2.  Featured here, the Bumper V-2 was an ambitious two-stage rocket program that topped a V-2 missile base with a WAC Corporal rocket.  The upper stage was able to reach then-record altitudes of almost 400 kilometers, about the height of the modern International Space Station.  Launched under the direction of the General Electric Company, the Bumper V-2 was used primarily for testing rocket systems and for research on the upper atmosphere.  Bumper V-2 rockets carried small payloads that allowed them to measure attributes including air temperature and cosmic ray impacts.  Seven years later, the Soviet Union launched Sputnik I and Sputnik II, the first satellites into Earth orbit.  In response in 1958, 60 years ago today, the USA created NASA.    Anniversary: NASA: 60 Years and Counting
+

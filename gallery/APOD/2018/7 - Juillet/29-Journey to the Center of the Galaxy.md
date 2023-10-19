@@ -1,0 +1,10 @@
+Journey to the Center of the Galaxy,
+
+## Vidéo: https://www.youtube.com/embed/FNHexFdacK0?rel=0, 
+
+Copyright: No copyright, 
+
+Date: 2018-07-29,
+
+Explanation: What wonders lie at the center of our Galaxy? In Jules Verne's science fiction classic A Journey to the Center of the Earth, Professor Liedenbrock and his fellow explorers encounter many strange and exciting wonders. Astronomers already know of some of the bizarre objects that exist at our Galactic center, including like vast cosmic dust clouds, bright star clusters, swirling rings of gas, and even a supermassive black hole. Much of the Galactic Center is shielded from our view in visible light by the intervening dust and gas, but it can be explored using other forms of electromagnetic radiation. The featured video is actually a digital zoom into the Milky Way's center which starts by utilizing visible light images from the Digitized Sky Survey. As the movie proceeds, the light shown shifts to dust-penetrating infrared and highlights gas clouds that were recently discovered in 2013 to be falling toward central black hole. In 2018 May, observations of a star passing near the Milky Way's central black hole showed, for the first time, a gravitational redshift of the star's light -- as expected from Einstein's general relativity.    Highlights: Recent Total Lunar Eclipse
+

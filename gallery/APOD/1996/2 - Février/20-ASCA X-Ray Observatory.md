@@ -1,0 +1,10 @@
+ASCA X-Ray Observatory,
+
+[![Build Status](https://apod.nasa.gov/apod/image/ascaM31.gif)](https://apod.nasa.gov/apod/image/ascaM31_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-02-20,
+
+Explanation: Today marks the third anniversary of the launch of the Advanced Satellite for Cosmology and Astrophysics (ASCA; renamed from Astro D when launched). ASCA, seen here superposed on galaxy M31, is a Japanese satellite for which NASA has provided some scientific equipment. ASCA carries four large-area X-ray telescopes. At the focus of two of the telescopes is a Gas Imaging Spectrometer (GIS), while a Solid-state Imaging Spectrometer (SIS) is at the focus of the other two. ASCA has provided recent evidence that high energy cosmic rays are formed in the expanding gas from a supernova. During ASCA's three years of operation, it has also yielded valuable data on quasars, supernova remnants, dwarf novae, pulsars, clusters of galaxies, and the mysterious X-ray background radiation that appears to come from all directions.
+

@@ -1,0 +1,10 @@
+The Cygnus Loop,
+
+[![Build Status](https://apod.nasa.gov/apod/image/CygnusLoop_hst.gif)](https://apod.nasa.gov/apod/image/CygnusLoop_hst_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1998-08-08,
+
+Explanation: 15,000 years ago a star in the constellation of Cygnus exploded -- the shockwave from this supernova explosion is still expanding into interstellar space! The collision of this fast moving wall of gas with a stationary cloud has heated it causing it to glow in visible as well as high energy radiation, producing the nebula known as the Cygnus Loop (NGC 6960/95). The nebula is located about 2500 light years away. The colors used here indicate emission from different kinds of atoms excited by the shock; oxygen-blue, sulfur-red, and hydrogen-green. This picture was taken with the Wide Field and Planetary Camera 2 on board the Hubble Space Telescope.
+

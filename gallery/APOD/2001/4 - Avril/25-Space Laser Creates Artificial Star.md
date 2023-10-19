@@ -1,0 +1,16 @@
+Space Laser Creates Artificial Star,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0104/laserstar_vtt.jpg)](https://apod.nasa.gov/apod/image/0104/laserstar_vtt_big.jpg)
+
+Copyright: Fang Shi 
+(U. Chicago) et al., 
+AURA, 
+NSO, 
+NOAO, 
+NSF
+, 
+
+Date: 2001-04-25,
+
+Explanation: Some astronomers don't like stars.  Bright star fluctuations can indicate how the Earth's atmosphere is changing, but many times no bright star exists in the direction where atmospheric information is needed.  So rather than try to eradicate existing stars with a laser, these astronomers create an artificial star of their own right where they need it -- with a laser.  Subsequent observations of the artificial laser guide star can reveal information so detailed about the blurring effects of the Earth's atmosphere that much of this blurring can be removed by rapidly flexing the mirror.  Such adaptive optic techniques allow high-resolution ground-based observations of real stars, planets, and nebulae.  Above, an artificial star was created with a four-watt laser at Richard B. Dunn Solar Telescope on Sacramento Peak in New Mexico.
+

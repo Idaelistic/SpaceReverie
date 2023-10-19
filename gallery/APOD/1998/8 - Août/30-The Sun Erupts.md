@@ -1,0 +1,10 @@
+The Sun Erupts,
+
+[![Build Status](https://apod.nasa.gov/apod/image/sunflare_skylab4.gif)](https://apod.nasa.gov/apod/image/sunflare_skylab4_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1998-08-30,
+
+Explanation: The Sun is a seething ball of extremely hot gas. Above, the Sun was captured by Skylab in 1973 throwing off one the largest eruptive prominences in recorded history. The Sun has survived for about 5 billion years, and will likely survive for another 5 billion. The Sun is not on fire, will never explode, and a solar flare will never destroy the Earth.  The Sun continues to present many unanswered questions. For example: Why is the Sun's corona so hot? What causes the Sun's unusual magnetic field? Why does the Sun's center emit so few neutrinos?
+

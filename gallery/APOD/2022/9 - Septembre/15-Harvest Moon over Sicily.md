@@ -1,0 +1,10 @@
+Harvest Moon over Sicily,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2209/HarvestMoonCastiglioneSicily1024.jpg)](https://apod.nasa.gov/apod/image/2209/HarvestMoonCastiglioneSicilyLD.jpg)
+
+Copyright: Dario Giannobile, 
+
+Date: 2022-09-15,
+
+Explanation: For northern hemisphere dwellers, September's Full Moon was the Harvest Moon. Reflecting warm hues at sunset it rises over the historic town of Castiglione di Sicilia in this telephoto view from September 9. Famed in festival, story, and song Harvest Moon is just the traditional name of the full moon nearest the autumnal equinox. According to lore the name is a fitting one. Despite the diminishing daylight hours as the growing season drew to a close, farmers could harvest crops by the light of a full moon shining on from dusk to dawn.   Harvest Full Moon 2022: Notable Submissions to APOD
+

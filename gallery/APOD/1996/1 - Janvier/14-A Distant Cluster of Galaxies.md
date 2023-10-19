@@ -1,0 +1,10 @@
+A Distant Cluster of Galaxies,
+
+[![Build Status](https://apod.nasa.gov/apod/image/clusmedz_hst.gif)](https://apod.nasa.gov/apod/image/clusmedz_hst_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-01-14,
+
+Explanation: very bright object in this 1994 photograph by the Hubble Space Telescope is a galaxy. Oddly - most of the objects are  spiral galaxies. This rich cluster of galaxies, named CL 0939+4713, is almost half way across the visible universe. Photos like this indicate that clusters in the past contained a higher fraction of spirals than do nearby clusters, which are usually dominated by elliptical galaxies.
+

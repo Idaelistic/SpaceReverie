@@ -1,0 +1,10 @@
+Geminid of the North,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2112/GeminidFireball_AlvinWu1024c.jpg)](https://apod.nasa.gov/apod/image/2112/GeminidFireball_AlvinWu.jpg)
+
+Copyright: Alvin Wu, 
+
+Date: 2021-12-17,
+
+Explanation: An arid expanse of the Tengger Desert in north-central China, planet Earth fills the foreground of this starry scene. A widefield panoramic view, it was recorded shortly after moonset in the local predawn hours of December 14. Pictured in the still dark sky, stars of the northern winter hexagon surround a luminous Milky Way. Seen near the peak of the annual meteor shower, the startling flash of a bright Geminid fireball meteor was also captured on that night. Above the western horizon and just below bright star Capella, its dagger-like trail points back to the meteor shower's radiant in Gemini. Of course, the constellation Gemini is easy to spot. Its twin bright stars, bluish Castor and yellowish Pollux are near top center in the frame.
+

@@ -1,0 +1,12 @@
+A Northern Winter Sky Panorama,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1912/WinterStars_Slovinsky_1080.jpg)](https://apod.nasa.gov/apod/image/1912/WinterStars_Slovinsky_2048.jpg)
+
+Copyright: 
+Tomas Slovinsky
+, 
+
+Date: 2019-12-24,
+
+Explanation: What stars shine in Earth's northern hemisphere during winter? The featured image highlights a number of bright stars visible earlier this month. The image is a 360-degree horizontal-composite panorama of 66 vertical frames taken consecutively with the same camera and from the same location at about 2:30 am. Famous stars visible in the picture include Castor & Pollux toward the southeast on the left, Sirius just over the horizon toward the south, Capella just over the arch of the Milky Way Galaxy toward the west, and Polaris toward the north on the right.  Captured by coincidence is a meteor on the far left.  In the foreground is the Museum of the Orava Village in Zuberec, Slovakia. This village recreates rural life in the region hundreds of years ago, while the image captures a timeless sky surely familar to village residents, a sky also shared with northern residents around the world.    Free Download: 2020 APOD Calendar
+

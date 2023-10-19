@@ -1,0 +1,10 @@
+Mars Express: Return to Cydonia,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0609/cydonia_marsexpress.jpg)](https://apod.nasa.gov/apod/image/0609/cydonia_marsexpress_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2006-09-26,
+
+Explanation: The unusual stone mesas of the Cydonia region on Mars are quite striking in appearance.  Last week, the Mars Express project released a new close-up image of a portion of the Cydonia region on Mars. This new image, taken by the robotic Mars Express spacecraft now orbiting Mars,  shows an area about 90 kilometers wide.  In the far lower right of the above image, a particularly picturesque mesa can be seen as the upper right of the two mesas visible there.  This mesa, when lit from just the right sun angle, can appear similar to a human face and became famous as the Face on Mars in 1976 Viking orbiter images. Better images show it to be just an interesting mesa.  Such complex looking landforms in the Cydonia region are thought to be the result of landslides and erosion of the ancient Martian crust.
+

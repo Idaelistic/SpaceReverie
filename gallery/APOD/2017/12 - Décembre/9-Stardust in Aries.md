@@ -1,0 +1,11 @@
+Stardust in Aries,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1712/RBA_DS_Clouds_of_Aries.jpg)](https://apod.nasa.gov/apod/image/1712/RBA_DS_Clouds_of_Aries.jpg)
+
+Copyright: Rogelio Bernal
+Andreo, 
+
+Date: 2017-12-09,
+
+Explanation: This composition in stardust covers over 8 degrees on the northern sky. The mosaicked field of view is west of the familiar Pleiades star cluster, toward the zodiacal constellation Aries and the plane of our Milky Way Galaxy. At right in the deep skyscape is bluish Epsilon Arietis, a star visible to the naked-eye and about 330 light-years away. Reflecting starlight in the region, dusty nebulae LBN762, LBN753, and LBN743 sprawl left to right across the field, but are likely some 1,000 light-years away. At that estimated distance, the cosmic canvas is over 140 light-years across. Near the edge of a large molecular cloud, their dark interiors can hide newly formed stars and young stellar objects or protostars from prying optical telescopes. Collapsing due to self-gravity, the protostars form around dense cores embedded in the molecular cloud.
+

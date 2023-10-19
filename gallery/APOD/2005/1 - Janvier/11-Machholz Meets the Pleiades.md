@@ -1,0 +1,12 @@
+Machholz Meets the Pleiades,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0501/machholzPleiades_seip_c80.jpg)](https://apod.nasa.gov/apod/image/0501/machholzPleiades_seip_full.jpg)
+
+Copyright: 
+Stefan Seip
+, 
+
+Date: 2005-01-11,
+
+Explanation: Sweeping northward in planet Earth's sky, comet Machholz extended its long ion tail with the Pleiades star cluster in the background on January 7th. This stunning view, recorded with a telephoto lens in skies over Oberjoch, Bavaria, Germany, emphasizes faint, complex tail structures and the scene's lovely blue and green colors. Merging with the blue dust-reflected starlight of the Pleiades, colors in the comet's ion tail and greenish coma are produced as gas molecules fluoresce in sunlight. Reflecting the sunlight, dust from comet Machholz trails along the comet's orbit and forms the whitish tail jutting down and toward the right. While the visible coma spans about 500,000 kilometers, the nucleus of the comet, likely only a few kilometers across, lies hidden within. Comet tails can extend many millions of kilometers from the nucleus, but appear substantially shortened because of perspective.
+

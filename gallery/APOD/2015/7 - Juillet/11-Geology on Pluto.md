@@ -1,0 +1,10 @@
+Geology on Pluto,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1507/Pluto02_NewHorizons_1080.jpg)](https://apod.nasa.gov/apod/image/1507/Pluto02_NewHorizons_2000.jpg)
+
+Copyright: No copyright, 
+
+Date: 2015-07-11,
+
+Explanation: Pluto is coming into focus.  As the robotic New Horizons spacecraft bears down on this unexplored world of the distant Solar System, new features on its surface are becoming evident. In the displayed image taken last Thursday and released yesterday, an unusual polygonal structure roughly 200 kilometers wide is visible on the left, while just below it relatively complex terrain runs diagonally across the dwarf planet.  New Horizon's images and data on these structures will likely be studied for years to come in an effort to better understand the geologic history of Pluto and our Solar System.  After suffering a troublesome glitch last week, New Horizons will make its historic flyby of Pluto and its moons on Tuesday.   Pluto flyby updates: #PlutoFlyby, Twitter, Facebook, Web
+

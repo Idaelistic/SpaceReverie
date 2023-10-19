@@ -1,0 +1,12 @@
+The Keyhole Nebula,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9801/keyhole_noao.jpg)](https://apod.nasa.gov/apod/image/9801/keyhole_noao.jpg)
+
+Copyright: 
+AURA, all rights reserved.
+, 
+
+Date: 1998-01-12,
+
+Explanation: The dark dusty Keyhole Nebula gets its name from its unusual shape. Officially designated NGC 3324, the Keyhole Nebula is a smaller region superposed on the larger Eta Carina Nebula. These nebulae were created by the dying star Eta Carina, which is prone to violent outbursts during its final centuries.  Noted and discussed as early as 1840 when a spectacular explosion became visible, the Eta Carina system now appears to be undergoing an unusual period of change. An emission nebula that contains much dust, the Keyhole Nebula is roughly 9,000 light years distant. This photogenic nebula can be seen in the south with even a small telescope. The Keyhole Nebula was recently discovered to contain highly structured clouds of molecular gas.
+

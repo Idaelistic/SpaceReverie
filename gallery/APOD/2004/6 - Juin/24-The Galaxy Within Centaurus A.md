@@ -1,0 +1,10 @@
+The Galaxy Within Centaurus A,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0406/cena_spitzer_c1.jpg)](https://apod.nasa.gov/apod/image/0406/cena_spitzer_full.jpg)
+
+Copyright: No copyright, 
+
+Date: 2004-06-24,
+
+Explanation: Peering deep inside Centaurus A, the closest active galaxy to Earth, the Spitzer Space Telescope's penetrating infrared cameras recorded this startling vista. About 1,000 light-years across, the twisted cosmic dust cloud apparently shaped like a parallelogram is likely the result of a smaller spiral galaxy falling into the giant Centaurus A. The parallelogram lies along the active galaxy's central band of dust and stars visible in more familiar optical images. Astronomers believe that the striking geometric shape represents an approximately edge-on view of the infalling spiral galaxy's disk in the process of being twisted and warped by the interaction. Ultimately, debris from the ill-fated spiral galaxy should provide fuel for the supermassive black hole lurking at the center of Centaurus A.
+

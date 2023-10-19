@@ -1,0 +1,10 @@
+Comet Hyakutake's Orbit,
+
+[![Build Status](https://apod.nasa.gov/apod/image/hyakutake_sep.gif)](https://apod.nasa.gov/apod/image/hyakutake_sep_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-03-14,
+
+Explanation: Where did Comet Hyakutake come from? The orbits of the Earth and this brightening comet are shown in the above diagram. The blue disk is bounded by the circular orbit of the Earth about the central Sun. The comet's path outlines the green shape. The shape of the comet's orbit is close to a parabola. The comet has come in from the outer Solar System, will pass near the Earth in late March, and pass near the Sun in late April.  Comet Hyakutake will appear bright in late March because it is so close to the Earth, and will again appear bright in late April because it is so close to the Sun. In late March, the comet will be "north" of the Earth and so only visible in the Northern hemisphere. Information about how to see Comet Hyakutake is available from many University astronomy departments and planetaria.  Information: The Scale of the Universe Debate in April 1996
+

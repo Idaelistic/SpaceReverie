@@ -1,0 +1,10 @@
+Saturn and the Da Vinci Glow,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1905/20190202tezel_1024.jpg)](https://apod.nasa.gov/apod/image/1905/20190202tezel.jpg)
+
+Copyright: Tunc Tezel, 
+
+Date: 2019-05-04,
+
+Explanation: On February 2nd early morning risers saw Saturn near an old Moon low on the eastern horizon. On that date bright planet, sunlit crescent, and faint lunar night side were captured in this predawn skyscape from Bursa, Turkey. Of course the Moon's ashen glow is earthshine, earthlight reflected from the Moon's night side. A description of earthshine, in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface, was written over 500 years ago by Leonardo da Vinci. On May 2nd an old Moon also rose in the predawn twilight. On that date its ashen glow shared the sky with Venus, the brilliant morning star. May 2nd also marked the 500th anniversary of Leonardo's death in 1519.
+

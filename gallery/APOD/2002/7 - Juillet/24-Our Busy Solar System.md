@@ -1,0 +1,15 @@
+Our Busy Solar System,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0207/innersolsys_cfa.gif)](https://apod.nasa.gov/apod/image/0207/innersolsys_cfa_big.gif)
+
+Copyright: 
+MPC, 
+CBAT, 
+Harvard CfA, 
+IAU
+, 
+
+Date: 2002-07-24,
+
+Explanation: Our Solar System is a busy place.  Although the major planets get the most press, a swarm of rocks, comets, and asteroids also exist. The above plot shows the placement of known inner Solar System objects on 2002 July 20.  The light blue lines indicate the orbits of planets.  The green dots indicate asteroids, officially known as minor planets.  The red dots indicate asteroids that come within 1.3 Earth-Sun distances (AU) of the Sun and so pose an increased (although small) collision risk with the Earth.   Comets appear as dark blue squares, while dark blue points are Jupiter Trojans, asteroids that orbit just ahead of, or just behind Jupiter.  Note that most asteroids of the inner Solar System orbit between Mars and Jupiter in the main asteroid belt.  Every day this plot shifts with objects nearer the Sun typically shifting the most.  The current locations of these objects can be found here.
+

@@ -1,0 +1,12 @@
+The Mysterious Cone Nebula,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0201/cone_gendler.jpg)](https://apod.nasa.gov/apod/image/0201/cone_gendler_big.jpg)
+
+Copyright: 
+Robert Gendler
+, 
+
+Date: 2002-01-07,
+
+Explanation: Sometimes the simplest shapes are the hardest to explain.  For example, the origin of the mysterious cone-shaped region seen on the far left remains a mystery.   The interstellar formation, dubbed the Cone Nebula, is located about 2700 light years away. Other features in the image include red emission from diffuse interstellar hydrogen, wispy filaments of dark dust, and bright star S Monocerotis, visible on the far right.  Blue reflection nebulae surround the brighter stars.  The dark Cone Nebula region clearly contains much dust which blocks light from the emission nebula and open cluster NGC 2264 behind it.  One hypothesis holds that the Cone Nebula is formed by wind particles from an energetic source blowing past the Bok Globule at the head of the cone.
+

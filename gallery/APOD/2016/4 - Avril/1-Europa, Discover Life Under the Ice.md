@@ -1,0 +1,10 @@
+Europa: Discover Life Under the Ice,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1604/europa1024c.jpg)](https://apod.nasa.gov/apod/image/1604/europa4500.jpg)
+
+Copyright: No copyright, 
+
+Date: 2016-04-01,
+
+Explanation: Looking for an interplanetary vacation destination? Consider a visit to Europa, one of the Solar System's most tantalizing moons. Ice-covered Europa follows an elliptical path in its 85 hour orbit around our ruling gas giant Jupiter. Heat generated from strong tidal flexing by Jupiter's gravity keeps Europa's salty subsurface ocean liquid all year round. That also means even in the absence of sunlight Europa has energy that could support simple life forms. Unfortunately, it is currently not possible to make reservations at restaurants on Europa, where you might enjoy a dish of the local extreme shrimp. But you can always choose another destination from Visions of the Future.
+

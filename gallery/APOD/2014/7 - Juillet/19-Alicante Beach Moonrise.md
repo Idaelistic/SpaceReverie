@@ -1,0 +1,11 @@
+Alicante Beach Moonrise,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1407/MoonAlicante_Gonzalez1024.jpg)](https://apod.nasa.gov/apod/image/1407/MoonAlicante_Gonzalez.jpg)
+
+Copyright: 
+José Carlos González, 
+
+Date: 2014-07-19,
+
+Explanation: In this beach and skyscape from Alicante, Spain, July's Full Moon shines in the dark blue twilight, its reflection coloring the Mediterranean waters. Near the horizon, the moonlight is reddened by its long path through the atmosphere, but this Full Moon was also near perigee, the closest point to Earth along the Moon's elliptical orbit. That made it a Supermoon, a mighty 14% larger and 30% brighter than a Full Moon at apogee, the Moon's farthest orbital swing. Of course, most warm summer nights are a good time to enjoy a family meal oceanside, but what fish do you catch on the night of a Supermoon? They must be Moon breams ...
+

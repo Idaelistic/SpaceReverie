@@ -1,0 +1,10 @@
+South of Orion,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0804/HH34F3_schedler_c800.jpg)](https://apod.nasa.gov/apod/image/0804/HH34F3_schedler.jpg)
+
+Copyright: Panther Observatory, 
+
+Date: 2008-04-03,
+
+Explanation: This tantalizing array of nebulae and stars can be found about 2 degrees south of the famous star-forming Orion Nebula. The region abounds with energetic young stars producing jets and outflows that push through the surrounding material at speeds of hundreds of kilometers per second. The interaction creates luminous shock waves known as Herbig-Haro (HH) objects. For example, the graceful, flowing arc just right of center is cataloged as HH 222, also called the Waterfall Nebula. Seen below the Waterfall, HH 401 has a distinctive cone shape. The bright bluish nebula below and left of center is NGC 1999, a dusty cloud reflecting light from an embedded variable star. The entire cosmic vista spans over 30 light-years, near the edge of the Orion molecular cloud complex some 1,500 light-years distant.
+

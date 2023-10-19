@@ -1,0 +1,11 @@
+Alnitak, Alnilam, Mintaka,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1101/MosaicCintOrio_martinez900.jpg)](https://apod.nasa.gov/apod/image/1101/MosaicCintOrio_martinez.jpg)
+
+Copyright: Sergi Verdugo
+Martínez, 
+
+Date: 2011-01-21,
+
+Explanation: Alnitak, Alnilam, and Mintaka, are the bright bluish stars from east to west (left to right) along the diagonal in this gorgeous cosmic vista. Otherwise known as the Belt of Orion, these three blue supergiant stars are hotter and much more massive than the Sun. They lie about 1,500 light-years away, born of Orion's well-studied interstellar clouds. In fact, clouds of gas and dust adrift in this region have intriguing and some surprisingly familiar shapes, including the dark Horsehead Nebula and Flame Nebula near Alnitak at the lower left. The famous Orion Nebula itself lies off the bottom of this colorful star field. Recorded last December with a modified digital SLR camera and small telescope, the well-planned, two frame mosaic spans about 4 degrees on the sky.
+

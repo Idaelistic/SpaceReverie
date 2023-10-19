@@ -1,0 +1,12 @@
+1998 Leonid Fireball,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9911/leonid_lorenzo_1.jpg)](https://apod.nasa.gov/apod/image/9911/leonid_lorenzo_1.jpg)
+
+Copyright: 
+Lorenzo Lovato
+, 
+
+Date: 1999-11-12,
+
+Explanation: Will this be the year? Last year's Leonid meteor shower did not produce the meteor storm many had hoped for. Still, it put on a dazzling show with many bright fireball meteors. For example, this Leonid fireball, photographed through light clouds, eerily flashed across the skies of Monteromano, Italy on November 17, 1998. This year, the chances for a storm with thousands of meteors per hour are considered good ... but experts are quick to acknowledge that such predictions are tricky. Want to see for yourself? The predicted peak should occur on early Thursday, November 18 (UTC) but meteor activity will certainly be observable days before and after. If the night is clear, just grab a lawn chair and a warm jacket, go outside and look up!
+

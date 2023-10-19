@@ -1,0 +1,15 @@
+The Milky Way Near the Southern Cross,
+
+[![Build Status](https://apod.nasa.gov/apod/image/southerncross_gb.gif)](https://apod.nasa.gov/apod/image/southerncross_gb.gif)
+
+Copyright: 
+Greg
+Bock, Courtesy 
+Southern
+Astronomical Society
+, 
+
+Date: 1996-05-03,
+
+Explanation: This breathtaking patch of sky would be above you were you to stand at the south pole of the Earth. Just above and to the right of the photograph's center are the four stars that mark the boundaries of the famous Southern Cross.  At the top of this constellation, also known as "The Crux," is the orange star Gamma Crucis. The band of stars, dust, and gas crossing the middle of the photograph is part our Milky Way Galaxy.  In the very center of the photograph is the dark Coal Sack Nebula, and the bright nebula on the far right is the Eta Carina Nebula. The southern cross is so famous a constellation that it is depicted on the Australian National Flag.
+

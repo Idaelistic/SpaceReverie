@@ -1,0 +1,10 @@
+The Bubble Nebula from NOAO,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0306/ngc7635_noao.jpg)](https://apod.nasa.gov/apod/image/0306/ngc7635_noao_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2003-06-17,
+
+Explanation: It's the bubble versus the cloud.  NGC 7635, the Bubble Nebula, is being pushed out by the stellar wind of massive central star BD+602522.  Next door, though, lives a giant molecular cloud, visible above to the lower right.  At this place in space, an irresistible force meets an immovable object in an interesting way.  The cloud is able to contain the expansion of the bubble gas, but gets blasted by the hot radiation from the bubble's central star.  The radiation heats up dense regions of the molecular cloud causing it to glow.  The Bubble Nebula, pictured above as a color negative to help bring up contrast, is about 10 light-years across and part of a much larger complex of stars and shells.  The Bubble Nebula can be seen with a small telescope towards the constellation of Cassiopeia.
+

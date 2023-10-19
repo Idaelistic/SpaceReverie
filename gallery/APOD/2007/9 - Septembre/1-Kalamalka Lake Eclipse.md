@@ -1,0 +1,12 @@
+Kalamalka Lake Eclipse,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0709/Yuichi-Takasaka2_750.jpg)](https://apod.nasa.gov/apod/image/0709/Yuichi-Takasaka2.jpg)
+
+Copyright: 
+Yuichi Takasaka
+, 
+
+Date: 2007-09-01,
+
+Explanation: Recorded on August 28th, this serene total lunar eclipse sequence looks southwest down Kalamalka Lake toward the lights of Coldstream, British Columbia. An exposure every 4 minutes captured the Moon's position and eclipse phase, until the Moon set behind the town lights and a hill on the horizon. In fact, the sequence effectively measures the duration of the total phase of the eclipse. Around 270 BC, the Greek astronomer Aristarchus also measured the duration of lunar eclipses - though probably without the benefit of digital clocks and cameras. Still, using geometry, he devised a simple and impressively accurate way to calculate the Moon's distance, in terms of the radius of planet Earth, from the eclipse duration.
+

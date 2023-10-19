@@ -1,0 +1,10 @@
+Dark Clouds in Aquila,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1206/ldn673s_block1123.jpg)](https://apod.nasa.gov/apod/image/1206/ldn673s_block.jpg)
+
+Copyright: Adam Block, 
+
+Date: 2012-06-29,
+
+Explanation: Part of a dark expanse that splits the crowded plane of our Milky Way galaxy, the Aquila Rift arcs through the northern hemisphere's summer skies near bright star Altair and the Summer Triangle. In silhouette against the Milky Way's faint starlight, its dusty molecular clouds likely contain raw material to form hundreds of thousands of stars and astronomers eagerly search the clouds for telltale signs of star birth. This telescopic close-up looks toward the region at a fragmented Aquila dark cloud complex identified as LDN 673, stretching across a field of view slightly wider than the full moon. In the scene, visible indications of energetic outflows associated with young stars include the small red tinted nebulosity RNO 109 at top left and Herbig-Haro object HH32 above and right of center. The dark clouds in Aquila are estimated to be some 600 light-years away.  At that distance, this field of view spans about 7 light-years.
+

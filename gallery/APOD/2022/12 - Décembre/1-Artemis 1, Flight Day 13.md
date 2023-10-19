@@ -1,0 +1,10 @@
+Artemis 1: Flight Day 13,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2212/art001e000672-orig1024c.jpg)](https://apod.nasa.gov/apod/image/2212/art001e000672-orig.jpg)
+
+Copyright: No copyright, 
+
+Date: 2022-12-01,
+
+Explanation: On flight day 13 (November 28) of the Artemis 1 mission the Orion spacecraft reached its maximum distance from Earth. In fact, over 430,000 kilometers from Earth its distant retrograde orbit also put Orion nearly 70,000 kilometers from the Moon. In the same field of view in this video frame from flight day 13, planet and large natural satellite even appear about the same apparent size from the uncrewed spacecraft's perspective. Today (December 1) should see Orion depart its distant retrograde orbit. En route to planet Earth it will head toward a second powered fly by of the Moon. Splashdown on the home world is expected on December 11.
+

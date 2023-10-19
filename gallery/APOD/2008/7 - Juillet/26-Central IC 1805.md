@@ -1,0 +1,10 @@
+Central IC 1805,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0807/IC1805_kbqVersion4_c800.jpg)](https://apod.nasa.gov/apod/image/0807/IC1805_kbqVersion4.jpg)
+
+Copyright: Keith Quattrocchi, 
+
+Date: 2008-07-26,
+
+Explanation: Cosmic clouds seem to form fantastic shapes in the central regions of emission nebula IC 1805. Of course, the clouds are sculpted by stellar winds and radiation from massive hot stars in the nebula's newborn star cluster (aka Melotte 15). About 1.5 million years young, the cluster stars appear on the right in this colorful skyscape, along with dark dust clouds silhouetted against glowing atomic gas. A composite of narrow and broad band telescopic images, the view spans about 15 light-years and includes emission from hydrogen in green, sulfur in red, and oxygen in blue hues. Wider field images reveal that IC 1805's simpler, overall outline suggests its popular name - The Heart Nebula. IC 1805 is located about 7,500 light years away toward the constellation Cassiopeia.
+

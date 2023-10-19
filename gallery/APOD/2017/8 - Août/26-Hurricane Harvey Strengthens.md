@@ -1,0 +1,10 @@
+Hurricane Harvey Strengthens,
+
+## Vidéo: https://www.youtube.com/embed/vX4cf19h7iA?rel=0, 
+
+Copyright: No copyright, 
+
+Date: 2017-08-26,
+
+Explanation: A large and dangerous hurricane has developed in the Gulf of Mexico.  The featured time-lapse video shows Hurricane Harvey growing to Category 4 strength over the past few days, as captured by NASA and NOAA's GOES-East satellite. Starting as a slight dip in air pressure, hurricanes swell into expansive spiraling storm systems, complete with high winds and driving rain.  Hurricanes are powered by evaporating ocean water, and so typically gain strength over warm water and lose strength over land.  Much remains unknown about hurricanes and cyclones, including details of how they are formed and the exact path they will take. Hurricane Harvey, accompanied by a dangerous storm surge, made landfall late yesterday in Texas.
+

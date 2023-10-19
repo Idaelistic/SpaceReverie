@@ -1,0 +1,10 @@
+Yutu 2 on the Farside,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1901/Jan3yutu2CNSA1024.jpg)](https://apod.nasa.gov/apod/image/1901/Jan3yutu2CNSA.jpg)
+
+Copyright: No copyright, 
+
+Date: 2019-01-05,
+
+Explanation: On January 3, the Chinese Chang'e-4 spacecraft made the first successful landing on the Moon's farside. Taken by a camera on board the lander, this image is from the landing site inside Von Karman crater. It shows the desk-sized, six-wheeled Yutu 2 (Jade Rabbit 2) rover as it rolled down lander ramps and across the surface near local sunrise and the start of the two week long lunar day. Ripe for exploration, Von Karman crater itself is 186 kilometers in diameter. It lies within the Moon's old and deep South Pole-Aitken impact basin with some of the most ancient and least understood lunar terrains. To bridge communications from the normally hidden hemisphere of the Moon, China launched a relay satellite, Queqiao, in May of 2018 in to an orbit beyond the lunar farside.
+

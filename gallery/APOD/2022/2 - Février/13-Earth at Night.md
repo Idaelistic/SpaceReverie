@@ -1,0 +1,10 @@
+Earth at Night,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2202/EarthAtNight2016_SuomiNPP_1080.jpg)](https://apod.nasa.gov/apod/image/2202/EarthAtNight2016_SuomiNPP_13500.jpg)
+
+Copyright: No copyright, 
+
+Date: 2022-02-13,
+
+Explanation: This is what the Earth looks like at night.  Can you find your favorite country or city?  Surprisingly, city lights make this task quite possible.  Human-made lights highlight particularly developed or populated areas of the Earth's surface, including the seaboards of Europe, the eastern United States, and Japan.  Many large cities are located near rivers or oceans so that they can exchange goods cheaply by boat.  Particularly dark areas include the central parts of South America, Africa, Asia, and Australia. The featured image, nicknamed Black Marble, is actually a composite of hundreds of pictures remade in 2016 from data taken by the orbiting Suomi NPP satellite.
+

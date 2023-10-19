@@ -1,0 +1,10 @@
+The 76 Meter Lovell Radio Telescope,
+
+[![Build Status](https://apod.nasa.gov/apod/image/lovell_jod.gif)](https://apod.nasa.gov/apod/image/lovell_jod_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-03-08,
+
+Explanation: Jodrell Bank in England is the home of the Lovell Telescope one of the largest radio telescopes in the world. Completed in 1957 under the direction of Bernard Lovell, the 250 ft. diameter dish was the largest steerable radio telescope. The telescope has been used to monitor extremely faint radio emissions from space, including the transmissions of the Pioneer spacecraft in the distant Solar System. The telescope has been used in many astronomical investigations, including the determination of structure in local interstellar gas, searches for pulsars, determining molecular abundances towards the Galactic center, and mapping hydrogen emission in galaxies. Currently, the telescope is not really for sale.   Information: The Scale of the Universe Debate in April 1996
+

@@ -1,0 +1,10 @@
+Lunar Close-Up,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9902/esomoon_close.jpg)](https://apod.nasa.gov/apod/image/9902/esomoon_close_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1999-02-12,
+
+Explanation: Late last month, NASA's Lunar Prospector spacecraft moved in for a closer look at the Moon. Now entering an extended mission phase, controllers have reduced the altitude of this polar lunar orbiter from 100 kilometers to about 30 kilometers (18 miles). Having mapped global properties and recorded evidence for water-ice at the lunar poles, the lower orbit allows Prospector's instruments to gather valuable confirming data at higher resolutions. The new orbit is not without some risk, though, and maneuvers are required every 28 days to maintain it. Should the maneuvers fail to be performed, the spacecraft would impact the surface only two days later. This lunar close-up was recorded by the European Southern Observatory's new WFI camera. It shows dramatic shadows and contrasting terrain near the prominent Gassendi crater at the northern edge of the Moon's Mare Humorum.
+

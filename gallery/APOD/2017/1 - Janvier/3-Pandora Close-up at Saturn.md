@@ -1,0 +1,10 @@
+Pandora Close-up at Saturn,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1701/pandora_cassini_960.jpg)](https://apod.nasa.gov/apod/image/1701/pandora_cassini_501.jpg)
+
+Copyright: No copyright, 
+
+Date: 2017-01-03,
+
+Explanation: What do the craters of Saturn's small moon Pandora look like up close?  To help find out, NASA sent the robotic Cassini spacecraft, now orbiting Saturn, past the unusual moon two weeks ago. The highest resolution image of Pandora ever taken was then captured from about 40,000 kilometers out and is featured here.  Structures as small as 300 meters can be discerned on 80-kilometer wide Pandora.  Craters on Pandora appear to be covered over by some sort of material, providing a more smooth appearance than sponge-like Hyperion, another small moon of Saturn.  Curious grooves and ridges also appear to cross the surface of the small moon.  Pandora is partly interesting because, along with its companion moon Prometheus, it helps shepherd the particles of Saturn's F ring into a distinct ring.
+

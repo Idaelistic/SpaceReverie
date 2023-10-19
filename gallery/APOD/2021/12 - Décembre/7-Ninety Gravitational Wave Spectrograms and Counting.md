@@ -1,0 +1,10 @@
+Ninety Gravitational Wave Spectrograms and Counting,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2112/GWaveCatalog_LigoVirgo_1080.jpg)](https://apod.nasa.gov/apod/image/2112/GWaveCatalog_LigoVirgo_5692.jpg)
+
+Copyright: No copyright, 
+
+Date: 2021-12-07,
+
+Explanation: very time two massive black holes collide, a loud chirping sound is broadcast out into the universe in gravitational waves. Humanity has only had the technology to hear these unusual chirps for the past seven years, but since then we have heard about 90 -- during the first three observing runs. Featured above are the spectrograms -- plots of gravitational-wave frequency versus time -- of these 90 as detected by the giant detectors of LIGO (in the USA), VIRGO (in Europe), and KAGRA (in Japan). The more energy received on Earth from a collision, the brighter it appears on the graphic. Among many science firsts, these gravitational-radiation chirps are giving humanity an unprecedented inventory of black holes and neutron stars, and a new way to measure the expansion rate of our universe. A fourth gravitational wave observing run with increased sensitivity is currently planned to begin in 2022 December.
+

@@ -1,0 +1,10 @@
+Starburst Cluster in NGC 3603,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1611/ngc3603_hubble_960.jpg)](https://apod.nasa.gov/apod/image/1611/ngc3603_hubble_3885.jpg)
+
+Copyright: No copyright, 
+
+Date: 2016-11-06,
+
+Explanation: A mere 20,000 light-years from the Sun lies NGC 3603, a resident of the nearby Carina spiral arm of our Milky Way Galaxy. NGC 3603 is well known to astronomers as one of the Milky Way's largest star-forming regions. The central open star cluster contains thousands of stars more massive than our Sun, stars that likely formed only one or two million years ago in a single burst of star formation. In fact, nearby NGC 3603 is thought to contain a convenient example of the massive star clusters that populate much more distant starburst galaxies. Surrounding the cluster are natal clouds of glowing interstellar gas and obscuring dust, sculpted by energetic stellar radiation and winds. Recorded by the Hubble Space Telescope, the image spans about 17 light-years.   Follow APOD on: Facebook,  Google Plus,  Instagram, or Twitter
+

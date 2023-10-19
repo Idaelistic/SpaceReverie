@@ -1,0 +1,11 @@
+Discovery Departs,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1204/Discovery_Smithsonian_VABcooper900.jpg)](https://apod.nasa.gov/apod/image/1204/Discovery_Smithsonian_VABcooper.jpg)
+
+Copyright: Ben
+Cooper, 
+
+Date: 2012-04-19,
+
+Explanation: Climbing into cloudy skies, the Space Shuttle Orbiter Discovery (OV-103) took off from Kennedy Space Center Tuesday at 7 am local time. This time, its final departure from KSC, it rode atop a modified Boeing 747 Shuttle Carrier Aircraft. Following a farewell flyover of the Space Coast, Goddard Space Flight Center, and Washington DC, Discovery headed for Dulles International Airport in Virginia, destined to reside at the Smithsonian's National Air and Space Museum Udvar-Hazy Center. Discovery retires as NASA's most traveled shuttle orbiter, covering more than 148 million miles in 39 missions that included the delivery of the Hubble Space Telescope to orbit. Operational from 1984 through 2011, Discovery spent a total of one year in space.
+

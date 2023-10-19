@@ -1,0 +1,12 @@
+Eagle Aurora over Norway,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1610/eagleaurora_jorgensen_900.jpg)](https://apod.nasa.gov/apod/image/1610/eagleaurora_jorgensen_900.jpg)
+
+Copyright: 
+Bj�rn J�rgensen
+, 
+
+Date: 2016-10-23,
+
+Explanation: What's that in the sky? An aurora. A large coronal mass ejection occurred on our Sun five days before this 2012 image was taken, throwing a cloud of fast moving electrons, protons, and ions toward the Earth. Although most of this cloud passed above the Earth, some of it impacted our Earth's magnetosphere and resulted in spectacular auroras being seen at high northern latitudes. Featured here is a particularly photogenic auroral corona captured above Grotfjord, Norway. To some, this shimmering green glow of recombining atmospheric oxygen might appear as a large eagle, but feel free to share what it looks like to you.  Although now past Solar Maximum, our Sun continues to show occasional activity creating impressive auroras on Earth visible only last week.   Follow APOD on: Facebook,  Google Plus,  Instagram, or Twitter
+

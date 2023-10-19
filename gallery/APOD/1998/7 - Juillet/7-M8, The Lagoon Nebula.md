@@ -1,0 +1,15 @@
+M8: The Lagoon Nebula,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9807/m8_dfm.jpg)](https://apod.nasa.gov/apod/image/9807/m8_dfm_big.jpg)
+
+Copyright: D. Malin 
+(AAO),
+AATB, 
+ROE,
+UKS Telescope
+, 
+
+Date: 1998-07-07,
+
+Explanation: The bright Lagoon Nebula is home to a diverse array of astronomical objects.  Particularly interesting sources include a bright open cluster of stars and several energetic star-forming regions.  The general red glow is caused by luminous hydrogen gas, while the dark filaments are caused by absorption by dense lanes of dust. The Lagoon Nebula, also known as M8 and NGC 6523, lies about 5000 light-years away.  The Lagoon Nebula can be located with binoculars in the constellation of Sagittarius spanning a region over three times the diameter of a full Moon.
+

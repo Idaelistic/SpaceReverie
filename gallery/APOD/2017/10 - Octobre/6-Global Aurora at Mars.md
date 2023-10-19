@@ -1,0 +1,10 @@
+Global Aurora at Mars,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1710/pia21855-16c1024.jpg)](https://apod.nasa.gov/apod/image/1710/pia21855-16.jpg)
+
+Copyright: No copyright, 
+
+Date: 2017-10-06,
+
+Explanation: A strong solar event last month triggered intense global aurora at Mars. Before (left) and during (right) the solar storm, these projections show the sudden increase in ultraviolet emission from martian aurora, more than 25 times brighter than auroral emission previously detected by the orbiting MAVEN spacecraft. With a sunlit crescent toward the right, data from MAVEN's ultraviolet imaging spectrograph is shown in purple hues on the night side of Mars globes simulated to match the observation dates and times. On Mars, solar storms can result in planet-wide aurora because, unlike Earth, the Red Planet isn't protected by a strong global magnetic field that can funnel energetic charged particles toward the poles. For all those on the planet's surface during the solar storm, dangerous radiation levels were double any previously measured by the Curiosity rover. MAVEN is studying whether Mars lost its atmosphere due to its lack of a global magnetic field.
+

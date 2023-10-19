@@ -1,0 +1,13 @@
+Lightning Eclipse from the Planet of the Goats,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1707/LightningEclipse_Kotsiopoulos_960.jpg)](https://apod.nasa.gov/apod/image/1707/LightningEclipse_Kotsiopoulos_960.jpg)
+
+Copyright: 
+Chris Kotsiopoulos
+(GreekSky) 
+, 
+
+Date: 2017-07-16,
+
+Explanation: Thunderstorms almost spoiled this view of the spectacular 2011 June 15 total lunar eclipse. Instead, storm clouds parted for 10 minutes during the total eclipse phase and lightning bolts contributed to the dramatic sky. Captured with a 30-second exposure the scene also inspired one of the more memorable titles (thanks to the astrophotographer) in APOD's now 22-year history.  Of course, the lightning reference clearly makes sense, and the shadow play of the dark lunar eclipse was widely viewed across planet Earth in Europe, Africa, Asia, and Australia. The picture itself, however, was shot from the Greek island of Ikaria at Pezi. That area is known as "the planet of the goats" because of the rough terrain and strange looking rocks.    Details: Total Solar Eclipse on 2017 August 21
+

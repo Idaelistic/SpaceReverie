@@ -1,0 +1,10 @@
+Mars Engulfed,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1806/MarsDustStorm_Hubble_1080.jpg)](https://apod.nasa.gov/apod/image/1806/MarsDustStorm_Hubble_3000.jpg)
+
+Copyright: No copyright, 
+
+Date: 2018-06-17,
+
+Explanation: What's happened to Mars? In 2001, Mars underwent a tremendous planet-wide dust storm -- one of the largest ever recorded from Earth. To show the extent, these two Hubble Space Telescope storm watch images from late June and early September (2001) offer dramatically contrasting views of the martian surface. At left, the onset of smaller "seed" storms can be seen near the Hellas basin (lower right edge of Mars) and the northern polar cap. A similar surface view at right, taken over two months later, shows the fully developed extent of the obscuring global storm. Although this storm eventually waned, in recent days a new large dust storm has been taking hold of the red planet.
+

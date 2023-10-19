@@ -1,0 +1,13 @@
+M45: The Pleiades Star Cluster,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0812/pleiades_jones.jpg)](https://apod.nasa.gov/apod/image/0812/pleiades_jones_big.jpg)
+
+Copyright: 
+Phillip L. Jones
+VisualUniverse.org
+, 
+
+Date: 2008-12-09,
+
+Explanation: Perhaps the most famous star cluster on the sky, the Pleiades can be seen without binoculars from even the depths of a light-polluted city.  Also known as the Seven Sisters and M45, the Pleiades is one of the brightest and closest open clusters.   The Pleiades contains over 3,000 stars, is about 400 light years away, and only 13 light years across.  A prominent telescope and car company has borrowed the star cluster's name. Quite evident in the above photograph are the blue reflection nebulae that surround the brighter cluster stars.  Low mass, faint, brown dwarfs have also been found in the Pleiades.
+

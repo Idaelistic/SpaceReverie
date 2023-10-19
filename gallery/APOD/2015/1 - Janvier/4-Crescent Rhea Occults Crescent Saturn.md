@@ -1,0 +1,10 @@
+Crescent Rhea Occults Crescent Saturn,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1501/saturnrhea_cassini_960.jpg)](https://apod.nasa.gov/apod/image/1501/saturnrhea_cassini_980.jpg)
+
+Copyright: No copyright, 
+
+Date: 2015-01-04,
+
+Explanation: Soft hues, partially lit orbs, a thin trace of the ring, and slight shadows highlight this understated view of the majestic surroundings of the giant planet Saturn.  Looking nearly back toward the Sun, the robot Cassini spacecraft now orbiting Saturn captured crescent phases of Saturn and its moon Rhea in color a few years ago. As striking as the above image is, it is but a single frame from a 60-frame silent movie where Rhea can be seen gliding in front of its parent world.   Since Cassini was nearly in the plane of Saturn's rings, the normally impressive rings are visible here only as a thin line across the image center.
+

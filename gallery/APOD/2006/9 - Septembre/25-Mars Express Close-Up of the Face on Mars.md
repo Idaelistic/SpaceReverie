@@ -1,0 +1,10 @@
+Mars Express Close-Up of the Face on Mars,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0609/face2_marsexpress.jpg)](https://apod.nasa.gov/apod/image/0609/face2_marsexpress_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2006-09-25,
+
+Explanation: Wouldn't it be fun if clouds were turtles?  Wouldn't it be fun if the laundry on the bedroom chair was a friendly  monster?  Wouldn't it be fun if rock mesas on Mars were faces or interplanetary monuments?  Clouds, though, are small water droplets, floating on air.  Laundry is cotton, wool, or plastic, woven into garments.  Famous Martian rock mesas known by names like the Face on Mars appear quite natural when seen more clearly, as the above recently-released digital-perspective image shows.  Is reality boring?  Nobody knows how clouds make lightning.  Nobody knows the geological history of Mars.  Nobody knows why the laundry on the bedroom chair smells like root beer.   Understanding reality brings more questions.  Mystery and adventure are never far behind.  Perhaps fun and  discovery are  just beginning.
+

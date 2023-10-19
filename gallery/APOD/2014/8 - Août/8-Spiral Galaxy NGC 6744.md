@@ -1,0 +1,10 @@
+Spiral Galaxy NGC 6744,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1408/NGC6744goldman950.jpg)](https://apod.nasa.gov/apod/image/1408/NGC6744goldman.jpg)
+
+Copyright: Don Goldman, 
+
+Date: 2014-08-08,
+
+Explanation: Big, beautiful spiral galaxy NGC 6744 is nearly 175,000 light-years across, larger than our own Milky Way. It lies some 30 million light-years distant in the southern constellation Pavo. We see the disk of the nearby island universe tilted towards our line of sight. Orientation and composition give a strong sense of depth to this colorful galaxy portrait that covers an area about the angular size of the full moon. This giant galaxy's yellowish core is dominated by the light from old, cool stars. Beyond the core, spiral arms filled with young blue star clusters and pinkish star forming regions sweep past a smaller satellite galaxy at the lower left, reminiscent of the Milky Way's satellite galaxy the Large Magellanic Cloud.
+

@@ -1,0 +1,12 @@
+AZURE Vapor Tracers over Norway,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1904/AzurePlumesNorway_Sutie_960.jpg)](https://apod.nasa.gov/apod/image/1904/AzurePlumesNorway_Sutie_4242.jpg)
+
+Copyright: 
+Yang Sutie
+, 
+
+Date: 2019-04-08,
+
+Explanation: What's happening in the sky? The atmosphere over northern Norway appeared quite strange for about 30 minutes last Friday when colorful clouds, dots, and plumes suddenly appeared. The colors were actually created by the NASA-funded Auroral Zone Upwelling Rocket Experiment (AZURE) which dispersed gas tracers to probe winds in Earth's upper atmosphere. AZURE's tracers originated from two short-lived sounding rockets launched from the And�ya Space Center in Norway. The harmless gases, trimethylaluminum and a barium/strontium mixture, were released into the ionosphere at altitudes of 115 and 250 km.  The vapor trails were observed dispersing from several ground stations. Mapping how AZURE's vapors dispersed should increase humanity's understanding of how the solar wind transfers energy to the Earth and powers aurora.
+

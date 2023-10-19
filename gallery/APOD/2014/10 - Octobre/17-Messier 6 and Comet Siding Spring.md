@@ -1,0 +1,10 @@
+Messier 6 and Comet Siding Spring,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1410/M6SidingSpringLigustri950.jpg)](https://apod.nasa.gov/apod/image/1410/M6SidingSpringLigustri.jpg)
+
+Copyright: CARA Project, 
+
+Date: 2014-10-17,
+
+Explanation: This looks like a near miss but the greenish coma and tail of Comet Siding Spring (C/2013 A1) are really 2,000 light-years or so away from the stars of open cluster Messier 6. They do appear close together though, along the same line-of-sight in this gorgeous October 9th skyscape toward the constellation Scorpius. Still, on Sunday, October 19th this comet really will be involved in a near miss, passing within only 139,500 kilometers of planet Mars. That's about 10 times closer than any known comet flyby of planet Earth, and nearly one third the Earth-Moon distance. While an impact with the nucleus is not a threat the comet's dust, moving with a speed of about 56 kilometers per second relative to the Red Planet, and outskirts of its gaseous coma could interact with the thin Martian atmosphere. Of course, the comet's close encounter will be followed intently by spacecraft in Martian orbit and rovers on the surface.
+

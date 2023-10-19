@@ -1,0 +1,12 @@
+Aurora Over Cape Cod,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0307/auroracape_cook.jpg)](https://apod.nasa.gov/apod/image/0307/auroracape_cook_big.jpg)
+
+Copyright: 
+Chris Cook
+, 
+
+Date: 2003-07-02,
+
+Explanation: Active pillars of colorful aurora were captured dancing over a serenely smooth and nearly colorless Cape Cod Bay last month.   North is straight ahead so that the town lights near the center originate from Provincetown, Massachusetts, USA.  The unusual red colors in the aurora slightly reflect off the ocean inlet.  Several familiar constellations are visible in the sky, including the famous stellar W of Cassiopeia on the far right.
+

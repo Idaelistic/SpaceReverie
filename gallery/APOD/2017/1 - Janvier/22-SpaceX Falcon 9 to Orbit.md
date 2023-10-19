@@ -1,0 +1,13 @@
+SpaceX Falcon 9 to Orbit,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1701/SpaceXLaunch_Shortt_960.jpg)](https://apod.nasa.gov/apod/image/1701/SpaceXLaunch_Shortt_3528.jpg)
+
+Copyright: 
+Tim Shortt, 
+Florida Today
+, 
+
+Date: 2017-01-22,
+
+Explanation: Birds don't fly this high.  Airplanes don't go this fast.  The Statue of Liberty weighs less.  No species other than human can even comprehend what is going on, nor could any human just a millennium ago. The launch of a rocket bound for space is an event that inspires awe and challenges description.  Pictured here, a SpaceX Falcon 9 V rocket lifted off through a cloud deck from Cape Canaveral, Florida last July to deliver cargo and supplies to the International Space Station.  From a standing start, the 300,000+ kilogram rocket ship lifted its Dragon Capsule up to circle the Earth, where the outside air is too thin to breathe. Rockets bound for space are now launched from somewhere on Earth about once a week.   Participate: Take an Aesthetics & Astronomy Survey
+

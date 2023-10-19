@@ -1,0 +1,10 @@
+Searchlight Beams from the Egg Nebula,
+
+[![Build Status](https://apod.nasa.gov/apod/image/hst_eggneb.gif)](https://apod.nasa.gov/apod/image/hst_eggneb_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-01-29,
+
+Explanation: The dramatic and mysterious looking object revealed in this Hubble Space Telescope image is known as the Egg Nebula. It is an aging star about 3,000 lightyears distant, entering its Planetary Nebula phase of evolution. Surrounded by an expanding cloud of gas and dust, a dense cocoon of dust (seen as the dark band running diagonally across the center) encloses the star itself and blocks it from direct view. The searchlight appearance is created as light from the star shines more easily through the thinner parts of the cocoon. Dust particles in the expanding cloud scatter and reflect the starlight making the beams visible. The sharpness of the HST image reveals a wealth of detail which will help to understand this complex and spectacular part of the stellar lifecycle.
+

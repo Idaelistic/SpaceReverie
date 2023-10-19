@@ -1,0 +1,10 @@
+PanSTARRS from France,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1303/PanSTARRSdauvergne_32912S900.jpg)](https://apod.nasa.gov/apod/image/1303/PanSTARRSdauvergne_32912S.jpg)
+
+Copyright: Jean-Luc Dauvergne, 
+
+Date: 2013-03-16,
+
+Explanation: Still looking for that comet? Comet PanSTARRS (C/2011 L4) naked-eye appearance in the northern hemisphere is described by successful comet spotters as a dim star with a faint tail. If you want to catch it the next few days could be your best bet. Start looking low and almost due west about 45 minutes after sunset. Of course, clear skies and a pair of binoculars should help a lot. Sky photographer Jean-Luc Dauvergne found suitable weather and western horizon for this comet and crescent Moon portrait after a road trip on March 13. Seeing PanSTARRS for the first time, he recorded the beautiful twilight scene with a telephoto lens near historical Alesia in France.   Still Growing Gallery:  Comet PanSTARRS at Sunset
+

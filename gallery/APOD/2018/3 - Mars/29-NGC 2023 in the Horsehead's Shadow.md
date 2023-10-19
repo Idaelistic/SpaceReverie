@@ -1,0 +1,10 @@
+NGC 2023 in the Horsehead's Shadow,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1803/NGC2023master2_1024.jpg)](https://apod.nasa.gov/apod/image/1803/NGC2023master2.jpg)
+
+Copyright: Steve Mazlin, 
+
+Date: 2018-03-29,
+
+Explanation: Carved by a bright young star in Orion's dusty molecular clouds, NGC 2023 is often overlooked in favor of the nearby dramatic silhouette of the Horsehead Nebula. In its own right it is seen as a beautiful star forming emission and reflection nebula though, a mere 1500 light-years distant. Surprisingly colorful and complex filaments are detailed in this rare NGC 2023 portrait. Scattered points of emission are also from the region's Herbig-Haro objects, associated with the energetic jets from newborn stars. The sharp telescopic view spans about 10 light-years at the estimated distance of NGC 2023. Off the right edge of the frame lies the more familiar cosmic Horsehead.
+

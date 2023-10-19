@@ -1,0 +1,10 @@
+A Triple Eclipse on Jupiter,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9802/jup3ecl_ua.jpg)](https://apod.nasa.gov/apod/image/9802/jup3ecl_ua.jpg)
+
+Copyright: No copyright, 
+
+Date: 1998-02-02,
+
+Explanation: Part of Jupiter is missing.  Actually, three parts appear to be missing.  In reality though, the three dark spots seen in the above photograph are only shadows. The unusual alignment of three of Jupiter's moons between the Jovian giant and the Sun was imaged last November 10th.  The shadows of Io, Callisto, and Ganymede move across Jupiter as these moons progress in their orbits.  It was by noting the times of eclipse of Jupiter's moons in 1675 that Ole Roemer became the first person to measure the speed of light.  When a shadow from Earth's Moon crosses the Earth's surface, the people inside the shadow see an eclipse of the Sun.
+

@@ -1,0 +1,10 @@
+Our Dusty Universe,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9801/dustsky_cobe.jpg)](https://apod.nasa.gov/apod/image/9801/dustsky_cobe_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1998-01-21,
+
+Explanation: What's black & white and red all over?  Add our universe to this list.  Adrift in a vast sea of darkness are not only familiar bright stars but dust that glows predominantly in far-infrared light.  This cosmological dust was recently discovered in data taken previously by the COBE satellite, and visible as a diffuse glow visible in the above image.  The amount of dust in the universe is important because it is a measure of the number of stars that created it, of the number of stars that are cloaked by it, and of the amount of distortion created in measurements of the distant universe.
+

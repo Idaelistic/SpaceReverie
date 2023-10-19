@@ -1,0 +1,10 @@
+Dust Hip-Deep on Phobos,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9809/phobos1_mgs.jpg)](https://apod.nasa.gov/apod/image/9809/phobos1_mgs_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1998-09-14,
+
+Explanation: Landing on the Martian Moon Phobos might be harder than previously thought. The reason: Moon dust.  Recent photographs of Phobos have indicated that a layer of fine powder estimated to be a meter deep covers the whole surface.  Evidence comes from infrared pictures that indicate the rapid speed that Phobos' surface cools after sunset.   The above high-resolution picture of Phobos was taken last month by the Mars Global Surveyor spacecraft now orbiting Mars. The larger of two Martian moons, measures about 20 kilometers across, and orbits so close that Mars' gravity should rip it apart in another 50 million years.
+

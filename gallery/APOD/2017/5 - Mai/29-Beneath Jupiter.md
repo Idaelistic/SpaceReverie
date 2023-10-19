@@ -1,0 +1,10 @@
+Beneath Jupiter,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1705/BeneathJupiter_Juno_960.jpg)](https://apod.nasa.gov/apod/image/1705/BeneathJupiter_Juno_vertical960.jpg)
+
+Copyright: No copyright, 
+
+Date: 2017-05-29,
+
+Explanation: Jupiter is stranger than we knew. NASA's Juno spacecraft has now completed its sixth swoop past Jupiter as it moves around its highly elliptical orbit. Pictured, Jupiter is seen from below where, surprisingly, the horizontal bands that cover most of the planet disappear into swirls and complex patterns.  A line of white oval clouds is visible nearer to the equator.  Recent results from Juno show that Jupiter's weather phenomena can extend deep below its cloud tops, and that Jupiter's magnetic field varies greatly with location.  Juno is scheduled to orbit Jupiter 37 times with each orbit taking about six weeks.
+

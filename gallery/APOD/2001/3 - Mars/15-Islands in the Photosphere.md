@@ -1,0 +1,12 @@
+Islands in the Photosphere,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0103/sundraw_groenez.jpg)](https://apod.nasa.gov/apod/image/0103/sundraw_groenez_big.jpg)
+
+Copyright: 
+Gunther Groenez
+, 
+
+Date: 2001-03-15,
+
+Explanation: Awash in a sea of plasma and anchored in magnetic fields, sunspots are planet-sized, dark islands in the solar photosphere, the bright surface of the Sun. Before the enlightened(!) age of cameras, solar observers created detailed drawings of sunspots as they changed and progressed across the visible solar disk. But contemporary observers also regularly use this time-honored method of monitoring sunspots. In this sketch from March 6th, astronomer Gunther Groenez has faithfully recorded the intriguing shapes and shades of major visible sunspot groups and labeled them according to their NOAA active region number. Solar north is up and east to the right. Groenez' technical equipment includes H and 2H pencil leads for the sunspot umbra (dark) and penumbra (light) areas respectively. Want to draw sunspots too? Now's your chance as the Sun is at the maximum in its 11-year sunspot cycle.
+

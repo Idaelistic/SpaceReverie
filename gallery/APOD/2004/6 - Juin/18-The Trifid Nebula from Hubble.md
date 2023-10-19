@@ -1,0 +1,10 @@
+The Trifid Nebula from Hubble,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0406/trifid_hst.jpg)](https://apod.nasa.gov/apod/image/0406/trifid_hst_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2004-06-18,
+
+Explanation: Clouds of glowing gas mingle with lanes of dark dust in the Trifid Nebula, a star forming region toward the constellation of Sagittarius.  In the center, the three huge dark dust lanes that give the Trifid its name all come together. Mountains of opaque dust appear on the right, while filaments of dust are visible threaded throughout the nebula.  A single massive star visible near the center causes much of the Trifid's glow.  The Trifid, also known as M20, is only about 300,000 years old, making it among the youngest emission nebula known.  The nebula lies about 9000 light years away and part pictured above spans about 10 light years.  The above scientific-color image is the addition of several exposures with the Hubble Space Telescope taken over the past few years.
+

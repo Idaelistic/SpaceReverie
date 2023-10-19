@@ -1,0 +1,10 @@
+M17: Omega Nebula Star Factory,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0212/omega_cfht.jpg)](https://apod.nasa.gov/apod/image/0212/omega_cfht_big.jpg)
+
+Copyright: Jean-Charles Cuillandre, 
+
+Date: 2002-12-10,
+
+Explanation: In the depths of the dark clouds of dust and molecular gas known as M17, stars continue to form.  The similarity to the Greek letter capital Omega gives the molecular cloud its popular name, but the nebula is also known as the Swan Nebula, the Horseshoe Nebula, and M17.  The darkness of these molecular clouds results from background starlight being absorbed by thick carbon-based smoke-sized dust.  As bright massive stars form, they produce intense and energetic light that slowly boils away the dark shroud.  M17, pictured above, is visible with binoculars towards the constellation of Sagittarius, lies 5000 light-years away, and spans 20 light-years across.
+

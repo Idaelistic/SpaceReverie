@@ -1,0 +1,10 @@
+Yuri's Planet,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1304/iss030e078095_ap900.jpg)](https://apod.nasa.gov/apod/image/1304/iss030e078095.jpg)
+
+Copyright: No copyright, 
+
+Date: 2013-04-12,
+
+Explanation: On another April 12th, in 1961, Soviet cosmonaut Yuri Alexseyevich Gagarin became the first human to see planet Earth from space. Commenting on his view from orbit he reported, "The sky is very dark; the Earth is bluish. Everything is seen very clearly". On yet another April 12th, in 1981 NASA launched the first space shuttle. To celebrate in 2013, consider this image from the orbiting International Space Station, a stunning view of the planet at night from low Earth orbit. Constellations of lights connecting the densely populated cities along the Atlantic east coast of the United States are framed by two Russian spacecraft docked at the space station. Easy to recognize cities include New York City and Long Island at the right. From there, track toward the left for Philadelphia, Baltimore, and then Washington DC near picture center.
+

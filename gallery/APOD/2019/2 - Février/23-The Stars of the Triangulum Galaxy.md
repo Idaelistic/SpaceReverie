@@ -1,0 +1,10 @@
+The Stars of the Triangulum Galaxy,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1902/heic1901aTriangulumS.jpg)](https://apod.nasa.gov/apod/image/1902/heic1901aTriangulum.jpg)
+
+Copyright: No copyright, 
+
+Date: 2019-02-23,
+
+Explanation: Like grains of sand on a cosmic beach, stars of the Triangulum Galaxy are resolved in this sharp mosaic from the Hubble Space Telescope's Advanced Camera for Surveys (ACS). The inner region of the galaxy spanning over 17,000 light-years is covered at extreme resolution, the second largest image ever released by Hubble. At its center is the bright, densely packed galactic core surrounded by a loose array of dark dust lanes mixed with the stars in the galactic plane. Also known as M33, the face-on spiral galaxy lies 3 million light-years away in the small northern constellation Triangulum. Over 50,000 light-years in diameter, the Triangulum Galaxy is the third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. Of course, to fully appreciate the Triangulum's stars, star clusters, and bright nebulae captured in this Hubble mosaic, you'll need to use a zoom tool.
+

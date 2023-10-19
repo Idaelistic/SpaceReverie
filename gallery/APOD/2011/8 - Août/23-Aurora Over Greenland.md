@@ -1,0 +1,10 @@
+Aurora Over Greenland,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1108/aurora_casado_900.jpg)](https://apod.nasa.gov/apod/image/1108/aurora_casado_2000.jpg)
+
+Copyright: Juan Carlos Casado, 
+
+Date: 2011-08-23,
+
+Explanation: This aurora arched from horizon to horizon. During the current Shelios expedition to observe and learn about the northern lights, the sky last weekend did not disappoint.  After sunset and some careful photographic planning, the above image was taken from the expedition's Qaleraliq campsite in southern Greenland. Visible straight through the center of the aurora, found with a careful eye, is the Big Dipper and the surrounding constellation of the Big Bear (Ursa Major).  The brightest orb on the far right is the Moon, while Jupiter can be seen even further to the right.  The Shelios expedition is scheduled to last until the end of August and include live broadcasts of ongoing auroras.
+

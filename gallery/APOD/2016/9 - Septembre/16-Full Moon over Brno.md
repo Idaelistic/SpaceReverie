@@ -1,0 +1,10 @@
+Full Moon over Brno,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1609/2016_07_20_Uplnkova_noc_Brno_PanoHDR_1024px.jpg)](https://apod.nasa.gov/apod/image/1609/2016_07_20_Uplnkova_noc_Brno_PanoHDR_1500px.jpg)
+
+Copyright: Petr Horálek, 
+
+Date: 2016-09-16,
+
+Explanation: After sunset this gorgeous full moon rose over Brno city in the Czech Republic on July 20, 2016. The panoramic image was made during a celebration of the 47th anniversary of the Apollo 11 lunar landing. A series of exposures captures the yellow hued lunar disk against the fading colors of twilight, with the 14th century Spilberk castle illuminated in the foreground.  Of course, tonight's full moon is called the Harvest Moon. The closest full moon to the northern hemisphere's autumnal equinox, its traditional name has long been celebrated in story and song. Tonight's full lunar phase also coincides with a subtle, penumbral lunar eclipse, the Moon passing only through the Earth's diffuse, outer shadow.
+

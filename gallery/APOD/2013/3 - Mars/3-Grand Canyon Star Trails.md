@@ -1,0 +1,10 @@
+Grand Canyon Star Trails,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1303/GrandCanyon-StarTrails1tafreshi900.jpg)](https://apod.nasa.gov/apod/image/1303/GrandCanyon-StarTrails1tafreshi.jpg)
+
+Copyright: Babak Tafreshi, 
+
+Date: 2013-03-03,
+
+Explanation: One of the natural wonders of planet Earth, the Grand Canyon in the American southwest stretches across this early evening skyscape. The digitally stacked sequence reveals the canyon's layers of sedimentary rock in bright moonlight. Exposed sedimentary rock layers range in age from about 200 million to 2 billion years old, a window to history on a geological timescale. A recent study has found evidence that the canyon itself may have been carved by erosion as much as 70 million years ago. With the camera fixed to a tripod while Earth rotates, each star above carves a graceful arc through the night sky. The concentric arcs are centered on the north celestial pole, the extension of Earth's rotation axis into space, presently near the bright star Polaris.
+

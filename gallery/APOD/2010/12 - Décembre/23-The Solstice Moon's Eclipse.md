@@ -1,0 +1,10 @@
+The Solstice Moon's Eclipse,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1012/tle2010_hetlage900c.jpg)](https://apod.nasa.gov/apod/image/1012/tle2010_hetlage.jpg)
+
+Copyright: Chris Hetlage, 
+
+Date: 2010-12-23,
+
+Explanation: A big, bright, beautiful Full Moon slid into planet Earth's shadow early Tuesday morning. Remarkably, the total lunar eclipse coincided with the date of the December Solstice. During the eclipse, the best viewing in North America found the coppery lunar disc high in a cold winter sky, the Moon reddened by light filtering into the Earth's dark central shadow or umbra. The light comes from all the sunsets and sunrises, seen from a lunar perspective around the edges of a silhouetted Earth. Passing closer to the center of the umbra, the Moon's southern hemisphere (left) appears darker in this eclipse image, recorded from Deerlick Astronomy Village, Georgia, USA. The picture is a digital composite, a separate longer exposure added to an eclipse frame to capture the surrounding star field.
+

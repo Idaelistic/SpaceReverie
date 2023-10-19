@@ -1,0 +1,12 @@
+Orion's Horsehead Nebula,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0802/horsehead_bertol.jpg)](https://apod.nasa.gov/apod/image/0802/horsehead_bertol_big.jpg)
+
+Copyright: 
+Victor Bertol
+, 
+
+Date: 2008-02-21,
+
+Explanation: The Horsehead Nebula is one of the most famous nebulae on the sky.  It is visible as the dark indentation to the red emission nebula seen just below and left of center in the this photograph.  The brightest star on the left is located in the belt of the familiar constellation Orion. The horse-head feature is dark because it is really an opaque dust cloud that lies in front of the bright red emission nebula. Like clouds in Earth's atmosphere, this cosmic cloud has assumed a recognizable shape by chance.  After many thousands of years, the internal motions of the cloud will alter its appearance.  The emission nebula's red color is caused by electrons recombining with protons to form hydrogen atoms.  Also visible in the picture are blue reflection nebulae that preferentially reflect the blue light from nearby stars.
+

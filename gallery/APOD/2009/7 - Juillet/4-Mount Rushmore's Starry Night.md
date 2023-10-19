@@ -1,0 +1,10 @@
+Mount Rushmore's Starry Night,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0907/Rushmore-Pan-c03-850wp.jpg)](https://apod.nasa.gov/apod/image/0907/Rushmore-Pan-c03-850wp.jpg)
+
+Copyright: Wally Pacholka, 
+
+Date: 2009-07-04,
+
+Explanation: This starry night sky sparkles above the Black Hills of South Dakota and the United States' Mount Rushmore National Park. The historic site features enormous sculptures of four US presidents; George Washington, Thomas Jefferson, Theodore Roosevelt and Abraham Lincoln, carved into the southeast face of granite cliffs. Above the monumental symbols of the country's independence and early history, the night features stars and constellations familiar to northern skygazers around the world. Most noticeable are the stars of Ursa Major and the asterism known as the Big Dipper, almost resting upright along the cliff edge near picture center. Follow the arc of the Big Dipper's handle to get to Arcturus, the bright yellowish star in the lower left corner. Of course, a line extending through the dipper's two right most stars points to the upper right toward Polaris, planet Earth's North Star.
+

@@ -1,0 +1,10 @@
+Apollo 12: Self-Portrait,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1911/BeanConrad_Apollo12_960.jpg)](https://apod.nasa.gov/apod/image/1911/BeanConrad_Apollo12_950.jpg)
+
+Copyright: No copyright, 
+
+Date: 2019-11-24,
+
+Explanation: Is this image art?  50 years ago, Apollo 12 astronaut-photographer Charles "Pete" Conrad recorded this masterpiece while documenting colleague Alan Bean's lunar soil collection activities on  Oceanus Procellarum.  The featured image is dramatic and stark.  The harsh environment of the Moon's Ocean of Storms is echoed in Bean's helmet, a perfectly composed reflection of Conrad and the lunar horizon.  Works of photojournalists originally intent on recording the human condition on planet Earth, such as Lewis W. Hine's images from New York City in the early 20th century, or Margaret Bourke-White's magazine photography are widely regarded as art.  Similarly many documentary astronomy and space images might also be appreciated for their artistic and esthetic appeal.
+

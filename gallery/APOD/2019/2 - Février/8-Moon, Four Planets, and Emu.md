@@ -1,0 +1,10 @@
+Moon, Four Planets, and Emu,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1902/ACherney_MoonPlanets800.jpg)](https://apod.nasa.gov/apod/image/1902/ACherney_MoonPlanets.jpg)
+
+Copyright: Terrastro, 
+
+Date: 2019-02-08,
+
+Explanation: A luminous Milky Way falls toward the horizon in this deep skyscape, starting at the top of the frame from the stars of the Southern Cross and the dark Coalsack Nebula.  Captured in the dark predawn of February 2nd from Central Victoria, Australia, planet Earth, the 26 day old waning crescent Moon still shines brightly near the horizon. The second and third brightest celestial beacons are Venus and Jupiter along the lower part of the Milky Way's central bulge. Almost in line with the brighter planets and Moon, Saturn is the pinprick of light just visible below and right of the lunar glow. Australia's first astronomers saw the elongated, bulging shape of the familiar Milky Way as a great celestial Emu. The Moon and planets could almost be the Emu's eggs on this starry night.
+

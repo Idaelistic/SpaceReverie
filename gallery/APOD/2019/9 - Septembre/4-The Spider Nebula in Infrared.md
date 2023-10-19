@@ -1,0 +1,10 @@
+The Spider Nebula in Infrared,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1909/SpiderFly_Spitzer2Mass_960.jpg)](https://apod.nasa.gov/apod/image/1909/SpiderFly_Spitzer2Mass_4165.jpg)
+
+Copyright: No copyright, 
+
+Date: 2019-09-04,
+
+Explanation: Will the spider ever catch the fly? Not if both are large emission nebulas toward the constellation of the Charioteer (Auriga).  The spider-shaped gas cloud on the left is actually an emission nebula labelled IC 417, while a smaller fly-shaped cloud off the image to the left is dubbed  NGC 1931 and is both an emission nebula and a reflection nebula.  About 10,000 light-years distant, both nebulas harbor young, open star clusters. For scale, the more compact NGC 1931 (Fly) is about 10 light-years across. The featured picture in scientifically-assigned, infrared colors combines images from the Spitzer Space Telescope and the Two Micron All Sky Survey (2MASS).  Spitzer is celebrating its 16th year orbiting the Sun near the Earth.    APOD in other languages: Arabic, Catalan, Chinese (Beijing), Chinese (Taiwan), Croatian, Czech, Dutch, Farsi, French, French, German, Hebrew, Indonesian, Japanese, Korean, Montenegrin, Polish, Russian, Serbian, Slovenian,  Spanish and Ukrainian
+

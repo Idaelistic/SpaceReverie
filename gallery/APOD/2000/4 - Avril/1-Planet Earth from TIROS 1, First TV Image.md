@@ -1,0 +1,10 @@
+Planet Earth from TIROS 1: First TV Image,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0004/first_tiros1.jpg)](https://apod.nasa.gov/apod/image/0004/first_tiros1_big.gif)
+
+Copyright: No copyright, 
+
+Date: 2000-04-01,
+
+Explanation: The Television InfraRed Observational Satellite (TIROS) 1 was the first weather satellite. Launched into a polar orbit 40 years ago (April 1, 1960) equipped with two TV cameras, TIROS 1 was operational for only 78 days but demonstrated the feasibility of monitoring planet Earth's cloud cover and weather patterns from space. TIROS satellites eventually began continuous coverage in 1962 and enabled accurate worldwide weather forecasts and alerts. Above is the first TIROS TV image, taken from an altitude of about 700 kilometers. Crude by contemporary standards, it represents the beginning of what is still one of the most important continuing applications of space technology.
+

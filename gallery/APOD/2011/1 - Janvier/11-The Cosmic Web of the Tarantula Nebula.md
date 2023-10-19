@@ -1,0 +1,12 @@
+The Cosmic Web of the Tarantula Nebula,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1101/tarantula_salemme.jpg)](https://apod.nasa.gov/apod/image/1101/tarantula_salemme_big.jpg)
+
+Copyright: 
+Marcelo Salemme
+, 
+
+Date: 2011-01-11,
+
+Explanation: It is the largest and most complex star forming region in the entire galactic neighborhood. Located in the Large Magellanic Cloud, a small satellite galaxy orbiting our Milky Way galaxy, the region's spidery appearance is responsible for its popular name, the Tarantula nebula. This tarantula, however, is about 1,000 light-years across. Were it placed at the distance of Milky Way's Orion Nebula, only 1,500 light-years distant and the nearest stellar nursery to Earth, it would appear to cover about 30 degrees (60 full moons) on the sky. Intriguing details of the nebula are visible in the above image shown in scientific colors. The spindly arms of the Tarantula nebula surround NGC 2070, a star cluster that contains some of the brightest, most massive stars known, visible in blue on the right. Since massive stars live fast and die young, it is not so surprising that the cosmic Tarantula also lies near the site of the closest recent supernova.
+

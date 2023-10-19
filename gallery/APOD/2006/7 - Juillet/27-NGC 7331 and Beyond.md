@@ -1,0 +1,15 @@
+NGC 7331 and Beyond,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0607/ngc7331_gabany_c65.jpg)](https://apod.nasa.gov/apod/image/0607/ngc7331_gabany_f.jpg)
+
+Copyright: 
+R. Jay
+GaBany 
+(Cosmotography.com)
+
+, 
+
+Date: 2006-07-27,
+
+Explanation: Spiral galaxy NGC 7331 is often touted as an analog to our own Milky Way. About 50 million light-years distant in the northern constellation Pegasus, NGC 7331 was recognized early on as a spiral nebula and is actually one of the brighter galaxies not included in Charles Messier's famous 18th century catalog. Since the galaxy's disk is inclined to our line-of-sight, long telescopic exposures often result in an image that evokes a strong sense of depth. The effect is further enhanced in this well-framed view by the galaxies that lie beyond this beautiful island universe. The background galaxies are about one tenth the apparent size of NGC 7331 and so lie roughly ten times farther away.
+

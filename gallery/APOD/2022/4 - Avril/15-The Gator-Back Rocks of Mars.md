@@ -1,0 +1,10 @@
+The Gator-Back Rocks of Mars,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2204/PIA25175_1053.jpg)](https://apod.nasa.gov/apod/image/2204/PIA25175.jpg)
+
+Copyright: No copyright, 
+
+Date: 2022-04-15,
+
+Explanation: Wind-sharpened rocks known as ventifacts cover this broad sloping plain in the foot hills of Mount Sharp, Gale crater, Mars. Dubbed gator-back rocks their rugged, scaly appearance is captured in these digitally stitched Mastcam frames from the Curiosity rover on mission sol 3,415 (March 15, 2022). Driving over gator-back rocks before has resulted in damage to the rover's wheels, so Curiosity team members decided to turn around and take another path to continue the rover's climb. Curiosity has been on an ascent of Gale crater's central 5.5 kilometer high mountain since 2014. As it climbs, the durable rover has been able to explore layers shaped by water on Mars billions of years ago.
+

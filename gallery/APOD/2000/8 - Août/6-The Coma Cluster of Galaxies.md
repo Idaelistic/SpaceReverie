@@ -1,0 +1,16 @@
+The Coma Cluster of Galaxies,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0008/coma_noao.jpg)](https://apod.nasa.gov/apod/image/0008/coma_noao_big.jpg)
+
+Copyright: 
+O. Lopez-Cruz  
+(INAOEP) et al., 
+AURA,
+NOAO, 
+NSF
+, 
+
+Date: 2000-08-06,
+
+Explanation: Almost every object in the above photograph is a galaxy.  The Coma Cluster of Galaxies pictured above is one of the densest clusters known - it contains thousands of galaxies.  Each of these galaxies houses billions of stars - just as our own Milky Way Galaxy does.  Although nearby when compared to most other clusters, light from the Coma Cluster still takes hundreds of millions of years to reach us.  In fact, the Coma Cluster is so big it takes light millions of years just to go from one side to the other!  Most galaxies in Coma and other clusters are ellipticals, while most galaxies outside of clusters are spirals.  The nature of Coma's X-ray emission is still being investigated.
+

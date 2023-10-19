@@ -1,0 +1,10 @@
+Large Eruptive Prominence Imaged by STEREO,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1004/grandprom_stereo.jpg)](https://apod.nasa.gov/apod/image/1004/grandprom_stereo_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2010-04-18,
+
+Explanation: What's happened to our Sun?  Last week, it produced one of the largest eruptive prominences ever seen. Pictured above, the prominence erupted in only a few hours and was captured in movie form by NASA's twin Sun-orbiting STEREO satellites.  A quiescent solar prominence is a cloud of hot solar gas held above the Sun's surface by the Sun's magnetic field.  Unpredictably, however, prominences may erupt,   expelling hot gas into the Solar System via a  Coronal Mass Ejection (CME). As pictured above, many Earths would easily fit under the expanding ribbon of hot gas.  Although somehow related to the Sun's changing magnetic field, the energy mechanism that creates and sustains a Solar prominence is still a topic of research.
+

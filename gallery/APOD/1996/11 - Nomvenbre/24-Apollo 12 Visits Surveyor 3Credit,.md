@@ -1,0 +1,11 @@
+Apollo 12 Visits Surveyor 3
+Credit:,
+
+[![Build Status](https://apod.nasa.gov/apod/image/survey_ap12.gif)](https://apod.nasa.gov/apod/image/survey_ap12.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-11-24,
+
+Explanation: Apollo 12 was the second mission to land humans on the Moon. The landing site was picked to be near the location of Surveyor 3, a robot spacecraft that had landed on the moon three years earlier. Pictured above, Apollo 12 astronauts Conrad and Bean retrieve parts from the Surveyor. The Lunar Module is visible in the distance. Apollo 12 brought back many photographs and moon rocks. Among the milestones made by Apollo 12 was the deployment of the Apollo Lunar Surface Experiments Package, which carried out many experiments including one that measured the solar wind.
+

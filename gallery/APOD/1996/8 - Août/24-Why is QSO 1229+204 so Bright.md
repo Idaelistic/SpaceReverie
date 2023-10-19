@@ -1,0 +1,10 @@
+Why is QSO 1229+204 so Bright?,
+
+[![Build Status](https://apod.nasa.gov/apod/image/qso1229_hst.gif)](https://apod.nasa.gov/apod/image/qso1229_hst_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-08-24,
+
+Explanation: What causes the center of this barred spiral galaxy to light up brighter than almost anything in the universe? The quasar there is a good fraction of the way across our observable universe but appears so bright that astronomers had to use the high resolving power of the Hubble Space Telescope (HST) just to see the host galaxy.  HST then resolved something very interesting. Not only was QSO 1229+204 at the core of an unusual barred spiral galaxy, but this galaxy was in the process of colliding with a dwarf galaxy.  Gas from this collision quite possibly fuels a supermassive black hole causing QSO 1229+204 to shine so brightly.
+

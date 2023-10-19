@@ -1,0 +1,10 @@
+Mars: A Canyon's Edge,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9803/marsval1_mgs.jpg)](https://apod.nasa.gov/apod/image/9803/marsval_mgs_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1998-03-19,
+
+Explanation: High resolution Mars Global Surveyor images were combined with Viking Orbiter color data to produce this stunning, detailed view of a Martian canyon's edge. The area pictured is about 6 miles wide and represents a tiny part of the northern edge of the canyon Valles Marineris, whose total length is about 2,500 miles. Details 20 to 30 feet across can be seen in the high resolution data. The composition of the thin, well-defined layers in the steep canyon walls is unknown, but their presence points to a complex and active Martian geologic history. In the later half of the 1970s, NASA's Viking Orbiters photographed Mars extensively, yet Surveyor's sharp new images have produced some striking and unanticipated results.
+

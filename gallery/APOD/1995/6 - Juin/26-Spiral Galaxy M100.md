@@ -1,0 +1,10 @@
+Spiral Galaxy M100,
+
+[![Build Status](https://apod.nasa.gov/apod/image/m100_hst.gif)](https://apod.nasa.gov/apod/image/m100_hst.gif)
+
+Copyright: No copyright, 
+
+Date: 1995-06-26,
+
+Explanation: Today's Picture: June 26, 1995    The Spiral Galaxy M100  Picture Credit: NASA, Hubble Space Telescope  Explanation:  The M100 galaxy is a large spiral galaxy similar to our own Milky Way, containing over 100 billion stars. It is over 150 million light years away, so the light we see left when dinosaurs roamed the Earth. The picture was taken in 1993 with the Wide Field and Planetary Camera 2 on board the Hubble Space Telescope.  For more information see NASA Space Telescope Scientific Institute press release.   We keep an archive of previous Astronomy Pictures of the Day.   Astronomy Picture of the Day is brought to you by  Robert Nemiroff and  Jerry Bonnell . Original material on this page is copyrighted to Robert J. Nemiroff and Jerry T. Bonnell.
+

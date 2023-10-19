@@ -1,0 +1,10 @@
+The Dusty Disk of Beta Pic,
+
+[![Build Status](https://apod.nasa.gov/apod/image/hst_betapic.gif)](https://apod.nasa.gov/apod/image/BetaPicB.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-01-19,
+
+Explanation: This dusty disk, viewed edge on surrounding Beta Pictoris, a star only 50 lightyears distant, may signal the presence of an infant solar system. Beta Pictoris is a young Sun-like star just completing its formative stages. About 10 years ago it made the news when astronomers detected a disk around the star because planets are expected to form in such circumstellar disks. Did planets form around Beta Pic? The above recent Hubble Space Telescope image offers supporting evidence that they did. In this false color image, the overwhelming light from the star itself is masked out and features of the inner disk are revealed. The inner part (white area) appears to be slightly warped with respect to the line centered on the axis of the outer parts of the disk. This warp could be caused by a large planet orbiting within the inner clear zone, too faint to be seen directly against the stellar glare. If so, this is an indication that planetary systems are common in our galaxy. Is anybody out there?
+

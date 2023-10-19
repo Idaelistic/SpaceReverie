@@ -1,0 +1,10 @@
+Sagittarius Dwarf to Collide with Milky Way,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9802/sagdwarf_wyse.jpg)](https://apod.nasa.gov/apod/image/9802/sagdwarf_wyse.jpg)
+
+Copyright: No copyright, 
+
+Date: 1998-02-16,
+
+Explanation: Our Galaxy is being invaded. Recent observations indicate that in the next 100 million years, the Sagittarius Dwarf galaxy will move though the disk of our own Milky Way Galaxy yet again . The Sagittarius Dwarf (Sgr), shown as the extended irregular shape below the Galactic Center,  is the closest of 9 known small dwarf spheroidal galaxies that orbit our Galaxy.  Don't worry, our Galaxy is not in danger, but no such assurances are issued for the Sagittarius Dwarf: the intense gravitational tidal forces might pull it apart. Oddly, however, Sgr's orbit indicates that is has been through our Galaxy several times before, and survived!  One possibility is that Sgr contains a great deal of low-density dark matter that hold it together gravitationally during these collisions.
+

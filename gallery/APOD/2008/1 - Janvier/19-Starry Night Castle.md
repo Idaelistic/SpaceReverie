@@ -1,0 +1,10 @@
+Starry Night Castle,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0801/CastleHolmes_heden_c1.jpg)](https://apod.nasa.gov/apod/image/0801/CastleHolmes_heden_f.jpg)
+
+Copyright: P-M Hedén, 
+
+Date: 2008-01-19,
+
+Explanation: The tantalizing Pleiades star cluster seems to lie just beyond the trees above a dark castle tower in this dramatic view of The World at Night. Recorded earlier this month, the starry sky also features bright star Aldebaran below the Pleiades and a small, faint, fuzzy cloud otherwise known as Comet Holmes near picture center at the top of the field. Starry Night Castle might be an appropriate name for the medieval castle ruin in the foreground. But its traditional name is Mörby Castle, found north of Stockholm, near lake Skedviken in Norrtälje, Sweden.
+

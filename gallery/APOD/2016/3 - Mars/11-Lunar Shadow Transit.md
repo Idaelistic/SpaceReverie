@@ -1,0 +1,10 @@
+Lunar Shadow Transit,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1603/eclipse_epc_2016068_4_1024.jpg)](https://apod.nasa.gov/apod/image/1603/eclipse_epc_2016068_4.jpg)
+
+Copyright: No copyright, 
+
+Date: 2016-03-11,
+
+Explanation: This snapshot from deep space captures planet Earth on March 9. The shadow of its large moon is falling on the planet's sunlit hemisphere. Tracking toward the east (left to right) across the ocean-covered world the moon shadow moved quickly in the direction of the planet's rotation. Of course, denizens of Earth located close to the shadow track centerline saw this lunar shadow transit as a brief, total eclipse of the Sun. From a spacebased perspective between Earth and Sun, the view of this shadow transit was provided by the Deep Space Climate Observatory (DSCOVR) spacecraft's Earth Polychromatic Imaging Camera (EPIC).
+

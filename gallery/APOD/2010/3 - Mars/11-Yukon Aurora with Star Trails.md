@@ -1,0 +1,10 @@
+Yukon Aurora with Star Trails,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1003/AuroraTrails_takasaka900.jpg)](https://apod.nasa.gov/apod/image/1003/AuroraTrails_takasaka.jpg)
+
+Copyright: Yuichi Takasaka, 
+
+Date: 2010-03-11,
+
+Explanation: Fixed to a tripod, a camera can record graceful trails traced by stars as planet Earth rotates on its axis. But at high latitudes during March and April, it can also capture an aurora shimmering in the night. In fact, the weeks surrounding the equinox, in both spring and fall, offer a favorable season for aurora hunters. The possibilities are demonstrated in this beautiful moonlit vista from northwestern Canadian territory the Yukon. It was taken during the early morning of March 1, off the Klondike Highway about 60 kilometers south of Dawson City. To compose the picture, many short exposures were digitally combined to follow the concentric star trail arcs while including the greenish auroral curtains also known as the northern lights.
+

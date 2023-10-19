@@ -1,0 +1,10 @@
+A Milky Way Band,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0709/milkywayband_gleason.jpg)](https://apod.nasa.gov/apod/image/0709/milkywayband_gleason.jpg)
+
+Copyright: John P. Gleason, 
+
+Date: 2011-07-10,
+
+Explanation: Most bright stars in our Milky Way Galaxy reside in a disk.  Since our Sun also resides in this disk, these stars appear to us as a diffuse band that circles the sky.  The above panorama of a northern band of the Milky Way's disk covers 90 degrees and is a digitally created mosaic of several independent exposures.   Scrolling right will display the rest of this spectacular picture. Visible are many bright stars, dark dust lanes, red emission nebulae, blue reflection nebulae, and clusters of stars.  In addition to all this matter that we can see, astronomers suspect there exists even more dark matter that we cannot see.
+

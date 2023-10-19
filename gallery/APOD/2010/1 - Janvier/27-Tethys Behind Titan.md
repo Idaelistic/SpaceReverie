@@ -1,0 +1,10 @@
+Tethys Behind Titan,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1001/tethystitan_cassini.jpg)](https://apod.nasa.gov/apod/image/1001/tethystitan_cassini_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2010-01-27,
+
+Explanation: What's that behind Titan? It's another of Saturn's moons: Tethys.  The robotic Cassini spacecraft orbiting Saturn captured the heavily cratered Tethys slipping behind Saturn's atmosphere-shrouded Titan late last year. The largest crater on Tethys, Odysseus, is easily visible on the distant moon. Titan shows not only its thick and opaque orange lower atmosphere, but also an unusual upper layer of blue-tinted haze.  Tethys, at about 2 million kilometers distant, was twice as far from Cassini as was Titan when the above image was taken. In 2004, Cassini released the Hyugens probe which landed on Titan and provided humanity's first views of the surface of the Solar System's only known lake-bearing moon.
+

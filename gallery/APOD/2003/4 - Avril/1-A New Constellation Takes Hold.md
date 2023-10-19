@@ -1,0 +1,10 @@
+A New Constellation Takes Hold,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0304/bird_tasca.jpg)](https://apod.nasa.gov/apod/image/0304/bird_tasca_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2003-04-01,
+
+Explanation: A new constellation has taken hold of the sky, much to the surprise of many sky gazers.  The constellation of Ollie the Owl has suddenly started dominating the southern hemisphere, as shown above.  The constellation is taking the place of Wrinkles the Rhinoceros, who was unexpectedly voted off the sky by the other constellations.  Happy April Fools day from the folks at APOD!  Pictured above, a bird was photographed taking the Tololo All Sky Camera (TASCA) as a perch, a situation that would be even funnier if the bird's talons hadn't scratched the plastic enclosing dome.  TASCA continues to monitor the entire night sky as visible from the Cerro Tololo Inter-american Observatory located in Chile.  Given the unusual vantage point, one guess is that the bird is a Great Horned Owl, although it is hoped that a properly under-schooled ornithologist can e-mail Dr. Schwarz with the bird's true species.
+

@@ -1,0 +1,10 @@
+Irregular Galaxy Sextans A,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9912/sexaubv_hunter_big.jpg)](https://apod.nasa.gov/apod/image/9912/sexaubv_hunter.jpg)
+
+Copyright: No copyright, 
+
+Date: 1999-12-18,
+
+Explanation: Grand spiral galaxies often seem to get all the glory. Their newly formed, bright, blue star clusters found along beautiful, symmetric spiral arms are guaranteed to attract attention. But small irregular galaxies form stars too, like this lovely, gumdrop-shaped galaxy, Sextans A. A member of the local group of galaxies which includes the massive spirals Andromeda and our own Milky Way, Sextans A is about 10 million light years distant. The bright Milky Way foreground stars appear yellowish in this view. Beyond them lie the stars of Sextans A with tantalizing young blue clusters clearly visible.
+

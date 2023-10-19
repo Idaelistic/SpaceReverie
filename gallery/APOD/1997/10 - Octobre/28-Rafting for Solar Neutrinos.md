@@ -1,0 +1,10 @@
+Rafting for Solar Neutrinos,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9710/skam_icrr.jpg)](https://apod.nasa.gov/apod/image/9710/skam_icrr_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1997-10-28,
+
+Explanation: Where have all the neutrinos gone?  A long time passing since this question was first asked (decades) as increasingly larger and more diverse detectors sensitive to neutrinos from our Sun have found fewer than expected. But why?  Above, scientists check the equipment surrounding a huge tank of extremely pure water from the Super-Kamiokande experiment in Japan, designed to detect colliding neutrinos. Large detectors are needed because the neutrino is an elementary particle that goes right through practically everything.  Reasons for the lack of solar neutrinos may include a more complex theory for electroweak interactions than currently in use. Future results from detectors like Super-Kamiokande may help us know more.
+

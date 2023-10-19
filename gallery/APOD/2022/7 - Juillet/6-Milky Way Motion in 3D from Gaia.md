@@ -1,0 +1,10 @@
+Milky Way Motion in 3D from Gaia,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2207/MilkyWayMotion_Gaia_1080.jpg)](https://apod.nasa.gov/apod/image/2207/MilkyWayMotion_Gaia_2000.jpg)
+
+Copyright: No copyright, 
+
+Date: 2022-07-06,
+
+Explanation: Our sky is alive with the streams of stars.  The motions of 26 million Milky Way stars are evident in the featured map constructed from recent data taken by ESA's Gaia satellite. Stars colored blue are moving toward us, while red indicates away. Lines depict the motion of the stars across the sky. The large blue areas on the left and red areas on the map's right give the overall impression that stars in the Milky Way are rotating around the center. Understanding details about the motion of stars is helping humanity to better understand the complex history of our Milky Way galaxy and the origin of our Sun.
+

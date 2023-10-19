@@ -1,0 +1,10 @@
+Mars Rocks, Sojourner Rolls,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9708/mars_rr_path.jpg)](https://apod.nasa.gov/apod/image/9708/mars_rr_path_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1997-08-14,
+
+Explanation: This sharp color image featuring Mars rock Yogi and the rolling Sojourner robot shows off Yogi's startling two-toned surface. Yogi appears to be leaning into the prevailing winds causing some to suggest that its color contrast may be caused by the accumulation of rust colored dust on its windward face. The Pathfinder spacecraft, now the Sagan Memorial Station, has ended the primary mission phase after returning a scientific bonanza from the surface of Mars. The Sojourner robot has now traveled 171 feet on the martian surface, circumnavigated the lander, and also produced a wealth of data and images. Entering the extended mission phase of operations, controllers will concentrate on conserving battery power while continuing to explore the red planet.
+

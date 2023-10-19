@@ -1,0 +1,10 @@
+Highest, Tallest, and Closest to the Stars,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1602/Everest-MaunaKea-Chimborazo-1800x600-cp8.jpg)](https://apod.nasa.gov/apod/image/1602/Everest-MaunaKea-Chimborazo-1800x600-cp8.jpg)
+
+Copyright: Jeff Dai, 
+
+Date: 2016-02-25,
+
+Explanation: Fans of planet Earth probably recognize its highest mountain, the Himalayan Mount Everest, on the left in this 3-panel skyscape of The World at Night. Shrouded in cloud Everest's peak is at 8,848 meters (29,029 feet) elevation above sea level. In the middle panel, stars trail above volcanic Mauna Kea forming part of the island of Hawaii. Festooned with astronomical observatories, its summit lies a mere 4,168 meters above sea level. Still, measured from its base starting below the ocean's surface, Mauna Kea is over 10,000 meters tall, making it Earth's tallest mountain from base to summit. At right, beneath the arc of the Milky Way is the Andean mountain Chimborazo in Ecuador. The highest equatorial mountain, the Chimborazo volcano's peak elevation is 6,268 meters above sea level. But rotating planet Earth is a flattened sphere (oblate spheroid) in shape, its equatorial diameter greater than its diameter measured pole to pole. Sitting nearly on top of Earth's greatest equatorial bulge, Chimborazo's peak is the farthest point on the planet's surface from the center, over 2,000 meters farther from the center of the Earth than Everest's peak. That makes Chimborazo's summit the place on Earth's surface closest to the stars.
+

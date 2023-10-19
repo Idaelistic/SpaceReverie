@@ -1,0 +1,10 @@
+The Sun Today,
+
+[![Build Status](https://apod.nasa.gov/apod/image/sun_960515.gif)](https://apod.nasa.gov/apod/image/sun_960515_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-05-18,
+
+Explanation: Our Sun shows a different face every day. The above picture was taken on May 15, but a similar picture of the Sun actually taken today can be found here. The above picture was taken in red light and so is shown in red. The bright spots to the right of center are active regions known as plages. Currently, the Sun is showing very few active regions or sunspots, and is considered to be in a solar minimum. Solar activity will pick up over the next six years until a "solar maximum" is reached. The Sun goes through this cycle of maxima and minima every 11 years. Sol, our Sun, is hundreds of times more massive than all the planets in the Solar System combined. However, the Sun itself contains only a small amount of the total angular momentum of the Solar System.
+

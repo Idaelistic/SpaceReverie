@@ -1,0 +1,10 @@
+3D Mars: Northern Terra Meridiani,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0208/3Dterrameridiani_mgs_c1.jpg)](https://apod.nasa.gov/apod/image/0208/3Dterrameridiani_mgs_full.jpg)
+
+Copyright: No copyright, 
+
+Date: 2002-08-28,
+
+Explanation: In this spectacular 3D stereoscopic view from orbit, steep-sided, flat-topped hills stand above the Terra Meridiani region of Mars. Seen best with red/blue glasses (red for the left eye), the structures are reminiscent of buttes and mesas found in southwestern areas of the North American continent on planet Earth. Like their terrestrial counterparts, these layered martian outcrops apparently formed of hard sedimentary rocks with surrounding softer material eroded away. The possibility that surface water laid down the formations makes the Terra Meridiani region a tempting target for future exploration by Mars landers. But alternative explanations include material deposited by wind or accumulations of volcanic ash. The area pictured is about 3 kilometers across, maybe a thirty minute walk over flat ground. Terrestrial rock climbers take note; you and your equipment would only weigh around 1/3 as much in the lower martian surface gravity.
+

@@ -1,0 +1,12 @@
+Star Trails at 19,000 Feet,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0612/ojosdelsalado6000bs7_brunier_c720.jpg)](https://apod.nasa.gov/apod/image/0612/ojosdelsalado6000bs7_brunier_f.jpg)
+
+Copyright: 
+Serge Brunier
+, 
+
+Date: 2006-12-02,
+
+Explanation: In myth, Atlas holds up the heavens, but in this stunning view a mountain appears to serve as the southern night sky pivots around a snowy peak. Recorded during a climbing expedition at an altitude above 19,000 feet (temperature -18 degrees C), the picture places the South Celestial Pole over the Andes mountain Ojos del Salado. Topping out at over 22,000 feet, the Ojos del Salado is a stratovolcano, the highest active volcano on planet Earth. The time exposure lasted for an hour, recording the graceful arcing star trails along with the rising Milky Way (left) and setting Magellanic clouds.
+

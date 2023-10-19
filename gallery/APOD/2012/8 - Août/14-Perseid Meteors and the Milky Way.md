@@ -1,0 +1,12 @@
+Perseid Meteors and the Milky Way,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1208/perseids2012_hackmann_960.jpg)](https://apod.nasa.gov/apod/image/1208/perseids2012_hackmann_2000.jpg)
+
+Copyright: 
+Jens Hackmann
+, 
+
+Date: 2012-08-14,
+
+Explanation: Where will the next Perseid meteor appear?  Sky enthusiasts who trekked outside for the Perseid meteor shower that peaked over the past few days typically had this question on their mind.  Six meteors from this past weekend are visible in the above stacked image composite, including one bright fireball streaking along the band of the background Milky Way Galaxy. All Perseid meteors appear to come from the shower radiant in the constellation of Perseus. Early reports about  this year's Perseids indicate that as many as 100 meteors per hour were visible from some dark locations during the peak. The above digital mosaic was taken near  Weikersheim, Germany.   Growing Gallery:  Perseid meteor shower images
+

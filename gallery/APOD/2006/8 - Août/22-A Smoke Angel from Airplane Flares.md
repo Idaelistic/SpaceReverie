@@ -1,0 +1,10 @@
+A Smoke Angel from Airplane Flares,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0608/smokeangel_usaf.jpg)](https://apod.nasa.gov/apod/image/0608/smokeangel_usaf_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2006-08-22,
+
+Explanation: What type of cloud is that? It is not a naturally occurring one.  Looking perhaps a bit like a gigantic owl monster, the cloud pictured above resulted from a series of flares released by an air force jet over the Atlantic Ocean in May.   The jet that released the flares, a C-17 Globemaster III, is seen on the right.  The flares release smoke and the resulting pattern is sometimes known as a smoke angel.   The circular eyes of the above smoke angel are caused by air spiraling off the plane's wings and are known as wingtip vortices.
+

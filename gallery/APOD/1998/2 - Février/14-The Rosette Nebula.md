@@ -1,0 +1,12 @@
+The Rosette Nebula,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9802/rosette_gg.jpg)](https://apod.nasa.gov/apod/image/9802/rosette_gg_big.jpg)
+
+Copyright: 
+G. Greaney
+, 
+
+Date: 1998-02-14,
+
+Explanation: Would the Rosette Nebula by any other name look as sweet? The bland New General Catalog designation of NGC 2237 doesn't appear to diminish the appearance of the this flowery emission nebula. Inside the nebula lies an open cluster of bright young stars designated NGC 2244. These stars recently formed from the nebular material and their stellar "wind" has cleared a hole in the nebula's center, insulated by a layer of dust and hot gas. Ultraviolet light from the hot cluster stars causes the surrounding nebula to glow.
+

@@ -1,0 +1,10 @@
+Vela Supernova Remnant,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1501/VelaSNR-3_bigCedic1024.jpg)](https://apod.nasa.gov/apod/image/1501/VelaSNR-3_bigCedic.jpg)
+
+Copyright: CEDIC Team, 
+
+Date: 2015-01-01,
+
+Explanation: The plane of our Milky Way Galaxy runs through this complex and beautiful skyscape. At the northwestern edge of the constellation Vela (the Sails) the telescopic frame is over 10 degrees wide, centered on the brightest glowing filaments of the Vela Supernova Remnant, an expanding debris cloud from the death explosion of a massive star. Light from the supernova explosion that created the Vela remnant reached Earth about 11,000 years ago. In addition to the shocked filaments of glowing gas, the cosmic catastrophe also left behind an incredibly dense, rotating stellar core, the Vela Pulsar. Some 800 light-years distant, the Vela remnant is likely embedded in a larger and older supernova remnant, the Gum Nebula
+

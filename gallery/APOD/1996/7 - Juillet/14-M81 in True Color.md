@@ -1,0 +1,10 @@
+M81 in True Color,
+
+[![Build Status](https://apod.nasa.gov/apod/image/m81_bk.gif)](https://apod.nasa.gov/apod/image/m81_bk_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-07-14,
+
+Explanation: Here's what a spiral galaxy REALLY looks like.  Yesterday, M81 was shown in two colors only, but here we see M81 at its most colorful. In the above picture, note how blue the spiral arms are - this indicates the presence of hot young stars and on-going star formation.  Also note the yellow hue of the nucleus, possibly designating a population of older stars many billions of years old.  M81 is actually a dominant member of a group of galaxies which includes M82 and several other galaxies.  Unlike our Local Group of galaxies, large galaxies in the M81 group are actually colliding. It is possible that M81's interaction with M82 create the density waves which generate M81's spiral structure.
+

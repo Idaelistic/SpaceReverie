@@ -1,0 +1,10 @@
+Milky Way in Moonlight,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1604/TafreshiOman_MG_7051s.jpg)](https://apod.nasa.gov/apod/image/1604/TafreshiOman_MG_7051s.jpg)
+
+Copyright: Babak Tafreshi, 
+
+Date: 2016-04-23,
+
+Explanation: A waning crescent moon, early morning twilight, and Al Hamra's city lights on the horizon can't hide the central Milky Way in this skyscape from planet Earth. Captured in a single exposure, the dreamlike scene looks southward across the region's grand canyon from Jabal Shams (Sun Mountain), near the highest peak in Oman, on the Arabian Peninsula. Mist, moonlight, and shadows still play along the steep canyon walls. Dark rifts along the luminous band of the Milky Way are the galaxy's cosmic dust clouds. Typically hundreds of light-years distant, they obscure starlight along the galactic plane, viewed edge-on from the Solar System's perspective.
+

@@ -1,0 +1,10 @@
+Earth from Saturn,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0609/earth2_cassini_big.jpg)](https://apod.nasa.gov/apod/image/0609/earth2_cassini.jpg)
+
+Copyright: No copyright, 
+
+Date: 2006-09-27,
+
+Explanation: What's that pale blue dot in this image taken from Saturn?  Earth.  The robotic Cassini spacecraft looked back toward its old home world earlier this month as it orbited Saturn.  Using Saturn itself to block the bright Sun, Cassini imaged a faint dot on the right of the above photograph.  That dot is expanded on the image inset, where a slight elongation in the direction of Earth's Moon is visible.  Vast water oceans make Earth's reflection of sunlight somewhat blue.  Earth is home to over six billion humans and over one octillion Prochlorococcus.
+

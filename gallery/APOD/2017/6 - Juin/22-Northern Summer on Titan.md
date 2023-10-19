@@ -1,0 +1,10 @@
+Northern Summer on Titan,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1706/PIA21615TitanNorthSummer1024.jpg)](https://apod.nasa.gov/apod/image/1706/PIA21615TitanNorthSummer.jpg)
+
+Copyright: No copyright, 
+
+Date: 2017-06-22,
+
+Explanation: While yesterday's solstice brought summer to planet Earth's northern hemisphere, a northern summer solstice arrived for ringed planet Saturn nearly a month ago on May 24. Following the Saturnian seasons, its large moon Titan was captured in this Cassini spacecraft image from June 9. The near-infrared view finds bright methane clouds drifting through Titan's northern summer skies as seen from a distance of about 507,000 kilometers. Below Titan's clouds, dark hydrocarbon lakes sprawl near the large moon's now illuminated north pole.
+

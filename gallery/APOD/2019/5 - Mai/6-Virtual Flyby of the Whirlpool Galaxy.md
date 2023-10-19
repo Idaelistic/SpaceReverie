@@ -1,0 +1,10 @@
+Virtual Flyby of the Whirlpool Galaxy,
+
+## Vidéo: https://www.youtube.com/embed/HBhqr0KkntQ?rel=0, 
+
+Copyright: No copyright, 
+
+Date: 2019-05-06,
+
+Explanation: What would it look like to fly over a spiral galaxy? To help visualize this, astronomers and animators at the Space Telescope Science Institute computed a virtual flyby of the Whirlpool Galaxy (M51) using data and images from the Hubble Space Telescope.  At only 25 million light years distant and fully 50 thousand light years across, the Whirlpool is one of the brightest and most picturesque galaxies on the sky. Visible during the virtual flyby are spiral arms dominated by young blue stars, older lighter-colored stars, dark lanes of dust, and bright red emission nebulae. Many galaxies far in the distance can be seen right through M51.  The visualization should be considered a time-lapse, because otherwise the speed of the virtual camera would need to be very near the speed of light.
+

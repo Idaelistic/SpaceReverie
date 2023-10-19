@@ -1,0 +1,14 @@
+Firing Lasers to Tame the Sky,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2102/AoLasers_Munoz_960.jpg)](https://apod.nasa.gov/apod/image/2102/AoLasers_Munoz_3648.jpg)
+
+Copyright: 
+Juan Carlos Muñoz / 
+ESO;
+ Text:  Juan Carlos Muñoz
+, 
+
+Date: 2021-02-10,
+
+Explanation: Why do stars twinkle? Our atmosphere is to blame as pockets of slightly off-temperature air, in constant motion, distort the light paths from distant astronomical objects. Atmospheric turbulence is a problem for astronomers because it blurs the images of the sources they want to study. The telescope featured in this image, located at ESO’s Paranal Observatory, is equipped with four lasers to combat this turbulence. The lasers are tuned to a color that excites atoms floating high in Earth's atmosphere -- sodium left by passing meteors. These glowing sodium spots act as artificial stars whose twinkling is immediately recorded and passed to a flexible mirror that deforms hundreds of times per second, counteracting atmospheric turbulence and resulting in crisper images. The de-twinkling of stars is a developing field of technology and allows, in some cases, Hubble-class images to be taken from the ground.  This technique has also led to spin-off applications in human vision science, where it is used to obtain very sharp images of the retina.
+

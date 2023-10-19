@@ -1,0 +1,10 @@
+A Star Cluster in Motion,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0207/globbw_block.gif)](https://apod.nasa.gov/apod/image/0207/globbw_block.gif)
+
+Copyright: No copyright, 
+
+Date: 2002-07-30,
+
+Explanation: Star clusters are a swarm of complex motions.  The stars that compose globular clusters and many open clusters all orbit the cluster center, occasionally interacting, gravitationally, with a close-passing star.  The orbits of stars around the cluster are typically not as circular as the orbits of planets in our solar system.  Cluster stars frequently fall more directly toward the center and many times trace out unusual and complex loops.  The vast space inside a cluster results in stars colliding only rarely.   The above computer animation, derived from a type of computer code called an N-body simulation, shows 100 identical stars in a time-lapse movie where hundreds of years pass in one second.
+

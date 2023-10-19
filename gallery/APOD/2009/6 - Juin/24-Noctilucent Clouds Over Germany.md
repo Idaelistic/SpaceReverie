@@ -1,0 +1,12 @@
+Noctilucent Clouds Over Germany,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0906/noctilucent_rollwagen.jpg)](https://apod.nasa.gov/apod/image/0906/noctilucent_rollwagen.jpg)
+
+Copyright: 
+Christoph Rollwagen
+, 
+
+Date: 2009-06-24,
+
+Explanation: Sometimes it's night on the ground but day in the air.  As the Earth rotates to eclipse the Sun, sunset rises up from the ground.  Therefore, at sunset on the ground, sunlight still shines on clouds above.   Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark.   Pictured above last week, a network of noctilucent clouds cast an eerie white glow after dusk, beyond a local field near Potsdam, Germany.  Although noctilucent clouds are thought to be composed of small ice-coated particles, much remains unknown about them.  Satellites launched to help study these clouds include Sweden's Odin and NASA's AIM. Recent evidence indicates that at least some noctilucent clouds result from freezing water exhaust from Space Shuttles.
+

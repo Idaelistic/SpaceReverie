@@ -1,0 +1,10 @@
+Framed by Clouds,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0904/img8188_lawrence.jpg)](https://apod.nasa.gov/apod/image/0904/img8188_lawrence.jpg)
+
+Copyright: Digital-Astronomy, 
+
+Date: 2009-04-30,
+
+Explanation: Last Sunday's fading evening twilight featured a young crescent Moon along the western horizon. The young Moon also shared the sky with the lovely Pleiades star cluster and wandering planet Mercury. Framed by clouds in this serene skyscape from Selsey, UK, a similar twilight scene was visible around the globe. Emerging from the cloud bank below the Pleiades, the narrow sunlit lunar crescent is overexposed. Still, the Moon's dim night side is impressively clear, illuminated by earthshine. Bright, innermost planet Mercury lies near the bottom of the field. Mercury will remain near the Pleiades, low in the west after sunset over the coming days, an ongoing conjunction of planet and star cluster that will offer skygazers some excellent binocular views.
+

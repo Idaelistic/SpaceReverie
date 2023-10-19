@@ -1,0 +1,10 @@
+Star Cluster M34,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1002/m34Franke900.jpg)](https://apod.nasa.gov/apod/image/1002/m34Franke.jpg)
+
+Copyright: Bob Franke, 
+
+Date: 2010-02-11,
+
+Explanation: This pretty, open cluster of stars, M34, is about the size of the Full Moon on the sky. Easy to appreciate in small telescopes, it lies some 1,800 light-years away in the constellation Perseus. At that distance, M34 physically spans about 15 light-years. Formed at the same time from the same cloud of dust and gas, all the stars of M34 are about 200 million years young. But like any open star cluster orbiting in the plane of our galaxy, M34 will eventually disperse as it experiences gravitational tides and encounters with the Milky Way's interstellar clouds and other stars. Over four billion years ago, our own Sun was likely formed in a similar open star cluster.
+

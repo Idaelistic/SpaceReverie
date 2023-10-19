@@ -1,0 +1,10 @@
+A Starry Night of Iceland,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1601/aurora_vetter_1080.jpg)](https://apod.nasa.gov/apod/image/1601/aurora_vetter_2000.jpg)
+
+Copyright: No copyright, 
+
+Date: 2016-01-03,
+
+Explanation: On some nights, the sky is the best show in town. On this night, the sky was not only the best show in town, but a composite image of the sky won an international competition for landscape astrophotography. The featured winning image was taken in 2011 over J�kuls�rl�n, the largest glacial lake in Iceland.  The photographer combined six exposures to capture not only two green auroral rings, but their reflections off the serene lake. Visible in the distant background sky is the band of our Milky Way Galaxy and the Andromeda galaxy. A powerful coronal mass ejection from the Sun caused auroras to be seen as far south as Wisconsin, USA.  Solar activity over the past week has resulted in auroras just over the past few days.   Follow APOD on: Facebook,  Google Plus, or Twitter
+

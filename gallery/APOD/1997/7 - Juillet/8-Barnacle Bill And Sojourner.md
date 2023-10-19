@@ -1,0 +1,10 @@
+Barnacle Bill And Sojourner,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9707/mars5a_pathfinder.jpg)](https://apod.nasa.gov/apod/image/9707/mars5a_pathfinder_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1997-07-08,
+
+Explanation: Deployed on a pop-up mast to its full height, the Sagan Memorial Station's IMP camera now stands about 5 feet above the surface of Ares Vallis - on Mars. This is one of the first images from its new vantage point, showing the rover Sojourner near a rock named Barnacle Bill. This particularly interesting rock, with a variety of surface textures, appears to be about 8 to 10 inches high. Sojourner performed an analysis of Barnacle Bill by successfuly maneuvering to place its Alpha Proton X-Ray Spectrometer (APXS) instrument against the rock. The APXS, located at the rear of the rover, is not visible in this picture. Sojourner's next destination is ... a rock named Yogi. Results describing the composition of Barnacle Bill, the martian soil and a color panorama of the landing site will be presented at a Pathfinder press briefing today scheduled for 11:00 AM Pacific Daylight Time.
+

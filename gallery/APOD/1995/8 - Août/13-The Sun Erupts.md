@@ -1,0 +1,10 @@
+The Sun Erupts,
+
+[![Build Status](https://apod.nasa.gov/apod/image/sun_skylab.gif)](https://apod.nasa.gov/apod/image/sun_skylab.gif)
+
+Copyright: No copyright, 
+
+Date: 1995-08-13,
+
+Explanation: August 13, 1995    The Sun Erupts  Credit: NASA, Skylab Explanation:  The sun was captured in 1973 throwing one of the largest eruptive prominences ever recorded.  Sol, our sun, is a normal star. It formed about 5 billion years ago, and will last about another 5 billion years.  The sun will never explode, and a solar flare will never destroy the earth. Eventually the sun will become a white dwarf star.  The sun is made of mostly hydrogen and helium.  The sun's center is so hot that when hydrogen nuclei collide, they stick together and release energy - a process called nuclear fusion No one knows why the center of the sun emits so few neutrinos.
+

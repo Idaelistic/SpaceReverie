@@ -1,0 +1,10 @@
+Titan Beyond the Rings,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1411/titanrings_cassini_960.jpg)](https://apod.nasa.gov/apod/image/1411/titanrings_cassini_1010.jpg)
+
+Copyright: No copyright, 
+
+Date: 2014-11-02,
+
+Explanation: When orbiting Saturn, be sure to watch for breathtaking superpositions of moons and rings.  One such picturesque vista was visible recently to the robot Cassini spacecraft now orbiting Saturn.  In 2006 April, Cassini captured Saturn's A and F rings stretching in front of cloud-shrouded Titan.  Near the rings and appearing just above Titan was Epimetheus, a moon which orbits just outside the F ring. The dark space in the A ring is called the Encke Gap, although several thin knotted ringlets and even the small moon Pan orbit there.   APOD Wall Calendar:  Moons and Planets
+

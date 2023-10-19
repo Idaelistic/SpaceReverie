@@ -1,0 +1,10 @@
+Supernova 1987a Aftermath,
+
+[![Build Status](https://apod.nasa.gov/apod/image/sn1987a_hst.gif)](https://apod.nasa.gov/apod/image/sn1987a_hst.gif)
+
+Copyright: No copyright, 
+
+Date: 1995-06-21,
+
+Explanation: Today's Picture: June 21, 1995    The Aftermath of the Great Supernova in 1987  Picture Credit: Hubble Space Telescope  Explanation:  In 1987 a star in one of the Milky Way's satellite galaxies exploded. In 1994 the Hubble Space Telescope, in orbit around the earth, took a very detailed picture of the remnants of this explosion. This picture, above, showed unusual and unexpected rings, and astronomers are not sure how they formed.  For more information see HST press release.  We keep an archive of previous Astronomy Pictures of the Day.   Astronomy Picture of the Day is brought to you by  Robert Nemiroff and  Jerry Bonnell . Original material on this page is copyrighted to Robert J. Nemiroff and Jerry T. Bonnell.
+

@@ -1,0 +1,10 @@
+NGC 3603: An Active Star Cluster,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9910/ngc3603_vlt.jpg)](https://apod.nasa.gov/apod/image/9910/ngc3603_vlt_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1999-10-18,
+
+Explanation: NGC 3603 is home to a massive star cluster, thick dust pillars, and a star about to explode.  The central open cluster contains about 2000 bright stars, each of which is much brighter and more massive than our Sun.  Together, radiations from these stars are energizing and pushing away surrounding material, making NGC 3603 one of the most interesting HII regions known.   NGC 3603 is about 20,000 light-years away, and the region shown is about 20 light-years across.   Possibly most interesting about this recently released, representative-color picture are the large number of dim stars visible.  These stars are less massive than our Sun, demonstrating that great numbers of low-mass stars also form in active starburst regions.
+

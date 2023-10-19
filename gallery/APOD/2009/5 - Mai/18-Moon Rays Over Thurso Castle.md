@@ -1,0 +1,12 @@
+Moon Rays Over Thurso Castle,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0905/thursorays_watt.jpg)](https://apod.nasa.gov/apod/image/0905/thursorays_watt_big.jpg)
+
+Copyright: 
+Stewart Watt
+, 
+
+Date: 2009-05-18,
+
+Explanation: What's happening over that castle? While waiting for the Moon to rise last month in Thurso, Scotland, amateur astrophotographer Stewart Watt took a three minute exposure of the background stars. The above image was the surprising result.  Patchy clouds in front of the rising moon created crepuscular rays streaming across the night sky in spectacular fashion. In the foreground is a stone tower from Thurso Castle, a 12th century fortress augmented in the 17th century.  Above the crepuscular moon rays are stars, many from the constellation of the Lion (Leo).  Visible to the right of the tower is the planet Saturn.
+

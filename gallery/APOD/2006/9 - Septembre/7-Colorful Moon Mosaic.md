@@ -1,0 +1,12 @@
+Colorful Moon Mosaic,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0609/moonmosaic_carboni_f45.jpg)](https://apod.nasa.gov/apod/image/0609/moonmosaic_carboni_f.jpg)
+
+Copyright: 
+Noel Carboni
+, 
+
+Date: 2006-09-07,
+
+Explanation: No single exposure can easily capture faint stars along with the subtle colors of the Moon. But this dramatic composite view highlights both. The mosaic digitally stitches together fifteen carefully exposed high resolution images of a bright, gibbous Moon and a representative background star field. The fascinating color differences along the lunar surface are real, though highly exaggerated, corresponding to regions with different chemical compositions. And while these color differences are not visible to the eye even with a telescope, moon watchers can still see a dramatic lunar presentation tonight. A partial eclipse of the Moon will be visible from Europe, Africa, Asia, and Australia.
+

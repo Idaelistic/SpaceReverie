@@ -1,0 +1,12 @@
+M89: Elliptical Galaxy with Outer Shells and Plumes,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1706/m89_hanson_960.jpg)](https://apod.nasa.gov/apod/image/1706/m89_hanson_3866.jpg)
+
+Copyright: 
+Mark Hanson
+, 
+
+Date: 2017-06-14,
+
+Explanation: Can you see them? This famous Messier object M89, a seemingly simple elliptical galaxy, is surrounded by faint shells and plumes. The cause of the shells is currently unknown, but possibly tidal tails related to debris left over from absorbing numerous small galaxies in the past billion years. Alternatively the shells may be like ripples in a pond, where a recent collision with another large galaxy created  density waves that ripple through this galactic giant. Regardless of the actual cause, the featured image highlights the increasing consensus that at least some elliptical galaxies have formed in the recent past, and that the outer halos of most large galaxies are not really smooth but have complexities induced by frequent interactions with -- and accretions of -- smaller nearby galaxies. The halo of our own Milky Way Galaxy is one example of such unexpected complexity. M89 is a member of the nearby Virgo cluster of galaxies which lies about 50 million light years distant.   Follow APOD on: Facebook,  Google Plus,  Instagram, or Twitter
+

@@ -1,0 +1,10 @@
+Catching Falling Stardust,
+
+[![Build Status](https://apod.nasa.gov/apod/image/dusttrk-l_sm.gif)](https://apod.nasa.gov/apod/image/dusttrk_stardust.jpg)
+
+Copyright: No copyright, 
+
+Date: 1996-01-25,
+
+Explanation: This carrot shaped track is actually little more than 5 hundredths of an inch long. It is the trail of a meteroid through a gel exposed to space in low earth orbit by the shuttle launched EURECA (European Recoverable Carrier) spacecraft. The meteoroid itself, about a thousandth of an inch in diameter, is visible where it came to rest, just beyond the tip of the carrot (far right). Chemical analyses of interplanetary dust particles similar to this one suggest that some of them may be bits of comets and represent samples of material from the early stages of the formation of the Solar System. NASA's Stardust mission, planned for launch in 1999, will attempt to directly collect dust from the tail of a comet and return it to Earth.
+

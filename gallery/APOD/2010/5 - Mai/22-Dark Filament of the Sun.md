@@ -1,0 +1,10 @@
+Dark Filament of the Sun,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1005/SDO_filament_May2010_900.jpg)](https://apod.nasa.gov/apod/image/1005/SDO_filament_May2010.jpg)
+
+Copyright: No copyright, 
+
+Date: 2010-05-22,
+
+Explanation: Suspended by magnetic fields above a solar active region this dark filament stretches over 40 earth-diameters. The ominous structure appears to be frozen in time near the Sun's edge, but solar filaments are unstable and often erupt. The detailed scene was captured on May 18 in extreme ultraviolet light by cameras on board the Solar Dynamics Observatory. While the cooler plasma of the filament looks dark, hotter, brighter plasma below traces magnetic field lines emerging from the active region. When seen arcing above the edge of the Sun, filaments actually look bright against the dark background of space and are called prominences.
+

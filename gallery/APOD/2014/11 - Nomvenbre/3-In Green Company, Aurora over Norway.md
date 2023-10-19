@@ -1,0 +1,12 @@
+In Green Company: Aurora over Norway,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1411/greencompany_rive_960.jpg)](https://apod.nasa.gov/apod/image/1411/greencompany_rive_2916.jpg)
+
+Copyright: 
+Max Rive
+, 
+
+Date: 2014-11-03,
+
+Explanation: Raise your arms if you see an aurora. With those instructions, two nights went by with, well, clouds -- mostly. On the third night of returning to same peaks, though, the sky not only cleared up but lit up with a spectacular auroral display. Arms went high in the air, patience and experience paid off, and the amazing featured image was captured. The setting is a summit of the Austnesfjorden fjord close to the town of Svolvear on the Lofoten islands in northern Norway. The time was early March. Our Sun has been producing an abundance of picturesque aurora of late as it is near the time of its maximum surface activity in its 11-year magnetic cycle.
+

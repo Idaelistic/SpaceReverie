@@ -1,0 +1,12 @@
+The Orion Nebula in Hydrogen,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0011/m42hargb_gendler.jpg)](https://apod.nasa.gov/apod/image/0011/m42hargb_gendler_big.jpg)
+
+Copyright: 
+Robert Gendler
+, 
+
+Date: 2000-11-22,
+
+Explanation: The Great Nebula in Orion can be found just below and to the left of the easily identifiable belt of three stars in the popular constellation Orion.  This fuzzy patch, visible to the unaided eye, contains one of the closest stellar nurseries, lying at a distance of about 1500 light years.  The above picture highlights red light emitted by the nebula's hydrogen gas. Dark dust filaments punctuate regions of this glowing hydrogen gas and reflect light from the nebula's brightest stars.  Recent observations of the Orion Nebula by the Hubble Space Telescope have located solar-system sized regions that are thought to be planet-forming circumstellar disks.
+

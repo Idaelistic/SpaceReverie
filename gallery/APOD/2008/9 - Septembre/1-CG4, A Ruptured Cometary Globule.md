@@ -1,0 +1,12 @@
+CG4: A Ruptured Cometary Globule,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0809/cg4_sidonio.jpg)](https://apod.nasa.gov/apod/image/0809/cg4_sidonio_big.jpg)
+
+Copyright: 
+Mike Sidonio
+, 
+
+Date: 2008-09-01,
+
+Explanation: Can a gas cloud grab a galaxy?  It's not even close.  The "claw" of this odd looking "creature" in the above photo is a gas cloud known as a cometary globule.  This globule, however, has ruptured.  Cometary globules are typically characterized by dusty heads and elongated tails.  These features cause cometary globules to have visual similarities to comets, but in reality they are very much different.  Globules are frequently the birthplaces of stars, and many show very young stars in their heads. The reason for the rupture in the head of this object is not completely known.  The galaxy to the left of the globule is huge, very far in the distance, and only placed near CG4 by chance superposition.
+

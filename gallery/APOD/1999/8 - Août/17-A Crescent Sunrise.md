@@ -1,0 +1,12 @@
+A Crescent Sunrise,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9908/eclipse99_collin.jpg)](https://apod.nasa.gov/apod/image/9908/eclipse99_collin_big.jpg)
+
+Copyright: 
+Thomas Collin
+, 
+
+Date: 1999-08-17,
+
+Explanation: Normally, the Moon shows phases, but the Sun does not.  The reason is founded in the fact that the Moon shines only by reflected sunlight.  When the Moon is closer to the Sun than the Earth, only part of it appears to be lit - resulting in a familiar crescent-shaped phase.  Last Wednesday, however, many viewers in eastern North America were treated to an unusual sunrise where the Sun appeared to itself rise in a crescent phase.  Nothing was wrong with Sun - viewers were witnessing the end of a solar eclipse.   This unusual sight was caught above during a cloudy morning in Quebec.  A similar sunrise eclipse recorded almost 3000 years ago has allowed historians to attempt to match ancient and modern calendars.
+

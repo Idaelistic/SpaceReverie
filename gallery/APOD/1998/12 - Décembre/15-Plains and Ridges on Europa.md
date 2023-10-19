@@ -1,0 +1,10 @@
+Plains and Ridges on Europa,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9812/europaridges_gal.jpg)](https://apod.nasa.gov/apod/image/9812/europaridges_gal_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1998-12-15,
+
+Explanation: The ridges on Europa may be caused by cold water volcanoes.  Europa, one of the largest moons of Jupiter, has been the source of intense scrutiny since speculation increased of there being oceans beneath its icy surface.  Currently the Galileo spacecraft orbiting Jupiter is on an extended mission designed, in part, to study Europa's surface in greater detail.  The above image highlights features common to Europa's surface: pure blue water ice beneath lighter ridges that run for many kilometers.  These ridges may result from volcanic cracks in the ice where emerging liquid water froze upon exposure to the cold of deep space.  The reasons for the colors of the ridges remain uncertain.
+

@@ -1,0 +1,10 @@
+The Red Planet Mars,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2007/Mars23Jul2020-LDB3.jpg)](https://apod.nasa.gov/apod/image/2007/Mars23Jul2020-LDB3.jpg)
+
+Copyright: Luc Debeck, 
+
+Date: 2020-07-30,
+
+Explanation: Mars looks pretty sharp in this backyard telescope image captured on July 23 from Hoegaarden, Belgium, planet Earth. The Red Planet's bright south polar cap is bathed in sunlight at the top of the inverted view, while the dark feature known as Syrtis Major extends toward the right (eastern) edge. Rising around midnight for now, the Red Planet is months away from its own opposition in early October. Telescopic views will improve even more as Earth, in its faster orbit, catches up to Mars, the ruddy disk growing larger and brighter still. The martian Jezero Crater is within the Syrtis Major region. That's the landing site for NASA's 2020 Mars Rover Perseverance, scheduled for launch today.  Comet NEOWISE images from planet Earth: July 29, 28, 27, 26, 25, 24
+

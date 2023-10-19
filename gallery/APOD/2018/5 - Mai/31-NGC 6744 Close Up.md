@@ -1,0 +1,10 @@
+NGC 6744 Close Up,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1805/STSCI-H-p1827h-NGC6744_1024x925.jpg)](https://apod.nasa.gov/apod/image/1805/STSCI-H-p1827h-NGC6744_2000x1924.jpg)
+
+Copyright: No copyright, 
+
+Date: 2018-05-31,
+
+Explanation: Beautiful spiral galaxy NGC 6744 is nearly 175,000 light-years across, larger than our own Milky Way. It lies some 30 million light-years distant in the southern constellation Pavo, its galactic disk tilted towards our line of sight. This Hubble close-up of the nearby island universe spans about 24,000 light-years across NGC 6744's central region in a detailed portrait that combines visible light and ultraviolet image data. The giant galaxy's yellowish core is dominated by the visible light from old, cool stars. Beyond the core are pinkish star forming regions and young star clusters scattered along the inner spiral arms. The young star clusters are bright at ultraviolet wavelengths, shown in blue and magenta hues.
+

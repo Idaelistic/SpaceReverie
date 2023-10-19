@@ -1,0 +1,13 @@
+Stars, Dust, and Gas Near Antares,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2201/RhoOphAntares_Cogo_1024.jpg)](https://apod.nasa.gov/apod/image/2201/RhoOphAntares_Cogo_1024.jpg)
+
+Copyright: 
+Mario Cogo 
+(Galax Lux)
+, 
+
+Date: 2022-01-26,
+
+Explanation: Why is the sky near Antares and Rho Ophiuchi so dusty yet colorful?  The colors result from a mixture of objects and processes.  Fine dust -- illuminated from the front by starlight -- produces blue reflection nebulae. Gaseous clouds whose atoms are excited by ultraviolet starlight produce reddish emission nebulae. Backlit dust clouds block starlight and so appear dark.   Antares, a red supergiant and one of the brighter stars in the night sky, lights up the yellow-red clouds on the lower right of the featured image. The Rho Ophiuchi star system lies at the center of the blue reflection nebula on the top left.   The distant globular cluster of stars M4 is visible above and to the right of Antares. These star clouds are even more colorful than humans can see, emitting light across the electromagnetic spectrum.
+

@@ -1,0 +1,10 @@
+Cyclone Paths on Planet Earth,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2109/StormPaths_NHC_1080.jpg)](https://apod.nasa.gov/apod/image/2109/StormPaths_NHC_8000.jpg)
+
+Copyright: No copyright, 
+
+Date: 2021-09-15,
+
+Explanation: Where on Earth do cyclones go? Usually known as hurricanes when in the Atlantic Ocean and typhoons when in the Pacific, the featured map shows the path of all major storms from 1985 through 2005.  The map shows graphically that cyclones usually occur over water, which makes sense since evaporating warm water gives them energy. The map also shows that cyclones never cross -- and rarely approach -- the Earth's equator, since the Coriolis effect goes to zero there, and cyclones need the Coriolis force to circulate. The Coriolis force also causes cyclone paths to arc away from the equator. Although long-term trends remain a topic of research, evidence indicates that hurricanes have become, on the average, more powerful in the North Atlantic over the past 30 years, and their power is projected to keep increasing.   Follow APOD on Instagram in: English, Farsi, Indonesian, Persian, or Portuguese
+

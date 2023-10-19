@@ -1,0 +1,10 @@
+Escape From The Sun,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9711/sep14prom_eit.jpg)](https://apod.nasa.gov/apod/image/9711/sep14prom_eit_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1997-11-20,
+
+Explanation: Twisted magnetic fields arching from the solar surface can trap ionized gas, suspending it in huge looping structures. These majestic plasma arches are seen as prominences above the solar limb. On September 14, this dramatic and detailed image was recorded by the EIT experiment on board the space-based SOHO observatory in the light emitted by ionized Helium. It shows hot plasma escaping into space as a fiery prominence breaks free from magnetic confinement a hundred thousand miles above the Sun. These awesome events bear watching as they can affect communications and power systems ninety three million miles away on Planet Earth.
+

@@ -1,0 +1,10 @@
+Apollo 17 at Shorty Crater,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1508/moonshorty_apollo17_1080.jpg)](https://apod.nasa.gov/apod/image/1508/moonshorty_apollo17_1498.jpg)
+
+Copyright: No copyright, 
+
+Date: 2015-08-02,
+
+Explanation: On the Moon, it is easy to remember where you parked.  In December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon in the Taurus-Littrow valley, while colleague Ronald Evans orbited overhead. This sharp image was taken by Cernan as he and Schmitt roamed the valley floor. The image shows Schmitt on the left with the lunar rover at the edge of Shorty Crater, near the spot where geologist Schmitt discovered orange lunar soil. The Apollo 17 crew returned with 110 kilograms of rock and soil samples, more than was returned from any of the other lunar landing sites. Now forty three years later, Cernan and Schmitt are still the last to walk on the Moon.   APOD Editor to Speak: Saturday, August 8 at Keweenaw Science & Engineering Festival
+

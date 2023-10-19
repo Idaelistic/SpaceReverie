@@ -1,0 +1,10 @@
+A Twilight Occultation,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1012/MoonMarsZubenel900.jpg)](https://apod.nasa.gov/apod/image/1012/MoonMarsZubenel.jpg)
+
+Copyright: Doug Zubenel, 
+
+Date: 2010-12-10,
+
+Explanation: A thin, one day old crescent Moon hugged the western horizon after sunset on Monday, December 6. The Moon also occulted or passed in front of Mars. But only some well-placed skygazers along a band through North America were able to catch this lunar occultation's final act in fading twilight. For example, this telephoto image nicely captures Mars as a pinprick of light, shortly after it emerged from behind the crescent Moon's sunlit edge. With a tangle of tree limbs in silhouette, the luminous skyview is from De Soto, Kansas in the central US. Of course, this month's upcoming total lunar eclipse will entertain a much wider audience of Moon enthusiasts during the night of December 20/21.   Call for Security Camera Videos: Recent Fireball over the United Kingdom
+

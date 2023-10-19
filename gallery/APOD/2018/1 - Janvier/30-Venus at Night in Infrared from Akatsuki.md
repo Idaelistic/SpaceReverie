@@ -1,0 +1,10 @@
+Venus at Night in Infrared from Akatsuki,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1801/VenusNight_AkatsukiBouic_960.jpg)](https://apod.nasa.gov/apod/image/1801/VenusNight_AkatsukiBouic_739.jpg)
+
+Copyright: No copyright, 
+
+Date: 2018-01-30,
+
+Explanation: Why is Venus so different from Earth?  To help find out, Japan launched the robotic Akatsuki spacecraft which entered orbit around Venus late in 2015 after an unplanned five-year adventure around the inner Solar System.  Even though Akatsuki was past its original planned lifetime, the spacecraft and instruments were operating so well that much of its original mission was reinstated. Also known as the Venus Climate Orbiter, Akatsuki's instruments investigated unknowns about Earth's sister planet, including whether volcanoes are still active, whether lightning occurs in the dense atmosphere, and why wind speeds greatly exceed the planet's rotation speed. In the featured image taken by Akatsuki's IR2 camera, Venus's night side shows a jagged-edged equatorial band of high dark clouds absorbing infrared light from hotter layers deeper in Venus' atmosphere. The bright orange and black stripe on the upper right is a false digital artifact that covers part of the much brighter day side of Venus. Analyses of Akatsuki images and data has shown that Venus has equatorial jet similar to Earth's jet stream.   Watch: Lunar Extravaganza
+

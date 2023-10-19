@@ -1,0 +1,10 @@
+Happy People Dancing on Planet Earth,
+
+## Vidéo: https://www.youtube.com/embed/M6-iC_aYcug?rel=0, 
+
+Copyright: No copyright, 
+
+Date: 2020-06-14,
+
+Explanation: What are these humans doing?  Dancing.  Many humans on Earth exhibit periods of happiness, and one method of displaying happiness is dancing. Happiness and dancing transcend national boundaries and occur in practically every human society. Above, Matt Harding traveled through many nations on Earth, planned on dancing, and filmed the result.  The featured video, one in a series of similar videos, is perhaps a dramatic example that humans from all over planet Earth feel a common bond as part of a single species. Happiness is frequently contagious -- few people are able to watch the featured video without smiling.   APOD across world languages: Arabic, Catalan, Chinese (Beijing), Chinese (Taiwan), Croatian, Czech, Dutch, Farsi, French, French, German, Hebrew, Indonesian, Japanese, Korean, Montenegrin, Polish, Russian, Serbian, Slovenian,  Spanish and Ukrainian
+

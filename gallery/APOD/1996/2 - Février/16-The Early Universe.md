@@ -1,0 +1,10 @@
+The Early Universe,
+
+[![Build Status](https://apod.nasa.gov/apod/image/earlyuni_imax.gif)](https://apod.nasa.gov/apod/image/earlyuni_imax_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-02-16,
+
+Explanation: What did our universe look like when it was young? To answer this, cosmologists run sophisticated computer programs tracking the locations of millions of particles. The above animated frame is the result of such a calculation and shows how our universe might have looked when it was just a fracton of its current  age. The universe started out very smooth - matter and light are spread almost uniformly. As time progressed, gravity caused slight gatherings of mass to accrete so that ever greater conglomerations formed.  Galaxies and long filaments formed - which are shown by the bright patches and streaks in the above frame. An IMAX movie including hundreds of these frames is currently under production and should be released this summer.
+

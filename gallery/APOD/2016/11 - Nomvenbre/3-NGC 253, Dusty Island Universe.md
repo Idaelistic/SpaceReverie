@@ -1,0 +1,11 @@
+NGC 253: Dusty Island Universe,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1611/NGC253hagerC1024.JPG)](https://apod.nasa.gov/apod/image/1611/NGC253hager.JPG)
+
+Copyright: Dietmar
+Hager, 
+
+Date: 2016-11-03,
+
+Explanation: Shiny NGC 253 is one of the brightest spiral galaxies visible, and also one of the dustiest.  Some call it the Silver Dollar Galaxy for its appearance in small telescopes, or just the Sculptor Galaxy for its location within the boundaries of the southern constellation Sculptor.  First swept up in 1783 by mathematician and astronomer Caroline Herschel, the dusty island universe lies a mere 10 million light-years away. About 70 thousand light-years across, NGC 253 is the largest member of the Sculptor Group of Galaxies, the nearest to our own Local Group of Galaxies.  In addition to its spiral dust lanes, tendrils of dust seem to be rising from a galactic disk laced with young star clusters and star forming regions in this sharp color image. The high dust content accompanies frantic star formation, earning NGC 253 the designation of a starburst galaxy. NGC 253 is also known to be a strong source of high-energy x-rays and gamma rays, likely due to massive black holes near the galaxy's center.
+

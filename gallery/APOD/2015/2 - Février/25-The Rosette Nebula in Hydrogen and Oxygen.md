@@ -1,0 +1,13 @@
+The Rosette Nebula in Hydrogen and Oxygen,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1502/ngc2244_rottal_1080.jpg)](https://apod.nasa.gov/apod/image/1502/ngc2244_rottal_1280.jpg)
+
+Copyright: 
+Arno Rottal
+(Far-Light-Photography) 
+, 
+
+Date: 2015-02-25,
+
+Explanation: The Rosette Nebula is not the only cosmic cloud of gas and dust to evoke the imagery of flowers -- but it is the most famous.  At the edge of a large molecular cloud in Monoceros, some 5,000 light years away, the petals of this rose are actually a stellar nursery whose lovely, symmetric shape is sculpted by the winds and radiation from its central cluster of hot young stars. The stars in the energetic cluster, cataloged as NGC 2244, are only a few million years old, while the central cavity in the Rosette Nebula, cataloged as NGC 2237, is about 50 light-years in diameter. The nebula can be seen firsthand with a small telescope toward the constellation of the Unicorn (Monoceros).   Follow APOD on: Facebook,  Google Plus, or Twitter
+

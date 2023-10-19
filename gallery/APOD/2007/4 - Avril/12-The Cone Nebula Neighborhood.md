@@ -1,0 +1,13 @@
+The Cone Nebula Neighborhood,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0704/coneabtpss720.jpg)](https://apod.nasa.gov/apod/image/0704/coneabtpss.jpg)
+
+Copyright: 
+Adam Block and
+Tim Puckett
+, 
+
+Date: 2007-04-12,
+
+Explanation: Cosmic clouds of hydrogen gas and dust abound in this gorgeous skyscape, stretching through Monoceros in the neighborhood of The Cone Nebula. A dark, obscuring dust cloud, the simple, sculpted shape of the Cone Nebula is near the lower left edge. Surrounded by the red glow of hydrogen gas, the cone points up, toward bright, blue-white S Monocerotis, a quadruple system of very massive, hot stars. S Mon itself is also surrounded by intriguing red emission nebulae characteristic of star forming regions while above and to the right of S Mon, expansive dark markings on the sky are silhouetted by a larger region of fainter emission. Yellowish open star cluster Trumpler 5 is below picture center, with the striking blue reflection nebula, IC 2169 near the center right edge. The curious compact cometary shape near the bottom edge is Hubble's Variable Nebula. Over 31 hours of exposure time went into this truly remarkable, 2.5 degree wide, color mosaic.
+

@@ -1,0 +1,10 @@
+The Galactic Center - A Radio Mystery,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0208/gc_1meter.jpg)](https://apod.nasa.gov/apod/image/0208/gc_1meter_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2002-08-03,
+
+Explanation: Tuning in to the center of our Milky Way galaxy, radio astronomers explore a complex, mysterious place. A premier high resolution view, this startlingly beautiful picture covers a 4x4 degree region around the galactic center. It was constructed from 1 meter wavelength radio data obtained by telescopes of the Very Large Array near Socorro, New Mexico, USA. The galactic center itself is at the edge of the extremely bright object labeled Sagittarius (Sgr) A, suspected of harboring a million solar mass black hole. Along the galactic plane which runs diagonally through the image are tortured clouds of gas energized by hot stars and bubble-shaped supernova remnants (SNRs) - hallmarks of a violent and energetic cosmic environment. But perhaps most intriguing are the arcs, threads, and filaments which abound in the scene. Their uncertain origins challenge present theories of the dynamics of the galactic center.
+

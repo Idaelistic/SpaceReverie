@@ -1,0 +1,10 @@
+M17: A Hubble Close-Up,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0304/m17close_hst_c1.jpg)](https://apod.nasa.gov/apod/image/0304/m17close_hst_full.jpg)
+
+Copyright: No copyright, 
+
+Date: 2003-04-25,
+
+Explanation: Sculpted by stellar winds and radiation, these fantastic, undulating shapes lie within the stellar nursery known as M17, the Omega Nebula, some 5,500 light-years away in the nebula-rich constellation Sagittarius. The lumpy features in the dense cold gas and dust are illuminated by stars off the upper left of the image and may themselves represent sites of future star formation. Colors in the fog of surrounding hotter material indicate M17's chemical make up. The predominately green glow corresponds to abundant hydrogen, with trace sulfur and oxygen atoms contributing red and blue hues. The picture spans about 3 light-years and was released to celebrate the thirteenth year of the Hubble Space Telescope's cosmic voyage of exploration.
+

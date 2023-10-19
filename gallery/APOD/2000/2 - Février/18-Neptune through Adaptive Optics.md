@@ -1,0 +1,10 @@
+Neptune through Adaptive Optics,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0002/neptune_keck.jpg)](https://apod.nasa.gov/apod/image/0002/neptune_keck_big.gif)
+
+Copyright: No copyright, 
+
+Date: 2000-02-18,
+
+Explanation: From the Earth's surface, Neptune usually appears as a fuzzy blotch.  The blurring effects of the Earth's atmosphere deny clearer images.  By distorting mirrors in the telescope itself in time with the changing atmosphere, however, these effects can be greatly reduced.  Many of the world's largest telescopes are now implementing these "rubber mirror" adaptive optics (AO) systems to bring out the finest details that these telescopes can resolve.  Recently the 10-meter Keck II telescope in Hawaii came on-line with AO capability.  The above image of Neptune in three infrared colors demonstrates the clarity of the new technique - as compared to an image of Neptune from Keck II without AO.
+

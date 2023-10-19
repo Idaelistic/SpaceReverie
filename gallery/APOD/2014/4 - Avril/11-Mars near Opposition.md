@@ -1,0 +1,11 @@
+Mars near Opposition,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1404/MarsApril02FabioandGabrielaBrazil800s.jpg)](https://apod.nasa.gov/apod/image/1404/MarsApril02FabioandGabrielaBrazil.jpg)
+
+Copyright: Fabio Carvalho
+and Gabriela Carvalho, 
+
+Date: 2014-04-11,
+
+Explanation: Tonight Mars is between opposition (April 8) and closest approach (April 14) looping through the constellation Virgo opposite the Sun in the night sky. That makes it prime season for telescopic views of the the Red Planet, like this one from April 3rd. The clear, sharp image was captured with a high-speed digital camera and 16-inch diameter telescope from Assis, Brazil, Planet Earth. Mars' north polar cap is at the top left. Also visible are whitish orographic clouds - water vapor clouds condensing in the cold atmosphere above the peaks of Mars' towering volcanos.  The exact dates of closest approach and opposition are slightly different because of the planet's elliptical orbit. Still, get your telescope out on the night of closest approach (April 14/15) and you can view both Mars and a total eclipse of the Moon. Mars will be about 1/100th the angular size of the Moon.
+

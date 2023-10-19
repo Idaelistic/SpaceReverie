@@ -1,0 +1,10 @@
+Streams of Stars in the Virgo Cluster of Galaxies,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0509/virgo_kpno_big.jpg)](https://apod.nasa.gov/apod/image/0509/virgo_kpno.jpg)
+
+Copyright: No copyright, 
+
+Date: 2005-09-26,
+
+Explanation: How do huge clusters of galaxies evolve?  To help find out, astronomers pointed the wide-angle Burrell-Schmidt telescope on Kitt Peak National Observatory in Arizona, USA at the nearby Virgo Cluster of Galaxies.  After hundreds of 15-minute exposures taken over two months in early 2004, the result is a dramatically deep and wide angle image of Virgo, the closest cluster of galaxies to our Milky Way Galaxy.  Bright foreground stars have been digitally removed from the image but are still represented by numerous unusual dark spots. Inspection of the above image shows unusually large halos for the brightest galaxies as well as unusual faint streams of stars connecting Virgo galaxies that previously appeared unrelated.  The above image allows a better reconstruction of the past few billion years of the gigantic Virgo cluster and illuminates the dynamics of clusters of galaxies in general.
+

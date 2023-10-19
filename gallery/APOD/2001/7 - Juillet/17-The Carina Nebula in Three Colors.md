@@ -1,0 +1,10 @@
+The Carina Nebula in Three Colors,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0107/carina_noao.jpg)](https://apod.nasa.gov/apod/image/0107/carina_noao_big.jpg)
+
+Copyright: University of Minnesota, 
+
+Date: 2001-07-17,
+
+Explanation: Stars, like people, do not always go gentle into that good night.  The above Carina Nebula, also known as the Keyhole Nebula and NGC 3372, results from dying star Eta Carinae's violently casting off dust and gas during its final centuries.  Eta Carinae, one of the most luminous stars known, is visible as the bright star near the center of the nebula.  The above picture was taken in three distinct colors of light: blue light as emitted from hot oxygen, green light as emitted by warm hydrogen, and red light as emitted by cool sulfur.  Eta Carinae faded from being one of the brightest stars in the sky during the 1800s, but is still visible with binoculars in southern skies towards the constellation of Carina.
+

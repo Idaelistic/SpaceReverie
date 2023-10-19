@@ -1,0 +1,12 @@
+The Great Nebula in Carina,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1603/Carina_Peach_960.jpg)](https://apod.nasa.gov/apod/image/1603/Carina_Peach_4553.jpg)
+
+Copyright: 
+Damian Peach/SEN
+, 
+
+Date: 2016-03-23,
+
+Explanation: In one of the brightest parts of Milky Way lies a nebula where some of the oddest things occur. NGC 3372, known as the Great Nebula in Carina, is home to massive stars and changing nebulas. The Keyhole Nebula (NGC 3324), the bright structure just above the image center, houses several of these massive stars and has itself  changed its appearance. The entire Carina Nebula spans over 300 light years and lies about 7,500 light-years away in the constellation of Carina.   Eta Carinae, the most energetic star in the nebula, was one of the brightest stars in the sky in the 1830s, but then faded dramatically. Eta Carinae is the brightest star near the image center, just left of the Keyhole Nebula. While Eta Carinae itself maybe on the verge of a supernova explosion, X-ray images indicate that much of the Great Carina Nebula has been a veritable supernova factory.
+

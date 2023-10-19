@@ -1,0 +1,10 @@
+Io: A Volcanic Moon,
+
+[![Build Status](https://apod.nasa.gov/apod/image/io1.gif)](https://apod.nasa.gov/apod/image/io1.gif)
+
+Copyright: No copyright, 
+
+Date: 1995-08-03,
+
+Explanation: August 3, 1995    Io: A Volcanic Moon  Credit: NASA, Voyager Project  Explanation:  In 1610, Galileo turned his telescope to the heavens and discovered that the planet Jupiter had four bright moons. The innermost of these Galilean moons, Io, turned out to be one of the most exotic objects in the solar system. About the size of the earth's moon, Io is covered with volcanoes, many of which are currently active. The material expelled in the volcanic eruptions may contain compounds of Sulfur which take on a variety of colors and could account for its mottled, "pizza-like" appearance. For a report of a recent eruption of an Io volcano, see the NASA Infrared Telescope Facility press release and photo .
+

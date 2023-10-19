@@ -1,0 +1,10 @@
+Shuttle Ferry,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0707/shuttle747_nasa.jpg)](https://apod.nasa.gov/apod/image/0707/shuttle747_nasa_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2007-07-08,
+
+Explanation: How does a space shuttle that landed in California get back to Florida for its next launch?  The answer is by ferry.  NASA operates two commercial Boeing 747 airplanes modified to carry a  space shuttle on their backs.  Designated officially as Shuttle Carrier Aircraft or SCA, the 747s were made for commercial flights but bolstered by NASA with several struts, stabilizers, and electronic monitors.  Spanning about 70 meters in length, the two aircraft's combined mass is nearly 150,000 kilograms.  Pictured above, the space shuttle Atlantis is shown being ferried back to NASA Kennedy Space Center in Florida in September 1998.
+

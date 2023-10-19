@@ -1,0 +1,10 @@
+Swiss Cheese-Like Landscape on Mars,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0103/marscheese_mgs.jpg)](https://apod.nasa.gov/apod/image/0103/marscheese_mgs_big.gif)
+
+Copyright: No copyright, 
+
+Date: 2001-03-27,
+
+Explanation: Why do parts of the south pole of Mars look like swiss cheese?  This little-understood landscape features flat-topped mesas nearly 4 meters high and circular indentations over 100 meters across.  Since this swiss-cheese topography is unique to the polar cap covering southern Mars, exogeologists speculate that mesa composition might be high in  frozen carbon dioxide (dry ice).  Additionally, dry ice might have had a role in this strange landscape's creation.  In the above picture, the Martian surface is illuminated by sunlight from the upper right.  The  above picture was taken in August 1999 by the robot Mars Global Surveyor spacecraft currently orbiting Mars.
+

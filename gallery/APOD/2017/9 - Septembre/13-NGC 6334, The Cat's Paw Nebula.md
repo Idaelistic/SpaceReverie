@@ -1,0 +1,12 @@
+NGC 6334: The Cat's Paw Nebula,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1709/ngc6334_Varouhakis_960.jpg)](https://apod.nasa.gov/apod/image/1709/ngc6334_Varouhakis_1200.jpg)
+
+Copyright: 
+George Varouhakis
+, 
+
+Date: 2017-09-13,
+
+Explanation: Nebulas are perhaps as famous for being identified with familiar shapes as perhaps cats are for getting into trouble.  Still, no known cat could have created the vast Cat's Paw Nebula visible in Scorpius.  At 5,500 light years distant, Cat's Paw is an emission nebula with a red color that originates from an abundance of ionized hydrogen atoms.  Alternatively known as the Bear Claw Nebula or NGC 6334, stars nearly ten times the mass of our Sun have been born there in only the past few million years. Pictured here is  a deep field image of the  Cat's Paw Nebula in light emitted by hydrogen, oxygen, and sulfur.
+

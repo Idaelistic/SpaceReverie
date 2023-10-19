@@ -1,0 +1,11 @@
+A Solar Corona Ejection
+Credit:,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9611/solarcme_soon.gif)](https://apod.nasa.gov/apod/image/9611/solarcme_soon_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-11-08,
+
+Explanation: The Sun would not be a nice place to spend the summer. One reason, besides the extreme heat, is that explosions are common there. In the above picture, magnetic fields buckle releasing previously constrained hot material from the upper atmosphere of the Sun. As a result, hot gas streams out into the Solar System, impacting planets, moons, spacecraft, and making space a dangerous place for astronauts. Known as coronal mass ejections (CMEs), billions of tons of scathing plasma can be accelerated to millions of miles per hour. CMEs are more common but less intense than solar flares.
+

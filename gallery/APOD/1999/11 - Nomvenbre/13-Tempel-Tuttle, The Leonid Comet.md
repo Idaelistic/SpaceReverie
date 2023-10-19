@@ -1,0 +1,14 @@
+Tempel-Tuttle: The Leonid Comet,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9801/temptut_puckett_big.jpg)](https://apod.nasa.gov/apod/image/9801/temptut_puckett.gif)
+
+Copyright: 
+T. Puckett
+(Puckett Observatory)
+
+, 
+
+Date: 1999-11-13,
+
+Explanation: Star trails streak this composite time exposure of Comet Tempel-Tuttle recorded by T. Puckett on January 26, 1998. Then passing through the inner solar system on its 33 year orbit around the Sun, Tempel-Tuttle brightened unexpectedly, but binoculars or small telescopes were still required to visually observe it. Tempel-Tuttle is also called "the Leonid Comet" as the yearly Leonid meteor shower results when the Earth crosses this comet's orbital plane and encounters cometary dust. So, while not rivaling spectacular naked-eye comets like Hyakutake or Hale-Bopp, Tempel-Tuttle still puts on a show. When the Earth plunges through Tempel-Tuttle's debris tail in November of this year, many sky-watchers are anticipating an extremely active meteor shower to result, perhaps even a meteor storm!
+

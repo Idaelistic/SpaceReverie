@@ -1,0 +1,11 @@
+Hale-Bopp Brighest Comet This Decade
+Credit:,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9703/halebopp3_aac.jpg)](https://apod.nasa.gov/apod/image/9703/halebopp3_aac_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1997-03-13,
+
+Explanation: The Great Comet of 1997 is now brighter than the Great Comet of 1996 ever was. In fact, it is brighter than almost every star in the sky. Yet Comet Hale-Bopp is still about two weeks away from maximum light. Comet Hale-Bopp is now well north of the plane of the Earth's orbit and on the same side of the sky as the Sun. Therefore, Comet Hale-Bopp is visible from Earth's Northern Hemisphere both just after sunset and just before sunrise. The above picture of Comet Hale-Bopp was taken last week in Italy. Many Milky Way stars and nebulae are visible. To the left is a rock face partly illuminated by artificial light.
+

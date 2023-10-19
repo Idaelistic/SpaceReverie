@@ -1,0 +1,12 @@
+IC 4628: The Prawn Nebula,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0610/IC4628NB_pugh_c35.jpg)](https://apod.nasa.gov/apod/image/0610/IC4628NB_pugh_f.jpg)
+
+Copyright: 
+Martin Pugh
+, 
+
+Date: 2006-10-20,
+
+Explanation: South of Antares, in the tail of the nebula-rich constellation Scorpius, lies emission nebula IC 4628. Nearby hot, massive stars, millions of years young, radiate the nebula with invisible ultraviolet light, stripping electrons from atoms. The electrons eventually recombine with the atoms to produce the visible nebular glow. This narrow band image adopts a typical false-color mapping of the atomic emission, showing hydrogen emission in green hues, sulfur as red and oxygen as blue. At an estimated distance of 6,000 light-years, the region shown is about 250 light-years across. The nebula is also cataloged as Gum 56 for Australian astronomer Colin Stanley Gum, but seafood-loving astronomers might know this cosmic cloud as The Prawn Nebula.
+

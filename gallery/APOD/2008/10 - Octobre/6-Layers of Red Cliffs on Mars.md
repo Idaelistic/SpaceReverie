@@ -1,0 +1,10 @@
+Layers of Red Cliffs on Mars,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0810/marslayers_hirise.jpg)](https://apod.nasa.gov/apod/image/0810/marslayers_hirise_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2008-10-06,
+
+Explanation: How did these layers of red cliffs form on Mars? No one is sure. The northern ice cap on Mars is nearly divided into two by a huge division named Chasma Boreale.  No similar formation occurs on Earth. Pictured above, several dusty layers leading into this deep chasm are visible. Cliff faces, mostly facing left but still partly visible from above, appear dramatically red.  The light areas are likely water ice. The above image spans about one kilometer near the north of Mars, and the elevation drop from right to left is over a kilometer. One hypothesis relates the formation of Chasma Boreale to underlying volcanic activity.
+

@@ -1,0 +1,11 @@
+Comet Hale-Bopp Over Val Parola Pass
+Credit:,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9703/halebopp5_aac.jpg)](https://apod.nasa.gov/apod/image/9703/halebopp5_aac_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1997-03-17,
+
+Explanation: Comet Hale-Bopp is now much brighter than any surrounding stars. It can be seen even over bright city lights. Out away from city lights, however, it is putting on quite a spectacular show. Here Comet Hale-Bopp was photographed last week above Val Parola Pass in the Dolomite mountains surrounding Cortina d'Ampezzo, Italy. Comet Hale-Bopp's blue ion tale is created when fast moving particles from the solar wind strike recently expelled ions from the comet's nucleus. The white dust tail is composed of larger particles of dust and ice expelled by the nucleus that orbit behind the comet. Recent observations show that Comet Hale-Bopp's nucleus spins about once every 12 hours. Comet Hale-Bopp is now visible in both the early morning and early evening sky, and will continue to brighten this week.
+

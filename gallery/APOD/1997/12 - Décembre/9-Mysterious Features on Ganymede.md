@@ -1,0 +1,10 @@
+Mysterious Features on Ganymede,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9712/ganycirc_gal.jpg)](https://apod.nasa.gov/apod/image/9712/ganycirc_gal_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1997-12-09,
+
+Explanation: Where is the rest of the circle? Jupiter's largest moon Ganymede has some truly unusual terrain, including the pictured half circle above cut by nearly parallel curves.  Full circles can be easily explained by impact craters, but partial circles imply that some resurfacing has occurred since the original impact.  The diameter of the half circle is about 32 kilometers.  Also of interest is a dense linear crater chain that cuts across the top of the half-circle.  Mysteries like these are typically solved by the hard work of reconstructing a sequence of natural occurrences, which in this case may yield a better understanding of Ganymede's interesting past.
+

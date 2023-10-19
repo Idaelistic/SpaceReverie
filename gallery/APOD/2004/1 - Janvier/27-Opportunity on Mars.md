@@ -1,0 +1,10 @@
+Opportunity on Mars,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0401/bwlanding_opportunity.jpg)](https://apod.nasa.gov/apod/image/0401/bwlanding_opportunity_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2004-01-27,
+
+Explanation: You've just woken up in a small crater on Mars.  The surrounding landscape is barren, strange, and alien.  You've never been on this world before.  You transmit pictures that are instantly rebroadcast all over your home world.  You are the eyes for billions of people.  You seek adventure.  Your mission is to explore this strange new world and search for signs of pre-historic life.  You have six wheels, one arm, and X-ray eyes. Surrounding you, pictured above, is iron sand and light-colored protrusions that might be bedrock.  You are the Opportunity Rover that landed on Mars just this past weekend.
+

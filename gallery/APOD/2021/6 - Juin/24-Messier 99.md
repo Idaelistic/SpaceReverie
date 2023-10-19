@@ -1,0 +1,10 @@
+Messier 99,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2106/M99_LeoShatz_cropped1024.jpg)](https://apod.nasa.gov/apod/image/2106/M99_LeoShatz_cropped.jpg)
+
+Copyright: No copyright, 
+
+Date: 2021-06-24,
+
+Explanation: Grand design spiral galaxy Messier 99 looks majestic on a truly cosmic scale. This recently processed full galaxy portrait stretches over 70,000 light-years across M99. The sharp view is a combination of ultraviolet, visible, and infrared image data from the Hubble Space Telescope. About 50 million light-years distant toward the well-groomed constellation Coma Bernices, the face-on spiral is a member of the nearby Virgo Galaxy Cluster. Also cataloged as NGC 4254, a close encounter with another Virgo cluster member has likely influenced the shape of its well-defined, blue spiral arms.
+

@@ -1,0 +1,10 @@
+Dextre Robot at Work on the Space Station,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0806/dextre_iss017.jpg)](https://apod.nasa.gov/apod/image/0806/dextre_iss017_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2008-06-11,
+
+Explanation: What's the world's most complex space robot doing up there?  Last week, Dextre was imaged moving atop the Destiny Laboratory Module of the International Space Station (ISS), completing tasks prior to the deployment of Japan's Kibo pressurized science laboratory. Dextre, short for the Canadian-built Special Purpose Dextrous Manipulator, has arms three meters in length and can attach power tools as fingers.  Behind Dextre is the blackness of space, while Earth looms over Dextre's head.  The Kibo laboratory segment being deployed during space shuttle Discovery's trip to the ISS can be pressurized and contains racks of scientific experiment that will be used to explore many things, including how plants brace themselves against gravity, and how water might be inhibited from freezing in cells under microgravity.    News: GLAST spacecraft reaches orbit
+

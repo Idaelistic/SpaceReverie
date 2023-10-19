@@ -1,0 +1,14 @@
+Zimbabwe Solar Eclipse,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0212/tse2002_alexander1.jpg)](https://apod.nasa.gov/apod/image/0212/tse2002_alexander1.jpg)
+
+Copyright: 
+
+Murray Alexander
+
+, 
+
+Date: 2002-12-06,
+
+Explanation: Normally hiding from view in the glare of the Sun, the shy solar corona came out to play Wednesday as a total solar eclipse graced morning skies over southern Africa. This telescopic image of the Sun's corona or outer atmosphere shimmering around the silhouetted Moon was recorded near the centreline of the total eclipse path, 10 kilometers north of Beitbridge, Zimbabwe. At that location, near the Zimbabwe - South Africa border, the total phase pictured here lasted a leisurely one minute and 23 seconds. Zimbabwean photographer Murray Alexander reported that fortunately no clouds interfered but few people were present, while many watching from the South Africa side were clouded out. Still, if you missed this geocentric celestial event, just wait until next year. Two solar eclipses and two lunar eclipses are on planet Earth's schedule for 2003, along with a transit of Mercury.
+

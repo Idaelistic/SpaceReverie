@@ -1,0 +1,12 @@
+A Sundial that Shows Solstice,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1706/solsticedial_mari_960.jpg)](https://apod.nasa.gov/apod/image/1706/solsticedial_mari_5616.jpg)
+
+Copyright: 
+Jean-Marc Mari
+, 
+
+Date: 2017-06-21,
+
+Explanation: What day is it? If the day -- and time -- are right, this sundial will tell you: SOLSTICE. Only then will our  Sun be located just right for sunlight to stream through openings and spell out the term for the longest and shortest days of the year. But this will happen today (and again in December). The sundial was constructed by Jean Salins in 1980 and is situated at the Ecole Sup�rieure des Mines de Paris in Valbonne Sophia Antipolis of south-eastern France. On two other days of the year, watchers of this sundial might get to see it produce another word: EQUINOXE.
+

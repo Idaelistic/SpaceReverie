@@ -1,0 +1,10 @@
+Ringside with Rhea,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1303/PIA12771_c900.jpg)](https://apod.nasa.gov/apod/image/1303/PIA12771.jpg)
+
+Copyright: No copyright, 
+
+Date: 2013-03-29,
+
+Explanation: Orbiting in the plane of Saturn's rings, Saturnian moons have a perpetual ringside view of the gas giant planet. Of course, while passing near the ring plane the Cassini spacecraft also shares their stunning perspective. The thin rings themselves slice across the middle of this Cassini snapshot from April 2011. The scene looks toward the dark night side of Saturn, in the frame at the left, and the still sunlit side of the rings from just above the ringplane. Centered, over 1,500 kilometers across, Rhea is Saturn's second largest moon and is closest to the spacecraft, around 2.2 million kilometers away. To Rhea's right, shiny, 500 kilometer diameter Enceladus is about 3 million kilometers distant. Dione, 1,100 kilometers wide, is 3.1 million kilometers from Cassini's camera on the left, partly blocked by Saturn's night side.
+

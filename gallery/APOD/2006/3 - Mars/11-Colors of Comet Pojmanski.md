@@ -1,0 +1,18 @@
+Colors of Comet Pojmanski,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0603/c2006a1_blockGabany_c53.jpg)](https://apod.nasa.gov/apod/image/0603/c2006a1_blockGabany_f.jpg)
+
+Copyright: 
+
+Adam Block (Caelum
+Observatory),
+
+R. Jay GaBany
+(Cosmotography.com)
+
+, 
+
+Date: 2006-03-11,
+
+Explanation: Comet Pojmanski flew by planet Earth last weekend on a surprise trip through the inner solar system. Then an easy binocular target for morning skygazers, Pojmanski ultimately showed off a long tail, but it also presented some lovely green-blue hues as gas molecules in its tenuous coma and tail fluoresced in the sunlight. Astronomers Adam Block and Jay GaBany recorded this colorful high-resolution view on March 3rd in the darkness just before twilight. The picture spans about one full moon on the sky. Comet Pojmanski (C/2006 A1) is outward bound and fading now, still visible in binoculars for northern hemisphere observers.
+

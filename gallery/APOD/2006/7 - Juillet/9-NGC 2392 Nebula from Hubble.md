@@ -1,0 +1,10 @@
+NGC 2392 Nebula from Hubble,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0607/ngc2392_hst.jpg)](https://apod.nasa.gov/apod/image/0607/ngc2392_hst_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2006-07-09,
+
+Explanation: In 1787, astronomer William Herschel discovered  NGC 2392.  From the ground, NGC 2392 resembles a person's head surrounded by a parka hood.  In 2000, the Hubble Space Telescope imaged  NGC 2392.   From space, the nebula displays gas clouds so complex they are not fully understood.   NGC 2392 is clearly a planetary nebula, and the gas seen above composed the outer layers of a Sun-like star only 10,000 years ago.  The inner filaments visible above are being ejected by strong  wind of particles from the central star.  The outer disk contains unusual light-year long orange filaments.
+

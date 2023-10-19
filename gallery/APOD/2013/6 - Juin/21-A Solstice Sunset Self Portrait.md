@@ -1,0 +1,10 @@
+A Solstice Sunset Self Portrait,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1306/sequence_pivato900.jpg)](https://apod.nasa.gov/apod/image/1306/sequence_pivato.jpg)
+
+Copyright: Danilo Pivato, 
+
+Date: 2013-06-21,
+
+Explanation: Today, the solstice is at 05:04 Universal Time, the Sun reaching the northernmost declination in its yearly journey through planet Earth's sky. A June solstice marks the astronomical beginning of summer in the northern hemisphere and winter in the south. It also brings the north's longest day, the longest period between sunrise and sunset. This composite image follows the Sun's path toward the end of the June solstice day of 2012 as it approaches the western horizon in a colorful, clear sky. The scene looks north and west along the Tyrrhenian Sea coast from Santa Severa, Italy. Appearing in the well-timed sequence, the small figure of the photographer himself is illuminated against the wall of the town's medieval castle.
+

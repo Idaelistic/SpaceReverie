@@ -1,0 +1,10 @@
+Io Aurora,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9810/ioaurora_gal.jpg)](https://apod.nasa.gov/apod/image/9810/ioaurora_gal_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1998-10-16,
+
+Explanation: Alluring aurora surrounding Io (eye-oh) appear as a ghostly glow while the volcanic moon orbits within Jupiter's dark shadow. Gas giant Jupiter is off to the right of this image, recorded in May by the robot Galileo spacecraft's solid state imaging camera from a distance of about 1.3 million kilometers. Energetic charged particles colliding with Io's atmospheric gases create the vivid colors and produce the red and green glow analogous to the aurora of Earth. The striking blue light is caused by dense volcanic plumes and may indicate regions electrically connected to Jupiter itself.
+

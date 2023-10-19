@@ -1,0 +1,13 @@
+Icelandic Legends and Aurora,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1512/AuroraIceland_Ryan_1080.jpg)](https://apod.nasa.gov/apod/image/1512/AuroraIceland_Ryan_2000.jpg)
+
+Copyright: 
+Elizabeth M. Ryan;
+ Rollover Annotation:  Judy Schmidt
+, 
+
+Date: 2015-12-08,
+
+Explanation: Legends collide in this dramatic vista of land, sea, and sky. The land is Iceland, specifically V�k � M�rdal, a southern village known for its beautiful black sand beaches. The sea, the Atlantic Ocean, surrounds Reynisdrangar, a sea stack of eroded basaltic rock pillars that Icelandic folklore tells are the petrified remains of trolls once attempting to drag a three-masted ship onto land.  Watching from overhead and shining bright on the upper right is the god of the sky, according to Greek mythology: the planet Jupiter.  Also visible in the sky are several other Greek legends encapsulated as constellations, including a lion (Leo), a big bear (Ursa Major), and a water snake (Hydra).  One might guess that all of this commotion caused the spectacular aurora pictured -- but really it was just explosions from the Sun.
+

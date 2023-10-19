@@ -1,0 +1,14 @@
+Tutulemma: Solar Eclipse Analemma,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1608/tutulemma_tezel_960.jpg)](https://apod.nasa.gov/apod/image/1608/tutulemma_tezel_960.jpg)
+
+Copyright: 
+Cenk E. Tezel and
+Tunç Tezel
+(TWAN) 
+, 
+
+Date: 2016-08-22,
+
+Explanation: If you went outside at exactly the same time every day and took a picture that included the Sun, how would the Sun's position change?  With great planning and effort, such a series of images can be taken.  The figure-8 path the Sun follows over the course of a year is called an analemma.  At the Winter Solstice in Earth's northern hemisphere, the Sun appears at the bottom of the analemma. Analemmas created from different latitudes appear at least slightly different, as well as analemmas created at a different time each day. With even greater planning and effort, the series can include a total eclipse of the Sun as one of the images. Pictured is such a total solar eclipse analemma or Tutulemma - a term coined by the photographers based on the Turkish word for eclipse. The featured composite image sequence was recorded from Turkey starting in 2005. The base image for the sequence is from the total phase of a solar eclipse as viewed from Side, Turkey on 2006 March 29. Venus was also visible during totality, toward the lower right. If you want to create your own USA-based tutulemma ending at next August's total solar eclipse, now would be good time to start.    Free Download: APOD 2017 Calendar: NASA Images
+

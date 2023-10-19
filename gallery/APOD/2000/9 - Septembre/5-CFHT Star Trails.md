@@ -1,0 +1,10 @@
+CFHT Star Trails,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0009/dometrails_cfht.jpg)](https://apod.nasa.gov/apod/image/0009/dometrails_cfht_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2000-09-05,
+
+Explanation: High atop a dormant volcano in Hawaii, an eye 3.6-meters wide stares at a faint light on the night sky.  Unlike a human eye, which collects light for only a fraction of a second at a time, a telescope such as the Canada-France-Hawaii Telescope (CFHT) can collect light for hours. Faint sources become visible that were previously beyond human imagination.  These meticulous observations usually take so long, though, that the Earth's spin causes the telescope to move under the sky.  This spin is visible in the above photograph as star trails in the background.  The CFHT itself must counter-spin to keep on target.  The enormous size of the CFHT dome can be gauged by the car in the foreground.  The CFHT is one of the smaller telescopes atop Mauna Kea.
+

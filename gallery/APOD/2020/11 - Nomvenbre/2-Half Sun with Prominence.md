@@ -1,0 +1,12 @@
+Half Sun with Prominence,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2011/HalfSunProm_Colacurcio_960.jpg)](https://apod.nasa.gov/apod/image/2011/HalfSunProm_Colacurcio_2974.jpg)
+
+Copyright: 
+Rainee Colacurcio
+, 
+
+Date: 2020-11-02,
+
+Explanation: What's happening to the Sun? Clearly, the Sun's lower half is hidden behind a thick cloud.  Averaging over the entire Earth, clouds block the Sun about 2/3rds of the time, although much less over many land locations. On the Sun's upper right is a prominence of magnetically levitating hot gas. The prominence might seem small but it could easily envelop our  Earth and persist for over a month.  The featured image is a combination of two exposures, one optimizing the cloud and prominence, and the other optimizing the Sun's texture.  Both were taken about an hour apart with the same camera and from the same location in Lynnwood, Washington, USA.  The shaggy texture derives from the Sun's chromosphere, an atmospheric layer that stands out in the specifically exposed color.  The uniformity of the texture shows the surface to be relatively calm, indicative of a Sun just past the solar minimum in its 11-year cycle. In the years ahead, the Sun will progress toward a more active epoch where sunspots, prominences, and ultimately auroras on Earth will be more common: solar maximum.    Gallery: Notable images of the Halloween Blue Moon of 2020 submitted to APOD
+

@@ -1,0 +1,12 @@
+The Colorful Clouds of Rho Ophiuchi,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1312/RhoOph_Defavari_960.jpg)](https://apod.nasa.gov/apod/image/1312/RhoOph_Defavari_3800.jpg)
+
+Copyright: 
+Rafael Defavari
+, 
+
+Date: 2013-12-03,
+
+Explanation: The many spectacular colors of the Rho Ophiuchi (oh'-fee-yu-kee) clouds highlight the many processes that occur there.  The blue regions shine primarily by reflected light.  Blue light from the star Rho Ophiuchi and nearby stars reflects more efficiently off this portion of the nebula than red light.  The Earth's daytime sky appears blue for the same reason.  The red and yellow regions shine primarily because of emission from the nebula's atomic and molecular gas.  Light from nearby blue stars - more energetic than the bright star  Antares - knocks electrons away from the gas, which then shines when the electrons recombine with the gas.  The dark brown regions are caused by dust grains - born in young stellar atmospheres - which effectively block light emitted behind them.  The Rho Ophiuchi star clouds, well in front of the globular cluster M4 visible  above on lower left, are even more colorful than humans can see - the clouds emits light in every wavelength band from the radio to the gamma-ray.   Budget Universe: Free APOD 2014 Calendar in PDF format
+

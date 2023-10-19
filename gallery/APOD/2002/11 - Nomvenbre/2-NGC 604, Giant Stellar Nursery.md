@@ -1,0 +1,10 @@
+NGC 604: Giant Stellar Nursery,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0211/ngc604_hst_c1.jpg)](https://apod.nasa.gov/apod/image/0211/ngc604_hst_full.jpg)
+
+Copyright: No copyright, 
+
+Date: 2002-11-02,
+
+Explanation: Scattered within this cavernous nebula, cataloged as NGC 604, are over 200 newly formed hot, massive, stars. At 1,500 light-years across, this expansive cloud of interstellar gas and dust is effectively a giant stellar nursery located some three million light-years distant in the spiral galaxy, M33. The newborn stars irradiate the gas with energetic ultraviolet light stripping electrons from atoms and producing a characteristic nebular glow. The details of the nebula's structure hold clues to the mysteries of star formation and galaxy evolution.
+

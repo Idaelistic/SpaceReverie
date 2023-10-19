@@ -1,0 +1,10 @@
+Betelgeuse, Betelgeuse, Betelgeuse,
+
+[![Build Status](https://apod.nasa.gov/apod/image/hst_betelg.gif)](https://apod.nasa.gov/apod/image/hst_betelg_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-01-22,
+
+Explanation: Betelgeuse (sounds a lot like "beetle juice"), a red supergiant star about 600 lightyears distant, is shown here in this Hubble Space Telescope image which represents the first direct picture of the surface of a star other than the Sun. While Betelgeuse is cooler than the Sun, it is more massive and over 1000 times larger - if placed at the center of our Solar System, it would extend past the orbit of Jupiter. This image reveals a bright, as yet unexplained hotspot on its surface. Betelgeuse is also known as Alpha Orionis, one of the brightest stars in the familar constellation of Orion, the Hunter. Like many star names, Betelgeuse is Arabic in origin. It is derived from a phrase which refers to the hunter's shoulder or armpit, the general area occupied by this star in drawings of the figure in the constellation. As a massive red supergiant, it is nearing the end of its life and will soon become a supernova.
+

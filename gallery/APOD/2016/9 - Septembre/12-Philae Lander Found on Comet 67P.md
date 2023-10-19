@@ -1,0 +1,16 @@
+Philae Lander Found on Comet 67P,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1609/PhilaeFound_ESA_1080.jpg)](https://apod.nasa.gov/apod/image/1609/PhilaeFound_ESA_5333.jpg)
+
+Copyright: 
+ESA, 
+Rosetta, 
+MPS, OSIRIS; 
+UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA/Navcam
+
+, 
+
+Date: 2016-09-12,
+
+Explanation: A little spacecraft that was presumed lost has now been found. In 2014, the Philae lander slowly descended from its parent Rosetta spacecraft to the nucleus of Comet C67/P Churyumov-Gerasimenko. At the surface, after a harpoon malfunction, the lander bounced softly twice and eventually sent back images from an unknown location.  Earlier this month, though, Rosetta swooped low enough to spot its cub.  The meter-sized Philae is seen on the far right of the main image, with inset images showing both a zoom out and a zoom in. At the end of this month, Rosetta itself will be directed to land on 67P, but Rosetta's landing will be harder and, although taking unique images and data, will bring the mission  to an end.    Free Download: APOD 2017 Calendar: NASA Images
+

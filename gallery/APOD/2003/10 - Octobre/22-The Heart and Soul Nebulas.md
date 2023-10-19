@@ -1,0 +1,15 @@
+The Heart and Soul Nebulas,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0310/heartandsoul_dss.jpg)](https://apod.nasa.gov/apod/image/0310/heartandsoul_dss_big.jpg)
+
+Copyright: 
+Richard Powell, 
+Digitized Sky Survey,
+Palomar Observatory, 
+STScI
+, 
+
+Date: 2003-10-22,
+
+Explanation: Is the heart and soul of our Galaxy located in Cassiopeia?  Possibly not, but that is where two bright emission nebulas nicknamed Heart and Soul can be found.  The Heart Nebula, officially dubbed IC 1805 and visible above on the right, has a shape reminiscent of a classical heart symbol.  Both nebulas shine brightly in the red light of energized hydrogen.  Several young open clusters of stars populate the image and are visible above in blue, including the nebula centers.  Light takes about 6,000 years to reach us from these nebulas, which together span roughly 300 light years.  Studies of stars and clusters like those found in the Heart and Soul Nebulas have focussed on how massive stars form and how they affect their environment.
+

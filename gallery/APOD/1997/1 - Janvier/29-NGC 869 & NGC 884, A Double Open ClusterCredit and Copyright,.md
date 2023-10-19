@@ -1,0 +1,11 @@
+NGC 869 & NGC 884: A Double Open Cluster
+Credit and Copyright:,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9701/ngc869_as.jpg)](https://apod.nasa.gov/apod/image/9701/ngc869_as_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1997-01-29,
+
+Explanation: Most star clusters are singularly impressive. But open clusters NGC 869 and NGC 884 are doubly impressive. Also known as "h and chi Persei", this rare double cluster, shown above, is bright enough to be seen from a dark location without even binoculars. Although their discovery surely predates written history, the "double cluster" was notably cataloged by the Greek astronomer Hipparcos. The clusters are over 7000 light years distant toward the constellation of Perseus, but are separated by only hundreds of light years.
+

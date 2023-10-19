@@ -1,0 +1,10 @@
+Comet Hyakutake and a Solar Flare,
+
+[![Build Status](https://apod.nasa.gov/apod/image/hyakutake_flare_soho.gif)](https://apod.nasa.gov/apod/image/hyakutake_flare_soho_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-05-17,
+
+Explanation: A rare coincidence was recently captured by the orbiting SOHO spacecraft. During the closest approach to the Sun of Comet Hyakutake on May 1, SOHO photographed the comet.  By accident -- during the time this photograph was being taken -- a solar flare was being ejected from the Sun. Therefore, at the top of this false-color picture, Comet Hyakutake is visible, while emission to the left of the Sun is a solar flare. The Sun, at the center of the picture, was blocked by an artificial occulter in the LASCO telescope, allowing objects much dimmer than the Sun to be observed. SOHO was launched in December of 1995 and contains many instruments which study the Sun.
+

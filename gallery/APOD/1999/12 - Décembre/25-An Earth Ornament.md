@@ -1,0 +1,10 @@
+An Earth Ornament,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9912/earthmos_clem.jpg)](https://apod.nasa.gov/apod/image/9912/earthmos_clem_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1999-12-25,
+
+Explanation: The Apollo 8 astronauts spent the 1968 Christmas Season orbiting the Moon, returning with striking images of both Moon and Earth from space - pictures which inspired the world. While in lunar orbit in 1994, the prospecting Clementine spacecraft also turned its cameras toward the home world and the result was this mosaic of 70 high resolution images of our planet from a cosmic perspective. The swirling clouds and dramatic colors give the Earth the appearance of a delicate, painted ornament hanging in space. Best Wishes and Seasons Greetings from Astronomy Picture Of The Day!
+

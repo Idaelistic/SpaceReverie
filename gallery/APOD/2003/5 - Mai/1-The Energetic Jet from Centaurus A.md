@@ -1,0 +1,10 @@
+The Energetic Jet from Centaurus A,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0305/cenajet_cxcnrao_c1.jpg)](https://apod.nasa.gov/apod/image/0305/cenajet_cxcnrao_full.jpg)
+
+Copyright: No copyright, 
+
+Date: 2003-05-01,
+
+Explanation: The center of well-studied active galaxy Centaurus A is hidden from the view of optical telescopes by a cosmic jumble of stars, gas, and dust. But both radio and x-ray telescopes can trace the remarkable jet of high-energy particles streaming from the galaxy's core. With Cen A's central region at the lower right, this composite false-color image shows the radio emission in red and x-rays in blue over the inner 4,000 light-years of the jet. One of the most detailed images of its kind, the picture shows how the x-ray and radio emitting sites are related along the jet, providing a road map to understanding the energetic stream. Extracting its energy from a supermassive black hole at the galaxy's center, the jet is confined to a relatively narrow angle and seems to produce most of its x-rays (bluer colors) at the upper left, farther from the core, where the jet begins to collide with Centaurus A's denser gas.
+

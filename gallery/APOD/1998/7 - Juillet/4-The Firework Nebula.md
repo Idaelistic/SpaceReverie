@@ -1,0 +1,13 @@
+The Firework Nebula,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9807/gkper_wiyn.gif)](https://apod.nasa.gov/apod/image/9807/gkper_wiyn.gif)
+
+Copyright: 
+WIYN Telescope
+Consortium
+, 
+
+Date: 1998-07-04,
+
+Explanation: Imaged by the WIYN Telescope, the Firework Nebula is the result of a type of stellar explosion called a nova. In a nova, a nuclear detonation on the surface of a compact white dwarf star blasts away material that has been dumped on its surface by a companion star. Also known as GK Persei or Nova Persei, this nova became one of the brightest stars in the night sky in the year 1901. As it faded, astronomers could see an expanding shell of gas that eventually became this spectacular nebula. While not exactly predictable, GK Per undergoes minor outbursts every three or four years.
+

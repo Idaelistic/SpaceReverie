@@ -1,0 +1,10 @@
+Isaac Newton Explains the Solar System,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0007/IsaacNewton.jpg)](https://apod.nasa.gov/apod/image/0007/IsaacNewton.jpg)
+
+Copyright: No copyright, 
+
+Date: 2002-02-24,
+
+Explanation: Sir Isaac Newton changed the world.  Born in 1642, Newton was only an above-average student.  But he went home from Cambridge one summer in 1665, thought a lot about the physical nature of the world, and came back two years later with a revolutionary understanding of mathematics, gravitation, and optics.  A Professor of his, upon understanding what Newton had done, resigned his own position at Cambridge so Newton could have it.  Newton's calculus provided a new mathematical framework for the rapid solution of whole classes of physical problems.  Newton's law of gravitation explained in one simple formula how apples fall and planets move.  Newton's insights proved to be so overwhelmingly powerful he was the first scientist ever knighted.
+

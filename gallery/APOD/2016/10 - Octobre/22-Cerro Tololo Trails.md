@@ -1,0 +1,10 @@
+Cerro Tololo Trails,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1610/TafreshiTololo200mmChile16Trail-sc.jpg)](https://apod.nasa.gov/apod/image/1610/TafreshiTololo200mmChile16Trail-sc.jpg)
+
+Copyright: Babak Tafreshi, 
+
+Date: 2016-10-22,
+
+Explanation: rly one moonlit evening car lights left a wandering trail along the road to the Chilean Cerro Tololo Inter-American Observatory. Setting stars left the wandering trails in the sky. The serene view toward the mountainous horizon was captured in a telephoto timelapse image and video taken from nearby Cerro Pachon, home to Gemini South. Afforded by the mountaintop vantage point, the clear, long sight-line passes through layers of atmosphere. The changing atmospheric refraction shifts and distorts the otherwise steady apparent paths of the stars as they set. That effect also causes the distorted appearance of Sun and Moon as they rise or set near a distant horizon.
+

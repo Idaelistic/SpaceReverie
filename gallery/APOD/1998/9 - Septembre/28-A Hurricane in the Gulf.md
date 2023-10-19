@@ -1,0 +1,10 @@
+A Hurricane in the Gulf,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9809/georges_seawifs.jpg)](https://apod.nasa.gov/apod/image/9809/georges_seawifs_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1998-09-28,
+
+Explanation: Last Friday, Hurricane Georges was photographed from space entering the Gulf of Mexico. This immense storm system, larger than most states, is expected to make landfall today.  Starting as a slight pressure difference, hurricanes grow into large spiraling storm systems of low pressure, complete with high winds and driving rain.  A hurricane is powered by evaporating ocean water, and so typically gains strength over warm water and loses strength over land. Currently offshore in the Atlantic Ocean, Hurricanes Ivan, Jeanne, and Karl swirl, but will likely stay well away from North America.   Recent GOES Satellite Image
+

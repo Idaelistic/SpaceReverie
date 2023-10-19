@@ -1,0 +1,10 @@
+The Fornax Cluster of Galaxies,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1606/eso1612aFornaxCluster1024.jpg)](https://apod.nasa.gov/apod/image/1606/eso1612aFornaxCluster.jpg)
+
+Copyright: No copyright, 
+
+Date: 2016-06-11,
+
+Explanation: Named for the southern constellation toward which most of its galaxies can be found, the Fornax Cluster is one of the closest clusters of galaxies. About 62 million light-years away, it is almost 20 times more distant than our neighboring Andromeda Galaxy, and only about 10 percent further than the better known and more populated Virgo Galaxy Cluster. Seen across this two degree wide field-of-view, almost every yellowish splotch on the image is an elliptical galaxy in the Fornax cluster. A standout barred spiral galaxy NGC 1365 is visible on the lower right as a prominent Fornax cluster member. The spectacular image was taken by the VLT Survey Telescope at ESO's Paranal Observatory.
+

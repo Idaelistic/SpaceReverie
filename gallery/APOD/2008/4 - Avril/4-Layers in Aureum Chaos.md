@@ -1,0 +1,10 @@
+Layers in Aureum Chaos,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0804/PSP_007006_1765_e800.jpg)](https://apod.nasa.gov/apod/image/0804/PSP_007006_1765_c1920.jpg)
+
+Copyright: No copyright, 
+
+Date: 2008-04-04,
+
+Explanation: At first glance these undulating shapes in shades of blue might look like waves on an ocean. Seen here in a false-color image from the Mars Reconnaissance Orbiter's HiRISE camera, they are actually layered rock outcrops found in Aureum Chaos. The larger Aureum Chaos region is a chaotic jumble of eroded terrain in the eastern part of Mars' immense canyon Valles Marineris. Distinct layers composing these outcrops could have been laid down by dust or volcanic ash settling from the atmosphere, sand carried by martian winds, or sediments deposited on the floor of an ancient lake. This close-up view of the otherwise red planet spans about 4 kilometers, a distance you might walk over flat ground in less than an hour.
+

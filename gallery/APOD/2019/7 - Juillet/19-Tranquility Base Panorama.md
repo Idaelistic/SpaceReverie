@@ -1,0 +1,10 @@
+Tranquility Base Panorama,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1907/apollo11TranquilitybasePan600h.jpg)](https://apod.nasa.gov/apod/image/1907/apollo11TranquilitybasePan.jpg)
+
+Copyright: No copyright, 
+
+Date: 2019-07-19,
+
+Explanation: On July 20, 1969 the Apollo 11 lunar module Eagle safely touched down on the Moon. It landed near the southwestern corner of the Moon's Mare Tranquillitatis at a landing site dubbed Tranquility Base. This panoramic view of Tranquility Base was constructed from the historic photos taken from the lunar surface. On the far left astronaut Neil Armstrong casts a long shadow with Sun is at his back and the Eagle resting about 60 meters away ( AS11-40-5961). He stands near the rim of 30 meter-diameter Little West crater seen here to the right ( AS11-40-5954). Also visible in the foreground is the top of the camera intended for taking stereo close-ups of the lunar surface.
+

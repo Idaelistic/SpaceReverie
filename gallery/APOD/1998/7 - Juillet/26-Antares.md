@@ -1,0 +1,14 @@
+Antares,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9706/antaresneb_uks_big.jpg)](https://apod.nasa.gov/apod/image/9706/antaresneb_uks.gif)
+
+Copyright: D. Malin 
+(AAO),
+AATB, 
+UKS Telescope
+, 
+
+Date: 1998-07-26,
+
+Explanation: Antares is a huge star. In a class called red supergiant, Antares is about 700 times the diameter of our own Sun, 15 times more massive, and 10,000 times brighter.  Antares is the brightest star in the constellation of Scorpius and one of the brighter stars in all the night sky.  Antares is seen surrounded by a nebula of gas which it has itself expelled. Radiation from Antares' blue stellar companion helps cause the nebular gas to glow, as photographed above.  Antares is located about 500 light years away.
+

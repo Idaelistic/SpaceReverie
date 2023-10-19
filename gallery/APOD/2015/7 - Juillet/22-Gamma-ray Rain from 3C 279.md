@@ -1,0 +1,10 @@
+Gamma-ray Rain from 3C 279,
+
+## Vidéo: https://www.youtube.com/embed/9Rl4l6tuHGg?rel=0, 
+
+Copyright: No copyright, 
+
+Date: 2015-07-22,
+
+Explanation: If gamma-rays were raindrops a flare from a supermassive black hole might look like this. Not so gently falling on the Fermi Gamma-ray Space Telescope from June 14 to June 16 the gamma-ray photons, with energies up to 50 billion electron volts, originated in active galaxy 3C 279 some 5 billion light-years away. Each gamma-ray "drop" is an expanding circle in the timelapse visualization, the color and maximum size determined by the gamma-ray's measured energy. Starting with a background drizzle, the sudden downpour that then trails off is the intense, high energy flare. The creative and calming presentation of the historically bright flare covers a 5 degree wide region of the gamma-ray sky centered on 3C 279.
+

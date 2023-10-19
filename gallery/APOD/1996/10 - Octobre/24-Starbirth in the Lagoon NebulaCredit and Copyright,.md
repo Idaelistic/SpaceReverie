@@ -1,0 +1,11 @@
+Starbirth in the Lagoon Nebula
+Credit and Copyright:,
+
+[![Build Status](https://apod.nasa.gov/apod/image/lagoon_umich.gif)](https://apod.nasa.gov/apod/image/lagoon_umich_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-10-24,
+
+Explanation: Stars are forming even today in the Lagoon Nebula. This bright nebula is visible in the constellation of Sagittarius with binoculars. The above photo is the result of a new sensitive camera being attached to one of the world's largest telescopes. Curtains of collapsing hydrogen are shown above in green, highlighted by a special filter that isolates light from this specific atom. Many young stars are evident in the open cluster M8 in the Lagoon, the result of previously collapsed gas clouds. Many of the stars appear red because of the high amount of dust in the Lagoon Nebula. Red light penetrates dust clouds best, although enough dust will block all visible light and leave a dark nebula. 
+

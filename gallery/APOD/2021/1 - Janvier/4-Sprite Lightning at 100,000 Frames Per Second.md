@@ -1,0 +1,13 @@
+Sprite Lightning at 100,000 Frames Per Second,
+
+## Vidéo: https://www.youtube.com/embed/zS_XgF9i8tc?rel=0, 
+
+Copyright: 
+Matthew G McHarg, Jacob L Harley, 
+Thomas Ashcraft, Hans Nielsen
+, 
+
+Date: 2021-01-04,
+
+Explanation: What causes sprite lightning? Mysterious bursts of light in the sky that momentarily resemble gigantic jellyfish have been recorded for over 30 years, but apart from a general association with positive cloud-to-ground lightning, their root cause remains unknown. Some thunderstorms have them -- most don't.  Recently, however, high speed videos are better detailing how sprites actually develop.  The featured video, captured in mid-2019, is fast enough -- at about 100,000 frames per second -- to time-resolve several sprite "bombs" dropping and developing into the multi-pronged streamers that appear on still images. Unfortunately, the visual clues provided by videos like these do not fully resolve the sprite origins mystery. High speed vidoes do indicate to some researchers, though, that sprites are more likely to occur when plasma irregularities exist in the upper atmosphere.    Astrophysicists: Browse 2,300+ codes in the Astrophysics Source Code Library
+

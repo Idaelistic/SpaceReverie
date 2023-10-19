@@ -1,0 +1,10 @@
+Lightning Storm Moves Across the USA,
+
+## Vidéo: https://www.youtube.com/embed/vxJTQuWISbk, 
+
+Copyright: No copyright, 
+
+Date: 2017-05-15,
+
+Explanation: Watch a huge lightning storm move across the eastern USA. The huge storm caused much damage and unfortunately some loss of life for people in its path. Seen from space, the lightning is seen as momentary flashes in the featured time-lapse video recorded last month by the Geostationary Lightning Mapper (GLM) aboard the GOES-16 satellite. The outline of North America is most evident during the day, while the bright lightning strikes are most evident at night.  Inspection of the video shows that much of the lightning occurred at the leading edge of the huge tail of the swirling storm.  Because lightning frequently precedes a storm's most violent impact, lightning data from GLM holds promise to help reduce the harm to humans from future storms.
+

@@ -1,0 +1,10 @@
+NGC 4676: The Mighty Mice,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1906/Mice_LRGB_web.jpg)](https://apod.nasa.gov/apod/image/1906/Mice_LRGB_web.jpg)
+
+Copyright: Bruce Waddington, 
+
+Date: 2019-06-14,
+
+Explanation: These two mighty galaxies are pulling each other apart.  Known as The Mice because they have such long tails, each large spiral galaxy has actually passed through the other. Their long tails are drawn out by strong gravitational tides rather than collisions of their individual stars. Because the distances are so large, the cosmic interaction takes place in slow motion -- over hundreds of millions of years.  They will probably collide again and again over the next billion years until they coalesce to form a single galaxy. NGC 4676 lies about 300 million light-years away toward the constellation of Bernice's Hair (Coma Berenices) and are likely members of the Coma Cluster of Galaxies.  Not often imaged in small telescopes, this field of view catches the faint tidal tails several hundred thousand light-years long.
+

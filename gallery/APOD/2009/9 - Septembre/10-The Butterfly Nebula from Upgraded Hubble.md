@@ -1,0 +1,10 @@
+The Butterfly Nebula from Upgraded Hubble,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0909/butterfly_hst.jpg)](https://apod.nasa.gov/apod/image/0909/butterfly_hst_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2009-09-10,
+
+Explanation: The bright clusters and nebulae of planet Earth's night sky are often named for flowers or insects, and NGC 6302 is no exception. With an estimated surface temperature of about 250,000 degrees C, the central star of this particular planetary nebula is exceptionally hot though -- shining brightly in ultraviolet light but hidden from direct view by a dense torus of dust.  This dramatically detailed close-up of the dying star's nebula was recorded by the newly upgraded Hubble Space Telescope. Cutting across a bright cavity of ionized gas, the dust torus surrounding the central star is near the center of this view, almost edge-on to the line-of-sight. Molecular hydrogen has been detected in the hot star's dusty cosmic shroud. NGC 6302 lies about 4,000 light-years away in the arachnologically correct constellation Scorpius.
+

@@ -1,0 +1,10 @@
+Hot Gas and Dark Matter,
+
+[![Build Status](https://apod.nasa.gov/apod/image/darkmatter_rosat.gif)](https://apod.nasa.gov/apod/image/darkmatter_rosat.gif)
+
+Copyright: No copyright, 
+
+Date: 1995-09-02,
+
+Explanation: Is the gravity of the above galaxies high enough to contain the glowing hot gas? Superposed on an optical picture of a group of galaxies is an image taken in X-ray light.  The X-ray picture, taken by ROSAT, shows confined hot gas highlighted in false red color, and provides clear evidence that the gravity exerted in groups and clusters of galaxies exceeds all the individual component galaxies combined. The extra gravity is attributed to dark matter, the nature and abundance of which is the biggest mystery in astronomy today.
+

@@ -1,0 +1,10 @@
+M82: Galaxy with a Supergalactic Wind,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1203/m82_hubble_960.jpg)](https://apod.nasa.gov/apod/image/1203/m82_hubble_3000.jpg)
+
+Copyright: No copyright, 
+
+Date: 2012-03-26,
+
+Explanation: What's lighting up the Cigar Galaxy?  M82, as this irregular galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas, however.  Recent evidence indicates that this gas is being driven out by the combined emerging particle winds of many stars, together creating a galactic superwind..  The above photographic mosaic highlights a specific color of red light strongly emitted by ionized hydrogen gas, showing detailed filaments of this gas.  The filaments extend for over 10,000 light years. The 12-million light-year distant Cigar Galaxy is the brightest galaxy in the sky in infrared light, and can be seen in visible light with a small telescope towards the constellation of the Great Bear (Ursa Major).
+

@@ -1,0 +1,10 @@
+NanoSail-D,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1101/NanoSailD900.jpg)](https://apod.nasa.gov/apod/image/1101/NanoSailD2048.jpg)
+
+Copyright: No copyright, 
+
+Date: 2011-01-28,
+
+Explanation: Featured in this artist's illustration, NASA's NanoSail-D finally unfurled a very thin, 10 square meter reflective sail on January 20th, becoming the first solar sail spacecraft in low Earth orbit. Often considered the stuff of science fiction, sailing through space was suggested 400 years ago by astronomer Johannes Kepler who observed comet tails blown by the solar wind. Modern solar sail spacecraft designs, like NanoSail-D or the Japanese interplanetary spacecraft IKAROS, rely on the small but continuous pressure from sunlight itself for thrust. Glinting in the sunlight as it circles planet Earth, the NanoSail-D solar sail will periodically be bright and easily visible to the eye. In fact, skygazers are urged to participate in an ongoing contest to capture images of NanoSail-D. The images will help NASA monitor the satellite before it reenters the atmosphere in April or May.
+

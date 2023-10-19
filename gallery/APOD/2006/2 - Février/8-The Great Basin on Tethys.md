@@ -1,0 +1,10 @@
+The Great Basin on Tethys,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0602/tethysbasin_cassini.jpg)](https://apod.nasa.gov/apod/image/0602/tethysbasin_cassini_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2006-02-08,
+
+Explanation: Some moons wouldn't survive the collision.  Tethys, one of Saturn's larger moons at about 1000 kilometers in diameter, survived the collision, but sports today the expansive impact crater Odysseus.  Sometimes called the Great Basin, Odysseus occurs on the leading hemisphere of Tethys and shows its great age by the relative amount of smaller craters that occur inside its towering walls.  The density of Tethys is similar to water-ice.  The above digitally enhanced image was captured late last year by the robot Cassini spacecraft  in orbit around Saturn as it swooped past the giant ice ball.
+

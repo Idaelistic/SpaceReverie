@@ -1,0 +1,10 @@
+Atlantis Reflection,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1107/AtlantisReflection_ingalls900.jpg)](https://apod.nasa.gov/apod/image/1107/AtlantisReflection_ingalls.jpg)
+
+Copyright: No copyright, 
+
+Date: 2011-07-09,
+
+Explanation: Space shuttle orbiter Atlantis left planet Earth on Friday, July 8, embarking on the STS-135 mission to the International Space Station. The momentous launch was the final one in NASA's 30 year space shuttle program that began with the launch of the first reusable spacecraft on April 12, 1981. In this reflective prelaunch image from July 7, Atlantis stands in a familiar spot on the Kennedy Space Center's pad 39A, after an early evening roll back of the pad's Rotating Service Structure. The historic orbital voyages of Atlantis have included a Hubble Space Telescope servicing mission, deployment of Magellan, Galileo, and the Compton Gamma-ray Observatory, and seven trips to the Russian space station Mir. Scheduled to dock once again with the International Space Station on Sunday, Atlantis has now made its 33rd and final trip to orbit.
+

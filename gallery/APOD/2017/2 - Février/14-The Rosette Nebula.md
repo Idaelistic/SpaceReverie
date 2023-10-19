@@ -1,0 +1,12 @@
+The Rosette Nebula,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1702/Rosette_Souglakos_960.jpg)](https://apod.nasa.gov/apod/image/1702/Rosette_Souglakos_1500.jpg)
+
+Copyright: 
+Evangelos Souglakos
+, 
+
+Date: 2017-02-14,
+
+Explanation: Would the Rosette Nebula by any other name look as sweet? The bland New General Catalog designation of NGC 2237 doesn't appear to diminish the appearance of  this flowery emission nebula. Inside the nebula lies an open cluster of bright young stars designated NGC 2244. These stars formed about four million years ago from the nebular material and their stellar winds are clearing a hole in the nebula's center, insulated by a layer of dust and hot gas. Ultraviolet light from the hot cluster stars causes the surrounding nebula to glow. The Rosette Nebula spans about 100 light-years across, lies about 5000 light-years away, and can be seen with a small telescope towards the constellation of the Unicorn (Monoceros).
+

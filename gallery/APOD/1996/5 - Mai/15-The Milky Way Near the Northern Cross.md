@@ -1,0 +1,12 @@
+The Milky Way Near the Northern Cross,
+
+[![Build Status](https://apod.nasa.gov/apod/image/northerncross_as.gif)](https://apod.nasa.gov/apod/image/northerncross_as_big.gif)
+
+Copyright: 
+Andy Steere
+, 
+
+Date: 1996-05-15,
+
+Explanation: This beautiful image of the sky near the bright star Deneb (just above center) reveals the stars, nebulae, and dark clouds along the plane of our Milky Way Galaxy as seen from the northern hemisphere (near Columbia Missouri, USA). Just below Deneb lies the suggestively shaped North America emission nebula. Deneb is the brightest star in the constellation Cygnus, located in the tail of this celestial swan. Cygnus contains the asterism known as the Northern Cross and marks one side of the "Great Rift" in the Milky Way, a series of dark obscuring dust clouds which stretches on through the constellation Sagittarius. Deneb defines the top of the Northern Cross while the body of the cross extends past the upper right corner of the picture. Cygnus also harbors the most famous candidate for a black hole in our galaxy, Cygnus X-1.
+

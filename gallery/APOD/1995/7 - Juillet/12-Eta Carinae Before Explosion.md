@@ -1,0 +1,10 @@
+Eta Carinae Before Explosion,
+
+[![Build Status](https://apod.nasa.gov/apod/image/etacarinae_hst.gif)](https://apod.nasa.gov/apod/image/etacarinae_hst.gif)
+
+Copyright: No copyright, 
+
+Date: 1995-07-12,
+
+Explanation: July 12, 1995    Eta Carinae Before Explosion  Picture Credit: NASA, HST, WFPC2, J. Hester (ASU)  Explanation:  The star Eta Carinae, at the center of the photo, will likely destroy itself in a spectacular explosion in a few million years - or sooner! Currently it is one of the brightest, most massive, and least stable stars known. Much of the gas in this Hubble Space Telescope photograph was blown off the star itself. Some of these gas clouds are similar in size to our solar system. Astronomers cannot yet fully explain the motions of the surrounding nebula, and continue to study this system.  Reference:  the Space Telescope Scientific Institute's  press release.  We keep an archive of Astronomy Pictures of the Day.   Astronomy Picture of the Day is brought to you by  Robert Nemiroff and  Jerry Bonnell . Original material on this page is copyrighted to Robert J. Nemiroff and Jerry T. Bonnell.
+

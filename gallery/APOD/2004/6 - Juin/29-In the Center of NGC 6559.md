@@ -1,0 +1,10 @@
+In the Center of NGC 6559,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0406/n6559_noao.jpg)](https://apod.nasa.gov/apod/image/0406/n6559_noao_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2004-06-29,
+
+Explanation: Bright gas and dark dust permeate the space between stars in the center of a nebula known as NGC 6559.  The gas, primarily hydrogen, is responsible for the diffuse red glow of the emission nebula.  As energetic light from neighboring stars ionizes interstellar hydrogen, protons and  electrons recombine to emit light of very specific colors, including the red hue observed.  Small dust particles reflect blue starlight efficiently and so creates the blue reflection nebulosity seen near two of the bright stars.  Dust also absorbs visible light, causing the dark clouds and filaments visible.  NGC 6559 lies about 5000 light-years away toward the constellation of Sagittarius.
+

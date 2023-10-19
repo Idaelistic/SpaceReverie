@@ -1,0 +1,10 @@
+Aurorae over Planet Earth,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1210/ontario_vir_2012282_900.jpg)](https://apod.nasa.gov/apod/image/1210/ontario_vir_2012282_lrg.jpg)
+
+Copyright: No copyright, 
+
+Date: 2012-10-11,
+
+Explanation: North America at night is easy to recognize in this view of our fair planet from orbit, acquired by the Suomi-NPP satellite on October 8. The spectacular waves of visible light emission rolling above the Canadian provinces of Quebec and Ontario in the upper half of the frame are the Aurora Borealis or northern lights. Encircling the poles and extending to lower latitudes, impressive aurorae seen during the past few days are due to strong geomagnetic storms. The storms were triggered by a solar coronal mass ejection on October 4/5, impacting Earth's magnetosphere some three days later. The curtains of light, shining well over 100 kilometers above the surface, are formed as charged particles accelerated in the magnetosphere excite oxygen and nitrogen in the upper atmosphere.
+

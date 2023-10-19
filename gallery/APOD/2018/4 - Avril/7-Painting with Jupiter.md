@@ -1,0 +1,10 @@
+Painting with Jupiter,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1804/PIA21983JupiterLundh1024.jpg)](https://apod.nasa.gov/apod/image/1804/PIA21983JupiterLundh.jpg)
+
+Copyright: No copyright, 
+
+Date: 2018-04-07,
+
+Explanation: Brush strokes of Jupiter's signature atmospheric bands and vortices form this planetary post-impressionist work of art. The creative image uses actual data from the Juno spacecraft's JunoCam. To paint on the digital canvas, an image with light and dark tones was chosen for processing and an oil-painting software filter applied. The image data was captured during perijove 10, Juno's December 16, 2017 close encounter with the solar system's ruling gas giant. At the time the spacecraft was cruising about 13,000 kilometers above northern Jovian cloud tops.
+

@@ -1,0 +1,10 @@
+Shadows of Saturn at Equinox,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0909/saturnequinoxshadows_cassini.jpg)](https://apod.nasa.gov/apod/image/0909/saturnequinoxshadows_cassini_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2009-09-01,
+
+Explanation: Unusual shadows and dark rings appeared around Saturn near its equinox last month. At that time -- early August -- Saturn's ring plane pointed directly at the Sun. Visible above, Saturn's moon Tethys casts a shadow visible only on the far right. Saturn's own shadow blacks out a large swath of rings on the right. The night side of Saturn glows with ringshine -- sunlight reflected by ring particles back onto Saturn. Images near equinox at Saturn are giving astronomers a chance to search for unexpected shadows that may illuminate previously unknown features of Saturn's complex ring system.  Cassini, the robotic spacecraft orbiting Saturn that took this image, is not expected to survive to the next Saturnian equinox in 15 years.
+

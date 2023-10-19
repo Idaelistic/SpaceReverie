@@ -1,0 +1,10 @@
+A Flight Through the Universe,
+
+## Vidéo: https://www.youtube.com/embed/08LBltePDZw?rel=0, 
+
+Copyright: No copyright, 
+
+Date: 2012-08-13,
+
+Explanation: What would it be like to fly through the universe? Possibly the best simulated video of this yet has been composed from recently-released galaxy data from the Sloan Digital Sky Survey. Every spot in the above video is a galaxy containing billions of stars. Many galaxies are part of huge clusters, long filaments, or small groups, while expansive voids nearly absent of galaxies also exist. The movie starts by flying right through a large nearby cluster of galaxies and later circles the SDSS-captured universe at about 2 billion light years (a redshift of about 0.15) from Earth. Analyses of galaxy positions and movements continues to bolster the case that our universe contains not only the bright matter seen, like galaxies, but also a significant amount of unseen dark matter and dark energy.
+

@@ -1,0 +1,16 @@
+The Dotted Dunes of Mars,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0408/dotteddunes_mgs.jpg)](https://apod.nasa.gov/apod/image/0408/dotteddunes_mgs_big.jpg)
+
+Copyright: 
+Malin Space Science Systems,
+MOC,
+MGS,
+JPL, 
+NASA
+, 
+
+Date: 2004-08-31,
+
+Explanation: What causes the black dots on dunes on Mars?  As spring dawns on the Northern Hemisphere of Mars, dunes of sand near the poles begin to defrost.  Thinner regions of ice typically thaw first revealing sand whose darkness soaks in sunlight and accelerates the thaw.  By summer, the spots will have expanded to encompass the entire dunes that will then be completely thawed and dark. The carbon dioxide and water ice actually sublime in the thin atmosphere directly to gas.  Taken in mid-July, the above image shows a field of spotted polar dunes spanning about 3 kilometers near the Martian North Pole.  Meanwhile, in the Southern Hemisphere of Mars, the Earth-sent robot Martian rovers will try to survive through Martian winter, which peaks in mid-September.
+

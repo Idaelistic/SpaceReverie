@@ -1,0 +1,10 @@
+Good Morning Planets from Chile,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2206/PlanetsfromChile__labelled_E-Schulz.jpg)](https://apod.nasa.gov/apod/image/2206/PlanetsfromChile_E-Schulz.jpg)
+
+Copyright: Elke Schulz, 
+
+Date: 2022-06-17,
+
+Explanation: On June 15, innermost planet Mercury had wandered about as far from the Sun as it ever gets in planet Earth's sky. Near the eastern horizon just before sunrise it stands over distant Andes mountain peaks in this predawn snapshot from the valley of Rio Hurtado in Chile. June's other morning planets are arrayed above it, as all the naked-eye planets of the Solar System stretch in a line along the ecliptic in the single wide-field view. Tilted toward the north, the Solar System's ecliptic plane arcs steeply through southern hemisphere skies. Northern hemisphere early morning risers will see the lineup of planets along the ecliptic at a shallower angle tilting toward the south. From both hemispheres June's beautiful morning planetary display finds the visible planets in order of their increasing distance from the Sun.
+

@@ -1,0 +1,10 @@
+Space Shuttle and Crew Lost During Re-Entry,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0302/columbia_s107.jpg)](https://apod.nasa.gov/apod/image/0302/columbia_s107.jpg)
+
+Copyright: No copyright, 
+
+Date: 2003-02-03,
+
+Explanation: Saturday morning, the Space Shuttle Columbia broke up during re-entry.  Pictured above is the seven-member crew that was lost.  True space pioneers, they were, left to right, David M. Brown, Rick D. Husband, Laurel B. Clark, Kalpana Chawla, Michael P. Anderson, William C. McCool, and Ilan Ramon.  As debris from the shuttle may be toxic, NASA asks that anything found be reported immediately to local authorities and not touched.  For the safety of future missions, investigations into the cause of the tragedy are underway.  If you have any video or photographs that may aid in these investigations, NASA asks that you please see  this web page, call (US) 281-483-3388, or send e-mail to columbiaimages@nasa.gov.
+

@@ -1,0 +1,10 @@
+Eruptive Prominence,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9906/solstice_erupt.jpg)](https://apod.nasa.gov/apod/image/9906/solstice_erupt_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1999-07-08,
+
+Explanation: Activity on our parent star continues to increase as the sun approaches a maximum in its 11-year solar cycle, expected in the year 2000. On June 14 - only a week before the solstice - the space-based SOHO observatory recorded this stunning view of an immense prominence erupting from the sun's southern latitudes (south is up). The false-color image was made in the extreme Ultraviolet light produced by ionized Helium atoms in the solar plasma. Earth dwellers fortunate enough to be well located in Europe, the Middle East, Asia may be able to view for themselves activity above the solar limb during the upcoming August solar eclipse - the last total eclipse of the second millennium.
+

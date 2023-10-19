@@ -1,0 +1,10 @@
+M80: A Dense Globular Cluster,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9907/m80_heritage.jpg)](https://apod.nasa.gov/apod/image/9907/m80_heritage_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1999-07-07,
+
+Explanation: If our Sun were part of M80, the night sky would glow like a jewel box of bright stars.  M80, also known as NGC 6093, is one of about 250 globular clusters that survive in our Galaxy.  Most of the stars in M80 are older and redder than our Sun, but some enigmatic stars appear to be bluer and younger.  Young stars would contradict the hypothesis that all the stars in M80 formed at nearly the same time.  These unusual stars are known as blue stragglers, and by analyzing pictures like the Hubble Space Telescope image above, astronomers have been able to find the largest population of blue stragglers yet.  As blue stragglers are now thought to be due to stars coalescing, the collision and capture rate at the dense center of M80 must be very high.
+

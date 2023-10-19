@@ -1,0 +1,10 @@
+In the Heart of the Rosette Nebula,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1403/rosette_goldman_960.jpg)](https://apod.nasa.gov/apod/image/1403/rosette_goldman_2500.jpg)
+
+Copyright: Don Goldman, 
+
+Date: 2014-03-11,
+
+Explanation: In the heart of the Rosette Nebula lies a bright open cluster of stars that lights up the nebula.  The stars of NGC 2244 formed from the surrounding gas only a few million years ago.  The above image taken in January using multiple exposures and very specific colors of Sulfur (shaded red), Hydrogen (green), and Oxygen (blue), captures the central region in tremendous detail. A hot wind of particles streams away from the cluster stars and contributes to an already complex menagerie of gas and dust filaments while slowly evacuating the cluster center.  The Rosette Nebula's center measures about 50 light-years across, lies about 4,500 light-years away, and is visible with binoculars towards the constellation of the Unicorn (Monoceros).   Follow APOD on: Facebook,  Google Plus, or Twitter
+

@@ -1,0 +1,12 @@
+An Unusual Event Over South Wales,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0310/fireball_burnett.jpg)](https://apod.nasa.gov/apod/image/0310/fireball_burnett_big.jpg)
+
+Copyright: 
+Jon Burnett
+, 
+
+Date: 2003-10-01,
+
+Explanation: Jon Burnett, a teenager from South Wales, UK, was photographing some friends skateboarding last week when the sky did something very strange.  By diverting his camera, he was able to document this rare sky event and capture one of the more spectacular sky images yet recorded.  Roughly four minutes later, he took another picture of the dispersing trail.  What is it? Experts disagree. The first guess was a sofa-sized rock that exploded as a daytime fireball, but perhaps a better hypothesis is an unusual airplane contrail reflecting the setting Sun. Bright fireballs occur over someplace on Earth nearly every day.  A separate bolide, likely even more dramatic, struck India only a few days ago.   Editor's note: The APOD text was updated on Oct. 1.
+

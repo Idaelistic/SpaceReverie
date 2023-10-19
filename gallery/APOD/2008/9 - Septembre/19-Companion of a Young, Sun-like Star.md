@@ -1,0 +1,10 @@
+Companion of a Young, Sun-like Star,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0809/exoplanet_gemini_c800.jpg)](https://apod.nasa.gov/apod/image/0809/exoplanet_gemini.jpg)
+
+Copyright: No copyright, 
+
+Date: 2008-09-19,
+
+Explanation: Located just 500 light-years away toward the constellation Scorpius, this star is only slightly less massive and a little cooler than the Sun. But it is much younger, a few million years old compared to the middle-aged Sun's 5 billion years. This sharp infrared image shows the young star has a likely companion positioned above and left - a hot planet with about 8 times the mass of Jupiter, orbiting a whopping 330 times the Earth-Sun distance from its parent star. The young planetary companion is still hot and relatively bright in infrared light due to the heat generated during its formation by gravitational contraction. In fact, such newborn planets are easier to detect before they age and cool, becoming much fainter. Though over 300 extrasolar planets have been found using other techniques, this picture likely represents the first direct image of a planet belonging to a star similar to the Sun.
+

@@ -1,0 +1,12 @@
+Moon Over California,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9904/orman0319_c1.jpg)](https://apod.nasa.gov/apod/image/9904/orman0319_big.jpg)
+
+Copyright: 
+Joe Orman
+, 
+
+Date: 1999-04-18,
+
+Explanation: The Moon, Saturn, and Venus shine above while city lights twinkle below in the deepening twilight of March 19.  Taken from outside Indio, California, the photo shows the city lights of Indio and nearby Palm Springs. The brilliant lunar crescent is over exposed here with Saturn about 4 degrees away to the upper right and bright Venus still farther to the right only another 2 degrees or so. This Sunday evening, April 18, another dramatic lunar spectacle should be easily visible to stargazers in the western and midwestern US when the crescent moon passes in front of the bright star Aldebaran.
+

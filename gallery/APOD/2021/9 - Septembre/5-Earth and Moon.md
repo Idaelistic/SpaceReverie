@@ -1,0 +1,10 @@
+Earth and Moon,
+
+## Vidéo: https://www.youtube.com/embed/tvB0mdkrG3Q?rel=0, 
+
+Copyright: No copyright, 
+
+Date: 2021-09-05,
+
+Explanation: The Earth and Moon are rarely photographed together. One of most spectacular times this occurred was about 30 years ago when the Jupiter-bound Galileo spacecraft zoomed past our home planetary system.  Then, robotic Galileo watched from about 15-times the Earth-Moon separation as our only natural satellite glided past our home world.  The featured video combines 52 historic color-enhanced images. Although our Moon may appear small next to the Earth, no other planet in our Solar System has a satellite so comparable in size .  The Sun, far off to the right, illuminated about half of each sphere, and shows the spinning Earth's white clouds, blue oceans, and tan continents.
+

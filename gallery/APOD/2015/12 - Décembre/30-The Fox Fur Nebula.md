@@ -1,0 +1,12 @@
+The Fox Fur Nebula,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1512/Foxfur_Vermette_1080.jpg)](https://apod.nasa.gov/apod/image/1512/Foxfur_Vermette_3074.jpg)
+
+Copyright: 
+John Vermette
+, 
+
+Date: 2015-12-30,
+
+Explanation: This interstellar canine is formed of cosmic dust and gas interacting with the energetic light and winds from hot young stars.  The shape, visual texture, and color, combine to give the region the popular name Fox Fur Nebula. The characteristic blue glow on the left is dust reflecting light from the bright star S Mon, the bright star just below the top edge of the featured image. Textured red and black areas are a combination of the cosmic dust and reddish emission from ionized hydrogen gas.  S Mon is part of a young open cluster of stars, NGC 2264, located about 2,500 light years away toward the constellation of the Unicorn (Monoceros).   AAS Conventioneers: APOD Town Meeting Wednesday at 2:15 pm
+

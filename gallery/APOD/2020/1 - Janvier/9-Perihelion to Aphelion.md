@@ -1,0 +1,10 @@
+Perihelion to Aphelion,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2001/peri-api-sun1024.jpg)](https://apod.nasa.gov/apod/image/2001/peri-api-sun.jpg)
+
+Copyright: Ian Griffin, 
+
+Date: 2020-01-09,
+
+Explanation: Perihelion for 2020, the point in Earth's elliptical orbit when it is closest to the Sun, occurred on January 5th. The distance from the Sun doesn't determine the seasons, though. Those are governed by the tilt of Earth's axis of rotation, so January is still winter in the north and summer in southern hemisphere. But it does mean that on January 5 the Sun was at its largest apparent size. This composite neatly compares two pictures of the Sun, both taken from planet Earth with the same telescope and camera. The left half was captured on the date of the 2020 perihelion. The right was recorded only a week before the July 4 date of the 2019 aphelion, the farthest point in Earth's orbit. Otherwise difficult to notice, the change in the Sun's apparent diameter between perihelion and aphelion amounts to a little over 3 percent. The 2020 perihelion and the preceding 2019 aphelion correspond to the closest and farthest perihelion and aphelion of the 21st century.
+

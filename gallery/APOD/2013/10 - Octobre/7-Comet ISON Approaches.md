@@ -1,0 +1,10 @@
+Comet ISON Approaches,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1310/ison_peach_960.jpg)](https://apod.nasa.gov/apod/image/1310/ison_peach_1174.jpg)
+
+Copyright: Damian Peach, 
+
+Date: 2013-10-07,
+
+Explanation: How impressive will Comet ISON become? No one is sure, but unfortunately, as the comet approaches the inner Solar System, it is brightening more slowly than many early predictions. Pictured above, Comet ISON is seen about two weeks ago as it continued to develop a tail. Last week the comet passed relatively close to Mars, and was directly imaged by the Mars Reconnaissance Orbiter.  When Comet ISON dives to within a few solar radii of the Sun's surface in late November, it may become brighter than the Moon and sport a long and flowing tail -- or it may appear somewhat less spectacular. Either way, sky enthusiasts hope that whatever comet parts survive will put on quite an impressive show, as viewed from Earth, through at least the rest of the year.
+

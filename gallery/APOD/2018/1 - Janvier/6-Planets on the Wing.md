@@ -1,0 +1,10 @@
+Planets on the Wing,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1801/DSC07952JupMars_DHan1024.jpg)](https://apod.nasa.gov/apod/image/1801/DSC07952JupMars_DHan.jpg)
+
+Copyright: Dong Han, 
+
+Date: 2018-01-06,
+
+Explanation: Lately, bright Jupiter and fainter Mars have been easy to spot for early morning skygazers. Before dawn on January 7 the two naked-eye planets will reach a close conjunction near the horizon, only 1/4 degree apart in predawn eastern skies. That apparent separation corresponds to about half the angular diameter of a Full Moon. Just off the wing of a high-flying aircraft in this snapshot from early morning January 5, Jupiter (left) and Mars (middle) are also lined-up with the well-balanced Zubenelgenubi (right), alpha star of the constellation Libra. Below are lights from central Europe near Prague, Czech Republic, planet Earth.
+

@@ -1,0 +1,10 @@
+Moonrise and Mountain Shadow,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2003/MoonriseShadowDLopez_1024.jpg)](https://apod.nasa.gov/apod/image/2003/MoonriseShadowDLopez_1.jpg)
+
+Copyright: El Cielo de Canarias, 
+
+Date: 2020-03-14,
+
+Explanation: What phase of the Moon is 3.14 radians from the Sun? The Full Moon, of course. Even though the Moon might look full for several days, the Moon is truly at its full phase when it is 3.14 radians (aka 180 degrees) from the Sun in ecliptic longitude. That's opposite the Sun in planet Earth's sky. Rising as the Sun set on March 9, only an hour or so after the moment of its full phase, this orange tinted and slightly flattened Moon still looked full. It was photographed opposite the setting Sun from Teide National Park on the Canary Island of Tenerife. Also opposite the setting Sun, seen from near the Teide volcano peak about 3,500 meters above sea level, is the mountain's rising triangular shadow extending into Earth's dense atmosphere. Below the distant ridge line on the left are the white telescope domes of Teide Observatory
+

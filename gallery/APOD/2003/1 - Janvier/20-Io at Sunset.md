@@ -1,0 +1,10 @@
+Io at Sunset,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0301/iosunset_galileo.jpg)](https://apod.nasa.gov/apod/image/0301/iosunset_galileo_big.gif)
+
+Copyright: No copyright, 
+
+Date: 2003-01-20,
+
+Explanation: How tall are mountains on Jupiter's moon Io?  One way to find out is to view them at sunset.  Tall structures facing the Sun are then better-lit and cast long shadows.  The above image highlights Mongibello Mons on the far left, a sharp ridge rising so high it would rank among the highest mountains on Earth.  The violently changing surface of Io shows not only classic volcano cinder cones but also many thrust faults where the ground has fractured and created dramatic shear cliffs.  The grayscale image was taken two years ago by the robot spacecraft Galileo currently orbiting Jupiter.
+

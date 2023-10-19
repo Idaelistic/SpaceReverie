@@ -1,0 +1,13 @@
+Aurora in Red and Yellow,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0004/aurora_safar.jpg)](https://apod.nasa.gov/apod/image/0004/aurora_safar_big.jpg)
+
+Copyright: 
+Jan Safar
+(Brno Observatory)
+, 
+
+Date: 2000-04-10,
+
+Explanation: The past week brought some spectacular aurora to northern skies.  These aurorae were caused by a large interplanetary shock wave that exploded from the Sun on April 4.  When the shock wave reached the Earth on April 6, the resulting aurora could be seen in clear skies as far south as North Carolina.  As the aurorae occurred high in the Earth's atmosphere, they were accompanied by an unusual alignment of planets far in the background.  Pictured above that night, an unusual multicolored auroral display graced the skies above the domes of the Brno Observatory in the Czech Republic.
+

@@ -1,0 +1,10 @@
+Unexpected X-rays from Comet Hyakutake,
+
+[![Build Status](https://apod.nasa.gov/apod/image/hyakutake_rosat.gif)](https://apod.nasa.gov/apod/image/hyakutake_rosat_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-04-11,
+
+Explanation: The first X-rays ever detected from a comet were discovered from Comet Hyakutake with the ROSAT satellite on March 27th.  The discovery is particularly surprising because there was little previous indication that comets emit any significant X-radiation. As the comet passed the Earth in late March, repeated observations with ROSAT also showed that the X-ray brightness changed over just a few hours. The crescent shape of the X-ray emission is also enigmatic. One possible explanation is that X-rays emitted from the Sun are absorbed by water in the comet's coma causing fluorescence. Another possible explanation involves interaction with the solar wind - fast moving particles streaming away from the Sun.   Information: The Scale of the Universe Debate in April 1996
+

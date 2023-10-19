@@ -1,0 +1,13 @@
+Aurora Over Iceland,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1203/auroraiceland_lopez_960.jpg)](https://apod.nasa.gov/apod/image/1203/auroraiceland_lopez_2000.jpg)
+
+Copyright: 
+Daniel Lopez
+(El Cielo de Canarias)
+, 
+
+Date: 2012-03-21,
+
+Explanation: If you see a sky like this -- photograph it. Three nights ago in Iceland, an  adventurous photographer (pictured) chanced across a sky full of aurora and did just that. Afterwards, by stitching together five smaller photographs, the entire aurora-lit sky was recreated in this 180-degree panorama taken from Vatnaj�kull glacier. Auroras are sparked by energetic particles from the Sun impacting the magnetic environment around the Earth.  Resultant energetic particles such as electrons and protons rain down near the Earth's poles and impact the air.  The impacted air molecules obtain excited electrons, and when electrons in oxygen molecules fall back to their ground state, they emit green light.  Auroras are known to have many shapes and colors.   News Flash -- Supernova in M95: See recent images
+

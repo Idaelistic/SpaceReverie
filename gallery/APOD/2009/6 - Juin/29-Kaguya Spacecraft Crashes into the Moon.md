@@ -1,0 +1,11 @@
+Kaguya Spacecraft Crashes into the Moon,
+
+## No photo & No vidéo, 
+
+Copyright: SELENE
+Team, 
+
+Date: 2009-06-29,
+
+Explanation: Japan's Kaguya spacecraft crashed into the Moon last week, as planned. Officially named the Selenological and Engineering Explorer (SELENE), the spacecraft was given the nickname Kaguya after the princess in the Japanese folklore story The Tale of the Bamboo Cutter. Pictured above is a movie taken by Kaguya during the last orbit of its twenty-month lunar mission. A desolate, hilly, and cratered terrain passes underneath as the spacecraft barely clears a few peaks.  At the movie's end, the spacecraft disappears into darkness near Gill crater. Robotic SELENE carried thirteen scientific instruments and two HDTV cameras. The groundbreaking mission took data on lunar topology and composition that are being used to better understand the origin and history of Earth's unique and ancient companion. Data and images from Kaguya and the recently launched Lunar Reconnaissance Orbiter could be used to choose good locations to land future Moon-exploring astronauts.
+

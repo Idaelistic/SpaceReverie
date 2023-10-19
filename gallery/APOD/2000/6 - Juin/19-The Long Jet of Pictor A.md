@@ -1,0 +1,10 @@
+The Long Jet of Pictor A,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0006/pictora_chandra.jpg)](https://apod.nasa.gov/apod/image/0006/pictora_chandra_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2000-06-19,
+
+Explanation: A jet stretching nearly a million light years has been imaged emanating from galaxy Pictor A.  The thin jet of electrons and protons shoots out at nearly light-speed likely from the vicinity of a large black hole at the galaxy center. At the left of the above image in X-rays is the radio galaxy Pictor A, known as a radio galaxy for its strong radio emission.  At the far end of the jet on the right a hot spot glows as the intense particle beam bores through a gas cloud in intergalactic space.  The jet and hot spot of Pictor A had been seen previously in radio waves, but only recently has the orbiting Chandra X-ray Observatory confirmed its unusual power.
+

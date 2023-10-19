@@ -1,0 +1,13 @@
+Stars, Sprites, Clouds, Auroras,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1502/StarsAndSprites_hollingshead_1080.jpg)](https://apod.nasa.gov/apod/image/1502/StarsAndSprites_hollingshead_1100.jpg)
+
+Copyright: 
+Mike Hollingshead 
+(Extreme Instability)
+, 
+
+Date: 2015-02-04,
+
+Explanation: What are those red streaks in the sky? While photographing unexpected auroras over a distant thunderstorm, something extraordinary happened: red sprites.  This brief instance of rarely imaged high-altitude lightning flashed so bright that it was witnessed by several people independently.  Pictured over Minnesota, USA in May 2013, these red sprites likely followed an extremely powerful low-altitude conventional lightning bolt.  Captured in the featured frame are a house and electrical pole in the foreground, thick clouds in the lower atmosphere, a lightning storm on the horizon, distant red sprites and green aurora in the upper atmosphere, and distant stars from our local neighborhood of the Milky Way Galaxy.  The spectacular image is thought to be only the second known case of sprites and auroras photographed together, and possibly the first in true color.    Follow APOD on: Facebook,  Google Plus, or Twitter
+

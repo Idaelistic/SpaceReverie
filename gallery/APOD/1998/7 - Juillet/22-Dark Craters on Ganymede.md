@@ -1,0 +1,10 @@
+Dark Craters on Ganymede,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9807/ganycraters_gal.jpg)](https://apod.nasa.gov/apod/image/9807/ganycraters_gal_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1998-07-22,
+
+Explanation: Ganymede has craters within craters within craters.  The old surface of the largest moon in the Solar System shows its age by the large amount of these impact features. The above picture released last week shows two old craters with dark floors located in a relatively bright region known as  Memphis Facula, a region itself thought created by an ancient collision.  The strange dark floors of these craters were themselves created long ago and now house craters of their own.  Crater Chrysor, on the left, spans about 6000 meters, about half that of crater Aleyn on the right. The robot spacecraft Galileo took the above photograph during a flyby of this moon of Jupiter in June 1996.
+

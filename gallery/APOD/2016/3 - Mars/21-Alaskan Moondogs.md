@@ -1,0 +1,10 @@
+Alaskan Moondogs,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1603/moondog_saarloos_960.jpg)](https://apod.nasa.gov/apod/image/1603/moondog_saarloos_1600.jpg)
+
+Copyright: Sebastian Saarloos, 
+
+Date: 2016-03-21,
+
+Explanation: What's happened to the sky?  Moonlight illuminates a snowy scene in this night land and skyscape made on 2013 January from Lower Miller Creek, Alaska, USA. Overexposed near the mountainous western horizon is the first quarter Moon itself, surrounded by an icy halo and flanked left and right by moondogs. Sometimes called mock moons, a more scientific name for the luminous apparitions is paraselenae (plural). Analogous to a sundog or parhelion, a paraselene is produced by moonlight refracted through thin, hexagonal, plate-shaped ice crystals. As determined by the crystal geometry, paraselenae are seen at an angle of 22 degrees or more from the Moon. Compared to the bright lunar disk, paraselenae are faint and easier to spot when the Moon is low.   Follow APOD on: Facebook,  Google Plus,  Instagram, or Twitter
+

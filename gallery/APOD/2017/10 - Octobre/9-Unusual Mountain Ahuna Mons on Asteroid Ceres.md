@@ -1,0 +1,10 @@
+Unusual Mountain Ahuna Mons on Asteroid Ceres,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1710/AhunaMonsCeres_Dawn_960.jpg)](https://apod.nasa.gov/apod/image/1710/AhunaMonsCeres_Dawn_1280.jpg)
+
+Copyright: No copyright, 
+
+Date: 2017-10-09,
+
+Explanation: What created this unusual mountain? Ahuna Mons is the largest mountain on the largest known asteroid in our Solar System, Ceres, which orbits our Sun in the main asteroid belt between Mars and Jupiter. Ahuna Mons, though, is like nothing that humanity has ever seen before. For one thing, its slopes are garnished not with old craters but young vertical streaks.  One hypothesis holds that Ahuna Mons is an ice volcano that formed shortly after a large impact on the opposite side of the dwarf planet loosened up the terrain through focused seismic waves.  The bright streaks may be high in reflective salt, and therefore similar to other recently surfaced material such as visible in Ceres' famous bright spots.  The featured double-height digital image was constructed from surface maps taken of Ceres last year by the robotic Dawn mission.   Open Science: Browse 1,500+ codes in the Astrophysics Source Code Library
+

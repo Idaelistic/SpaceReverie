@@ -1,0 +1,10 @@
+Crater Copernicus,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9809/copernicus_apollo17.jpg)](https://apod.nasa.gov/apod/image/9809/copernicus_apollo17_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1998-09-09,
+
+Explanation: One of the more prominent craters on the Moon is named Copernicus.  Copernicus is a large young crater visible with binoculars slightly northwest of the center of the Moon's Earth-facing hemisphere.  Copernicus is distinguished by its size and by the many bright rays pointing out from it. Although Copernicus is relatively young for a lunar crater, it was formed nearly a billion years ago by a colossal impact. The center of Copernicus is about 93 kilometers across.  The above picture was taken in 1972 by the last human mission to the moon: Apollo 17.  The prospects for a return have been boosted recently with increased evidence of ice deposits near the lunar poles.
+

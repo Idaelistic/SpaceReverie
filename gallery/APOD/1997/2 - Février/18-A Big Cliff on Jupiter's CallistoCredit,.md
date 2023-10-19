@@ -1,0 +1,11 @@
+A Big Cliff on Jupiter's Callisto
+Credit:,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9702/callistoscarp_gal.jpg)](https://apod.nasa.gov/apod/image/9702/callistoscarp_gal_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 1997-02-18,
+
+Explanation: Callisto's surface is not without fault. In fact, an explorer crossing the surface of this large moon of Jupiter would need climbing equipment to pass this large, recently discovered fault. The above picture was released last week and was taken in November 1996 by the robot spacecraft Galileo currently orbiting Jupiter. As the Sun illuminates Callisto's surface from the left, the unusual cliff or scarp stands out by the shadow it casts to the right. This cliff and others were probably formed when a large object collided with Callisto early in its history. Of the many visible craters in the above photograph, the smallest visible is about a football field across, while the largest is more than a kilometer.
+

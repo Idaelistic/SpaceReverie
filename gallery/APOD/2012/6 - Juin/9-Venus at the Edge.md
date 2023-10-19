@@ -1,0 +1,10 @@
+Venus at the Edge,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1206/657111main_1-SOT_120606_TOV.jpg)](https://apod.nasa.gov/apod/image/1206/657111main_1-SOT_120606_TOV.jpg)
+
+Copyright: No copyright, 
+
+Date: 2012-06-09,
+
+Explanation: As its June 6 2012 transit begins Earth's sister planet crosses the edge of the Sun in this stunning view from the Hinode spacecraft. The timing of limb crossings during the rare transits was used historically to triangulate the distance to Venus and determine a value for the Earth-Sun distance called the astronomical unit. Still, modern space-based views like this one show the event against an evocative backdrop of the turbulent solar surface with prominences lofted above the Sun's edge by twisting magnetic fields. Remarkably, the thin ring of light seen surrounding the planet's dark silhouette is sunlight refracted by Venus' thick atmosphere.
+

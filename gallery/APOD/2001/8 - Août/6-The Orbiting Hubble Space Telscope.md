@@ -1,0 +1,10 @@
+The Orbiting Hubble Space Telscope,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0108/hst_sts103.jpg)](https://apod.nasa.gov/apod/image/0108/hst_sts103_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2001-08-06,
+
+Explanation: The Hubble Space Telescope (HST) is the largest orbiting public optical telescope in history.  Its 2.4 meter diameter reflecting mirror and its perch above Earth's atmosphere allow it to create exceptionally sharp images.  Originally launched in 1990, HST optics were repaired to their intended accuracy in 1993 by the first of several regular servicing missions.  Astronomers using HST continue to make numerous monumental scientific discoveries, including new estimates of the age and composition of our universe, previously unknown galaxies, evidence of massive black holes in the centers of galaxies, protoplanetary star systems and star forming regions, and a better understanding of physical processes in our universe. A larger Next Generation Space Telescope (NGST) may be launched as early as 2007.
+

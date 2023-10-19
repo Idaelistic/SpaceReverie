@@ -1,0 +1,10 @@
+Milky Way over Uluru,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1507/MWUluruTafreshi_MG_6685Ps.jpg)](https://apod.nasa.gov/apod/image/1507/MWUluruTafreshi_MG_6685Ps.jpg)
+
+Copyright: Babak Tafreshi, 
+
+Date: 2015-07-30,
+
+Explanation: The central regions of our Milky Way Galaxy rise above Uluru/Ayers Rock in this striking night skyscape. Recorded on July 13, a faint airglow along the horizon shows off central Australia's most recognizable landform in silhouette. Of course the Milky Way's own cosmic dust clouds appear in silhouette too, dark rifts along the galaxy's faint congeries of stars. Above the central bulge, rivers of cosmic dust converge on a bright yellowish supergiant star Antares. Left of Antares, wandering Saturn shines in the night.
+

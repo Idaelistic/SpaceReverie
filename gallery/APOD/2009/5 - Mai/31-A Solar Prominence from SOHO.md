@@ -1,0 +1,10 @@
+A Solar Prominence from SOHO,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0905/sunprom3_soho.jpg)](https://apod.nasa.gov/apod/image/0905/sunprom3_soho_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2009-05-31,
+
+Explanation: How can gas float above the Sun?   Twisted magnetic fields arching from the solar surface can trap ionized gas, suspending it in huge looping structures.  These majestic plasma arches are seen as prominences above the solar limb.  In 1999 September, this dramatic and detailed image was recorded by the EIT experiment on board the space-based SOHO observatory in the light emitted by ionized Helium.  It shows hot plasma escaping into space as a fiery prominence breaks free from magnetic confinement a hundred thousand kilometers above the Sun.  These awesome events bear watching as they can affect communications and power systems over 100 million kilometers away on Planet Earth. Recently, our Sun has been unusually quiet.   Free Lecture: An APOD editor will review great space images this Friday in Kalamazoo, Michigan.
+

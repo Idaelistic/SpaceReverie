@@ -1,0 +1,10 @@
+Aurorae and Lightning on Jupiter,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2103/AuroraLightningJupiter_Juno_1080.jpg)](https://apod.nasa.gov/apod/image/2103/AuroraLightningJupiter_Juno_1629.jpg)
+
+Copyright: No copyright, 
+
+Date: 2021-03-24,
+
+Explanation: Why does so much of Jupiter's lightning occur near its poles? Similar to Earth, Jupiter experiences both aurorae and lightning. Different from Earth, though, Jupiter's lightning usually occurs near its poles -- while much of Earth's lightning occurs near its equator. To help understand the difference, NASA's Juno spacecraft, currently orbiting Jupiter, has observed numerous aurora and lightning events. The featured image, taken by Juno's Stellar Reference Unit camera on 2018 May 24, shows Jupiter's northern auroral oval and several bright dots and streaks. An eye-catching event is shown in the right inset image -- which is a flash of Jupiter's lightning -- one of the closest images of aurora and lightning ever. On Earth (which is much nearer to the Sun than Jupiter), sunlight is bright enough to create, by itself, much stronger atmospheric heating at the equator than the poles, driving turbulence, storms, and lightning. On Jupiter, in contrast, atmospheric heating comes mostly from its interior (as a remnant from its formation), leading to the hypothesis that more intense equatorial sunlight  reduces temperature differences between upper atmospheric levels, hence reducing equatorial lightning-creating storms.   APOD via Facebook in: in English, Catalan and Portuguese
+

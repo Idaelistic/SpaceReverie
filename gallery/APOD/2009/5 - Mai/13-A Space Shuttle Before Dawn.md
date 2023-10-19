@@ -1,0 +1,13 @@
+A Space Shuttle Before Dawn,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0905/shuttlepredawn_danforth.jpg)](https://apod.nasa.gov/apod/image/0905/shuttlepredawn_danforth_big.jpg)
+
+Copyright: 
+Charles Danforth
+(CASA, U. Colorado)
+, 
+
+Date: 2009-05-13,
+
+Explanation: This shuttle has launched to space.  Pictured above, the Space Shuttle Atlantis sat on Launch Pad 39A before dawn last month as it was prepared for the launch. The shuttle orbiter is visible on the image right, attached to a brown liquid fuel tank and two white solid rocket boosters. In the image center is the Fixed Service Structure that stands just over 100 meters tall, including the white lightning rod at the top. Starting on Sunday, the space shuttle embarked on one of its most ambitious missions ever: its fourth mission to fix and upgrade the ageing Hubble Space Telescope.  Hubble's replacement, the James Webb Space Telescope, is currently scheduled for launch in 2014.
+

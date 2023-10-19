@@ -1,0 +1,10 @@
+NGC 3621: Far Beyond the Local Group,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0909/NGC3621Lgendler_800.jpg)](https://apod.nasa.gov/apod/image/0909/NGC3621Lgendler.jpg)
+
+Copyright: Robert Gendler, 
+
+Date: 2009-09-19,
+
+Explanation: Far beyond the local group of galaxies lies NGC 3621, some 22 million light-years away. Found in the multi-headed southern constellation Hydra, the winding spiral arms of this gorgeous island universe are loaded with luminous young star clusters and dark dust lanes. Still, for earthbound astronomers NGC 3621 is not just another pretty face-on spiral galaxy. Some of its brighter stars have been used as standard candles to establish important estimates of extragalactic distances and the scale of the Universe. This beautiful image of NGC 3621 traces the loose spiral arms far from the galaxy's brighter central regions that span some 100,000 light-years. Spiky foreground stars in our own Milky Way Galaxy and even more distant background galaxies are scattered across the colorful skyscape.
+

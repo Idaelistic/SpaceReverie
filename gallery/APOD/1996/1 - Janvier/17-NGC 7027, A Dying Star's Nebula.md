@@ -1,0 +1,10 @@
+NGC 7027: A Dying Star's Nebula,
+
+[![Build Status](https://apod.nasa.gov/apod/image/hst_NGC7027.gif)](https://apod.nasa.gov/apod/image/hst_NGC7027_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-01-17,
+
+Explanation: This pseudo-color composite of two recent Hubble Space Telescope images is a picture of a Sun-like star nearing the end of its lifetime. The exquisite details visible in this planetary nebula indicate that when the star passed through its Red Giant phase it initially shrugged off its outer atmosphere gently and evenly producing the outer faint spherical shells. As the process continued, material was apparently ejected in dense clumps producing dust clouds in the bright inner regions. The whole ejection process was amazingly rapid, taking only a few thousand years compared to a 10 billion year lifetime typical for Solar type stars. In the end the hot stellar core, now a white dwarf star, was left - seen here as a white dot at the center of the nebula. Our middle-aged Sun will experience a similar fate ... in about 5 billion years!
+

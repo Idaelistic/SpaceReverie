@@ -1,0 +1,10 @@
+Cratered Cliffs of Ice on Saturn's Tethys,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0510/tethysflyby_cassini.jpg)](https://apod.nasa.gov/apod/image/0510/tethysflyby_cassini_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2005-10-12,
+
+Explanation: The surface of Saturn's moon Tethys is riddled with icy cliffs and craters.  The most detailed images ever taken of Tethys were captured late last month as the robot Cassini spacecraft swooped past the frozen ice moon.  The above image was taken from about 32,000 kilometers distant and shows a jagged landscape of long cliffs covered with craters.  At the bottom of many craters appears some sort of unknown light-colored substance, in contrast to the unknown dark substance that appears at the bottom of Saturn's moon Hyperion.  Tethys is one of the larger moons of Saturn, spanning about 1,000 kilometers across.   The density of Tethys indicates a composition almost entirely of water ice.  Tethys is thought to have been predominantly liquid sometime in its distant past, creating some of its long ice-cliffs as it cracked during freezing.
+

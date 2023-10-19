@@ -1,0 +1,10 @@
+Star Forming Region Hubble-V,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0112/ngc6822_hst.jpg)](https://apod.nasa.gov/apod/image/0112/ngc6822_hst_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2001-12-25,
+
+Explanation: How did stars form in the early universe?  Astronomers are gaining insight by studying NGC 6822, a nearby galaxy classified as irregular by modern standards but appearing more typical of galaxies billions of years ago.   Inspection of NGC 6822 shows several bright star groups, including two dubbed Hubble-X and Hubble-V.  Pictured above, the Hubble Space Telescope has resolved Hubble V into the energetic stars that are lighting up the surrounding gas.  Each star in the central dense knot of Hubble V shines brighter than 100,000 Suns.   The Hubble V gas cloud spans about 200 light years and lies about 1.5 million light-years away toward the constellation Sagittarius.
+

@@ -1,0 +1,16 @@
+The Butterfly Planetary Nebula,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9710/m29_hjh.jpg)](https://apod.nasa.gov/apod/image/9710/m29_hjh_big.gif)
+
+Copyright: J. H. Hora & W. B. Latter 
+(U. Hawaii), 
+2.2-m 
+Telescope, 
+Mauna 
+Kea
+, 
+
+Date: 1997-10-21,
+
+Explanation: As stars age, they throw off their outer layers.  Sometimes a highly symmetric gaseous planetary nebula is created, as is the case in M2-9, also called the Butterfly. Most planetary nebulae show this bipolar appearance, although some appear nearly spherical.  An unusual characteristic of the Butterfly is that spots on the "wings" appear to have moved slightly over the years.  The above picture was taken in three bands of infrared light and computationally shifted into the visible. Much remains unknown about planetary nebulae, including why some appear symmetric, what creates the knots of emission (some known as FLIERS), and how exactly stars create them.
+

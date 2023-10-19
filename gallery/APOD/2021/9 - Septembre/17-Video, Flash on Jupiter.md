@@ -1,0 +1,14 @@
+Video: Flash on Jupiter,
+
+## Vidéo: https://www.youtube.com/embed/ImVl_TfTFEY?rel=0, 
+
+Copyright: 
+T. Humbert, S. Barré, A. Desmougin & D. Walliang 
+(Société Lorraine d'Astronomie),
+Astroqueyras
+, 
+
+Date: 2021-09-17,
+
+Explanation: There has been a flash on Jupiter. A few days ago, several groups monitoring our Solar System's largest planet noticed a two-second long burst of light. Such flashes have been seen before, with the most famous being a series of impactor strikes in 1994. Then, fragments of Comet Shoemaker-Levy 9 struck  Jupiter leaving dark patches that lasted for months. Since then, at least seven impacts have been recorded on Jupiter -- usually discovered by amateur astronomers. In the featured video, variations in the Earth's atmosphere cause Jupiter's image to shimmer when, suddenly, a bright flash appears just left of center.  Io and its shadow are visible on the right. What hit Jupiter will likely never be known, but considering what we do know of the nearby Solar System, it was likely a piece of rock and ice -- perhaps the size of a bus -- that broke off long-ago from a passing comet or asteroid.
+

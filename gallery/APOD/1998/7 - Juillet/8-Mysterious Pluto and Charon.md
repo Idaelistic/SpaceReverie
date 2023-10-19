@@ -1,0 +1,10 @@
+Mysterious Pluto and Charon,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9807/plutocharon_lo.jpg)](https://apod.nasa.gov/apod/image/9807/plutocharon_lo_sml.gif)
+
+Copyright: No copyright, 
+
+Date: 1998-07-08,
+
+Explanation: Pluto is the only planet in our Solar System remaining unphotographed by a passing spacecraft. Distant Pluto and its moon Charon therefore remain somewhat mysterious.  In addition to direct imaging by the Hubble Space Telescope, careful tracking of brightness changes that occur as each object eclipses the other have allowed astronomers to build up the above black & white surface maps.  These maps depict the face of Pluto (left) that always faces Charon, and the face of Charon that always faces away from Pluto. The rectangular pixels are an artifact of the mapping software. The Pluto-Kuiper Express mission is tentatively planned for launch in 2003 and should encounter Pluto around the year 2012.
+

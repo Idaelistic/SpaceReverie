@@ -1,0 +1,12 @@
+Emission Nebula IC 1396,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0408/ic1396_crisp_c1.jpg)](https://apod.nasa.gov/apod/image/0408/ic1396_crisp_full.jpg)
+
+Copyright: 
+Richard Crisp
+, 
+
+Date: 2004-08-05,
+
+Explanation: Sprawling across hundreds of light-years, emission nebula IC 1396 mixes glowing cosmic gas and dark dust clouds. Stars are forming in this area, only about 3,000 light-years from Earth. This particularly colorful view of the region is a composite of digital images recorded through narrow band filters. The filters actually block out most of the light ... but narrowly transmit wavelengths characteristic of specific glowing atoms in the nebula. In fact, the color scheme used here makes it easy to trace some of the elements which contribute to the emission from IC 1396. Emission from sulfur atoms is shown in red, hydrogen atoms green, and oxygen in blue. The beautiful and useful result is still very different from what the eye might see. IC 1396 lies in the high and far off constellation of Cepheus.
+

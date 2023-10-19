@@ -1,0 +1,12 @@
+Highlights of the Winter Sky,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1712/Winter1718Highlights_Universe2go_960.jpg)](https://apod.nasa.gov/apod/image/1712/Winter1718Highlights_Universe2go_4994.jpg)
+
+Copyright: 
+Universe2go.com
+, 
+
+Date: 2017-12-12,
+
+Explanation: What's up in the sky this winter?  The featured graphic gives a few highlights for Earth's northern hemisphere.  Viewed as a clock face centered at the bottom, early winter sky events fan out toward the left, while late winter events are projected toward the right.  Objects relatively close to Earth are illustrated, in general, as nearer to the cartoon figure with the telescope at the bottom center -- although almost everything pictured can be seen without a telescope.  Highlights of this winter's sky include the Geminids meteor shower peaking this week, the constellation of Orion becoming notable in the evening sky, and many planets being visible before sunrise in February.  As true in every season, the International Space Station (ISS) can be sometimes be found drifting across your sky if you know just when and where to look.
+

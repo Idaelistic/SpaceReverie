@@ -1,0 +1,10 @@
+Comet Hyakutake Passes the Sun,
+
+[![Build Status](https://apod.nasa.gov/apod/image/hyakutake_soho.gif)](https://apod.nasa.gov/apod/image/hyakutake_soho.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-05-16,
+
+Explanation: On May 1, Comet Hyakutake made its closest approach to the Sun. During this time it was not possible to view the comet with most astronomical instruments because of the brightness of the nearby Sun. But the orbiting Solar and Heliospheric Observatory (SOHO) spacecraft contains telescopes meant to look directly at the Sun and so were able to track the comet during this crucial time.  This picture, taken May 2, shows the tails of Comet Hyakutake pointing away from the Sun, as expected. During its closest approach, Comet Hyakutake passed inside the orbit of Mercury. Comet Hyakutake will not return to the inner Solar System for another 14,000 years.
+

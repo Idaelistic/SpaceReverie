@@ -1,0 +1,12 @@
+Unusual Light Pillars Over Latvia,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0901/icepillar_truhin.jpg)](https://apod.nasa.gov/apod/image/0901/icepillar_truhin_big.jpg)
+
+Copyright: 
+Aigar Truhin
+, 
+
+Date: 2009-01-12,
+
+Explanation: What's happening over that town? Close inspection shows these strange columns of light occur over bright lights, and so likely involve falling ice crystals reflecting back these lights. The reason why these pillars fan out at the top, however, is currently unknown -- readers of APOD might help figure this out by participating in an online discussion. The above image and several similar images were taken with a standard digital camera in Sigulda, Latvia last month.  The air was noted to be quite cold and indeed filled with small ice crystals, just the type known to create several awe-inspiring but well known sky phenomena such as light pillars, sun pillars, sun dogs, and moon halos.  The cold and snowy winter occurring this year in parts of Earth's northern hemisphere is giving sky enthusiasts new and typically unexpected opportunities to see several of these unusual optical atmospheric phenomena for themselves.
+

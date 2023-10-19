@@ -1,0 +1,10 @@
+Manhattan Moonrise,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1706/SHonda_86072jsm1024.jpg)](https://apod.nasa.gov/apod/image/1706/SHonda_86072jsm.jpg)
+
+Copyright: Stan Honda, 
+
+Date: 2017-06-16,
+
+Explanation: A Full Moon rose as the Sun set on June 9, known to some as a Strawberry Moon. Close to the horizon and taking on the warm color of reflected sunlight filtered through a dense and dusty atmosphere, the fully illuminated lunar disk poses with the skyscrapers along the southern Manhattan skyline in this telephoto snapshot. The picture was taken from Eagle Rock Reservation, a park in West Orange, New Jersey, planet Earth. That's about 13 miles from southern Manhattan and some 240,000 miles from the Moon. Foreground faces of the modern towers of steel and glass share the Moon's warm color by reflecting the last rays of the setting Sun. The tallest, with the shining triangular facet, is New York City's One World Trade Center.
+

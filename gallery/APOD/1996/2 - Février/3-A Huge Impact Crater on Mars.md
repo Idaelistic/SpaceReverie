@@ -1,0 +1,10 @@
+A Huge Impact Crater on Mars,
+
+[![Build Status](https://apod.nasa.gov/apod/image/marsSch_usgs.gif)](https://apod.nasa.gov/apod/image/marsSch_usgs.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-02-03,
+
+Explanation: What hit Mars? The impact crater Schiparelli near the center of the above image was likely caused by a collision with an object the size of an asteroid. Also evident in this full face mosaic of Mars are numerous craters from many other impacts with smaller objects over billions of years. At the lower right, white carbon dioxide frost can be seen in the Hellas basin. The frost forms because temperatures can drop as low as -140 degrees Celsius on Mars. Some Martian regions, however, occasionally reach as high as 20 degrees Celsius - a typical room temperature here on Earth.
+

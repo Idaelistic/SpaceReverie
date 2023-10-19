@@ -1,0 +1,12 @@
+Introducing Comet Lee,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9904/lee_gg_big.jpg)](https://apod.nasa.gov/apod/image/9904/lee_gg.jpg)
+
+Copyright: 
+Gordon Garradd
+, 
+
+Date: 1999-04-27,
+
+Explanation: Another large snowball is falling toward the Sun.  Comet Lee was discovered two weeks ago by Steve Lee (AAO) in Australia, and is expected to brighten as it approaches the inner Solar System.  Comet Lee is not expected to become a naked-eye object, though, with recent projections guessing it will peak at magnitude 7 in July.  Starting in May, the large piece of dirty ice officially known as Comet C/1999 H1 Lee will be visible to northern observers. Comet Lee is the fuzzy patch in the above picture taken on April 16 from Loomberah, Australia.
+

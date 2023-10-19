@@ -1,0 +1,10 @@
+The Lagoon Nebula in High Definition,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1612/M8_Colombari_960.jpg)](https://apod.nasa.gov/apod/image/1612/M8_Colombari_1824.jpg)
+
+Copyright: R. Colombari, 
+
+Date: 2016-12-14,
+
+Explanation: Stars are battling gas and dust in the Lagoon Nebula but the photographers are winning. Also known as M8, this photogenic nebula is visible even without binoculars towards the constellation of Sagittarius. The energetic processes of star formation create not only the colors but the chaos. The red-glowing gas results from high-energy starlight striking interstellar hydrogen gas. The dark dust filaments that lace M8 were created in the atmospheres of cool giant stars and in the debris from supernovae explosions. The light from M8 we see today left about 5,000 years ago. Light takes about 50 years to cross this section of M8. Data used to compose this image was taken with the wide-field camera OmegaCam of the ESO's VLT Survey Telescope (VST).   Free Download: APOD 2017 Calendar: NASA Images
+

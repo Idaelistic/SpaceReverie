@@ -1,0 +1,12 @@
+The Backyard Universe,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9904/amdeepfield_boltwood.jpg)](https://apod.nasa.gov/apod/image/9904/amdeepfield_boltwood_big.jpg)
+
+Copyright: 
+Paul Boltwood
+, 
+
+Date: 1999-04-14,
+
+Explanation: How far can you see from your own backyard?  Across the Solar System, even across our Galaxy, these sights are not difficult.  Recently, however, amateur Paul Boltwood gazed across the universe. His record setting image is shown above in false color.  Boltwood imaged sources more faint than magnitude 24 in response to a challenge made to amateur astronomers by Yale Astronomy Professor Bradley Schaefer.  Objects this dim tend to be galaxies billions of light years away.  Although professionals have recently recovered objects as dim as magnitude 30, Boltwood's image rivals even the best professional efforts of only a few decades ago.  Since then, photon-catching Charge Coupled Devices (CCDs) have allowed high efficiency frames to be added together.  As evidence, Boltwood used only a 16-inch telescope, but co-added 767 exposures each lasting only two minutes.
+

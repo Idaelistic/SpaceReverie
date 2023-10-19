@@ -1,0 +1,10 @@
+Aurora Over Alaska,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0704/aurora1_wikipedia.jpg)](https://apod.nasa.gov/apod/image/0704/aurora1_wikipedia_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2007-04-09,
+
+Explanation: Higher than the highest mountain, higher than the highest airplane, lies the realm of the aurora.  Aurora rarely reach below 60 kilometers, and can range up to 1000 kilometers.  Aurora light results from solar shockwave causing energetic electrons and protons to striking molecules in the Earth's atmosphere.  Frequently, when viewed from space, a complete aurora will appear as a circle around one of the Earth's magnetic poles.  The above digitally enhanced photograph was taken in 2005 January shows a spectacular aurora borealis above the frozen landscape of Bear Lake, Alaska, USA. The above image was voted Wikipedia Commons Picture of the Year for 2006.
+

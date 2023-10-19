@@ -1,0 +1,10 @@
+NGC 253: The Silver Coin Galaxy,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2004/NGC253_HstSubaruEsoNew_960.jpg)](https://apod.nasa.gov/apod/image/2004/NGC253_HstSubaruEsoNew_3500.jpg)
+
+Copyright: No copyright, 
+
+Date: 2020-04-14,
+
+Explanation: NGC 253 is one of the brightest spiral galaxies visible, but also one of the dustiest.  Dubbed the Silver Coin for its appearance in smalltelescopes, it is more formally known as the Sculptor Galaxy for its location within the boundaries of the southern constellation Sculptor.  Discovered in 1783 by mathematician and astronomer Caroline Herschel, the dusty island universe lies a mere 10 million light-years away. About 70 thousand light-years across, NGC 253, pictured, is the largest member of the Sculptor Group of Galaxies, the nearest to our own Local Group of galaxies.  In addition to its spiral dust lanes, tendrils of dust seem to be rising from a galactic disk laced with young star clusters and star forming regions in this sharp color image. The high dust content accompanies frantic star formation, earning NGC 253 the designation of a starburst galaxy. NGC 253 is also known to be a strong source of high-energy x-rays and gamma rays, likely due to massive black holes near the galaxy's center. Take a trip through extragalactic space in this short video flyby of NGC 253.   Astrophysicists: Browse 2,100+ codes in the Astrophysics Source Code Library
+

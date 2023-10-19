@@ -1,0 +1,10 @@
+Gamma-Ray Burster,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9712/grb971214_m.gif)](https://apod.nasa.gov/apod/image/9712/grb971214_m.gif)
+
+Copyright: No copyright, 
+
+Date: 1997-12-18,
+
+Explanation: Gamma-ray bursts seem to be the most powerful explosions in the Universe. Yet their sources continue to elude researchers who stand in awe and frustration at the bursts' transient, enigmatic behavior. The blinking gif above illustrates the latest hard-won result in the quest to identify and understand the nature of the bursters. These Apache Point Observatory optical images from Monday and Tuesday this week have helped identify a faint, fading object (red arrow) near the position of a gamma-ray burst. The gamma-ray burst triggered satellite observatories on Sunday, December 14th. Faint stars near the constellation Ursa Major (the Big Dipper) also appear in these "negative" images of the sky. Though thousands of bursts have been detected by satellites sensitive to gamma rays, it is likely that this object represents only the third known optical counterpart to a gamma-ray burst.
+

@@ -1,0 +1,12 @@
+Dragon Aurora over Iceland,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1902/DragonAurora_Zhang_960.jpg)](https://apod.nasa.gov/apod/image/1902/DragonAurora_Zhang_2241.jpg)
+
+Copyright: 
+Jingyi Zhang & Wang Zheng
+, 
+
+Date: 2019-02-18,
+
+Explanation: Have you ever seen a dragon in the sky? Although real flying dragons don't exist, a huge dragon-shaped aurora developed in the sky over Iceland earlier this month.  The aurora was caused by a hole in the Sun's corona that expelled charged particles into a solar wind that followed a changing interplanetary magnetic field to Earth's magnetosphere.  As some of those particles then struck Earth's atmosphere, they excited atoms which subsequently emitted light: aurora. This iconic display was so enthralling that the photographer's mother ran out to see it and was captured in the foreground.  No sunspots have appeared on the Sun so far in February, making the multiple days of picturesque auroral activity this month somewhat surprising.  	
+

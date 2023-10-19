@@ -1,0 +1,10 @@
+Night Hides the World,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1510/NightHidesTurkanaTafreshi.jpg)](https://apod.nasa.gov/apod/image/1510/NightHidesTurkanaTafreshi.jpg)
+
+Copyright: Babak Tafreshi, 
+
+Date: 2015-10-16,
+
+Explanation: Stars come out as evening twilight fades in this serene skyscape following the Persian proverb "Night hides the world, but reveals a universe." The scene finds the Sun setting over northern Kenya and the night will soon hide the shores of Lake Turkana, home to many Nile crocodiles. The region is also known for its abundance of hominid fossils. On that past November night, a brilliant Venus, then the world's evening star, dominates the starry skies above. But also revealed are faint stars, cosmic dust clouds, and glowing nebulae along the graceful arc of our own Milky Way galaxy.
+

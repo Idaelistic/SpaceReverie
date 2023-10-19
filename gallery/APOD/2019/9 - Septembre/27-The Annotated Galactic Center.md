@@ -1,0 +1,10 @@
+The Annotated Galactic Center,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1909/MilkyWay-CorePanorama_8738-Cr-Anno1080.jpg)](https://apod.nasa.gov/apod/image/1909/MilkyWay-CorePanorama_8738-Cr-Anno.jpg)
+
+Copyright: Miguel Claro, 
+
+Date: 2019-09-27,
+
+Explanation: The center of our Milky Way galaxy can be found some 26,000 light-years away toward the constellation Sagittarius. Even on a dark night, you can't really see it though. Gaze in that direction, and your sight-line is quickly obscured by intervening interstellar dust. In fact, dark dust clouds, glowing nebulae, and crowded starfieds are packed along the fertile galactic plane and central regions of our galaxy. This annotated view, a mosaic of dark sky images, highlights some favorites, particularly for small telescope or binocular equipped skygazers. The cropped version puts the direction to the galactic center on the far right. It identifies well-known Messier objects like the Lagoon nebula (M8), the Trifid (M20), star cloud M24, and some of E.E. Barnard's dark markings on the sky. A full version extends the view to the right toward the constellation Scorpius, in all covering over 20 degrees across the center of the Milky Way.
+

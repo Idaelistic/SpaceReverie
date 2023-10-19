@@ -1,0 +1,11 @@
+Venus and Mercury in the West,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1004/VenusMercurioGallegos_Biziola900.jpg)](https://apod.nasa.gov/apod/image/1004/VenusMercurioGallegos_BiziolaE.jpg)
+
+Copyright: Manu
+Arregi Biziola, 
+
+Date: 2010-04-07,
+
+Explanation: In this twilight skyview, a windmill stands in silent witness to a lovely pairing of planets in the west. The picture was recorded on April 5 from Gallegos del Campo, Zamora, Spain. Venus (left) and Mercury (right) are near their much anticipated conjunction in the early evening sky. But even in the coming days, these two evening stars will remain close in the western sky at sunset. In fact, with brighter Venus as a marker, sky watchers will have an excellent guide for spotting Mercury nearby, a planet often hidden in the Sun's glare.
+

@@ -1,0 +1,10 @@
+Star Trails in the North,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1012/StartrailsViking_heden.jpg)](https://apod.nasa.gov/apod/image/1012/StartrailsViking_heden.jpg)
+
+Copyright: Clear Skies, 
+
+Date: 2010-12-24,
+
+Explanation: Pointing skyward, the wall of this ruined Viking church still stands after a thousand winters, near the town of Vallentuna, Sweden. The time exposure records the scene on December 14th as stars leave graceful arcing trails during a long night, reflecting planet Earth's daily rotation on its axis. The Earth's axis points toward Polaris, the North Star, near the center of the concentric trails. Welcomed by skygazers on this winter's night, a bright meteor from the annual Geminid meteor shower also flashes through the frame. The meteor cuts across the star trails just above the lower church wall. Contributing to the beautiful composition, meteor streak and church apex both gesture toward the North Celestial Pole.
+

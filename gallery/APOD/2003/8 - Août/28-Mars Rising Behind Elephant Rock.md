@@ -1,0 +1,12 @@
+Mars Rising Behind Elephant Rock,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0308/elephantmars_pacholka.jpg)](https://apod.nasa.gov/apod/image/0308/elephantmars_pacholka_big.jpg)
+
+Copyright: 
+Wally Pacholka (Astropics)
+, 
+
+Date: 2003-08-28,
+
+Explanation: Yesterday, at about 10 am Universal Time, Mars and Earth passed closer than in nearly 60,000 years.  Mars, noticeably red, remains the brightest object in the eastern sky just after sunset.  The best views of Mars, however, will continue to be from the robot spacecraft currently orbiting Mars: the Mars Global Surveyor and the Mars Odyssey.  The current pass sparked the launching of four new spacecraft toward Mars, some of which will deploy landers early next year and likely return even more spectacular views of our planetary neighbor.  Pictured above, Mars was photographed rising in the southeast behind Elephant Rock in the Valley of Fire State Park, Nevada, USA.
+

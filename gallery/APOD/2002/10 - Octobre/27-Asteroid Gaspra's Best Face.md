@@ -1,0 +1,10 @@
+Asteroid Gaspra's Best Face,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0210/gaspra_galileo.jpg)](https://apod.nasa.gov/apod/image/0210/gaspra_galileo_big.gif)
+
+Copyright: No copyright, 
+
+Date: 2002-10-27,
+
+Explanation: Asteroid 951 Gaspra is a huge rock tumbling in space.  Gaspra became one of the best-studied asteroids in 1991 when the spacecraft Galileo flew by. In the above photograph, subtle color variations have been exaggerated to highlight changes in reflectivity, surface structure and composition.  Gaspra is about 20 kilometers long and orbits the Sun in the main asteroid belt between Mars and Jupiter.
+

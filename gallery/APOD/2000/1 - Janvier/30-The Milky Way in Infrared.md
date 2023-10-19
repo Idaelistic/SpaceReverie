@@ -1,0 +1,10 @@
+The Milky Way in Infrared,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0001/milkyway_cobe.jpg)](https://apod.nasa.gov/apod/image/0001/milkyway_cobe_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2000-01-30,
+
+Explanation: At night, from a dark location, part of the clear sky looks milky.  This unusual swath of dim light is generally visible during any month and from any location.  Until the invention of the telescope, nobody really knew what the "Milky Way" was.  About 300 years ago telescopes caused a startling revelation: the Milky Way was made of stars.  Only 70 years ago, more powerful telescopes brought the further revelation that the Milky Way is only one galaxy among many.  Now telescopes in space allow yet deeper understanding.  The above picture was taken by the COBE satellite and shows the plane of our Galaxy in infrared light. The thin disk of our home spiral galaxy is clearly apparent, with stars appearing white and interstellar dust appearing red.
+

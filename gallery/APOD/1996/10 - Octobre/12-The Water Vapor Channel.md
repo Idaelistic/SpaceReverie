@@ -1,0 +1,10 @@
+The Water Vapor Channel,
+
+[![Build Status](https://apod.nasa.gov/apod/image/watervapor_goes8.gif)](https://apod.nasa.gov/apod/image/watervapor_goes8_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-10-12,
+
+Explanation: What alien planet's bizarre landscape lurks below these fiery-looking clouds? It's only Planet Earth, of course -- as seen on the Water Vapor Channel. Hourly, images like this one (shown in false color) are brought to you by the orbiting GOES 8 satellite's multi-channel imager. This instrument can produce images at the infrared wavelength of 6.7 microns or about 10 times the wavelength of visible light, recording radiation emitted by water vapor in the upper troposphere. Bright regions correspond to high concentrations of water vapor while dark spots are relatively dry areas. Atmospheric water vapor is invisible to the eye and produced by evaporation from the oceans. Convected upward in the tropical zones it affects the climate by contributing substantially to the greenhouse effect.
+

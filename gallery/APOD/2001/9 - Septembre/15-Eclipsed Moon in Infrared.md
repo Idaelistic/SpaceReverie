@@ -1,0 +1,10 @@
+Eclipsed Moon in Infrared,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0109/lunarecl_msx_c1.jpg)](https://apod.nasa.gov/apod/image/0109/lunarecl_msx_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2001-09-15,
+
+Explanation: The total lunar eclipse of September 1996 disappointed many observers in North America who were cursed with cloudy skies. However, the Midcourse Space Experiment (MSX) satellite had a spectacular view from Earth orbit and SPIRIT III, an onboard infrared telescope, was used to repeatedly image the moon during the eclipse. Above is one of the images taken during the 70 minute totality, the Moon completely immersed in the Earth's shadow. Infrared light has wavelengths longer than visible light - human's can not see it but feel it as heat. The bright spots correspond to the warm areas on the lunar surface, dark areas are cooler. The brightest spot below and left of center is the crater Tycho, the dark region at the upper right is the Mare Crisium. The series of SPIRIT III images allow the determination of cooling rates for geologically different areas, exploring the physical properties of the Moon's surface.
+

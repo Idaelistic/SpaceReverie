@@ -1,0 +1,10 @@
+Fireball!,
+
+[![Build Status](https://apod.nasa.gov/apod/image/fireball_crop.gif)](https://apod.nasa.gov/apod/image/fireball.gif)
+
+Copyright: No copyright, 
+
+Date: 1996-02-26,
+
+Explanation: On rare but spectacular occasions, fireballs, meteors brighter than the brightest stars, flash through the heavens - sometimes making audible sounds and occasionally surviving to strike the Earth's surface. The path of one such fireball, recorded last year in January skies over Hannover Germany is shown above, the brilliant meteor easily outshining the stars of the constellation Orion (visible at the far right). In fact, for this brief moment Sirius, the brightest star in the night sky, is overwhelmed as the image of the fireball grazes it. This dramatic event was recorded by a video camera observation technique known as MOVIE. Interplanetary space is littered with meteoroids, "rocks" tens of yards in diameter and less. Striking the Earth's atmosphere at high relative speeds, they leave visible trails known as meteors or, more poetically, "shooting stars". The trails are created when the intense heat caused by friction vaporizes them. Fireballs can be caused by meteroids weighing small fractions of an ounce which do not survive to reach the ground. Remnants of larger ones, which do reach the ground after running this fiery gauntlet, are called meteorites. Though fireballs are rare, meteors are visible on any clear night of the year. Even outside the predicted regular meteor shower events, patient observers in dark sky areas can see several an hour - by just looking up! Sightings of fireballs should be reported.
+

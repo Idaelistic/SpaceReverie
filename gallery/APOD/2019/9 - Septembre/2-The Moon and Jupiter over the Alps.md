@@ -1,0 +1,13 @@
+The Moon and Jupiter over the Alps,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1909/MoonJupiterPass_Hofer_960.jpg)](https://apod.nasa.gov/apod/image/1909/MoonJupiterPass_Hofer_1200.jpg)
+
+Copyright: 
+Giorgia Hofer
+(Cortina Astronomical Association)
+, 
+
+Date: 2019-09-02,
+
+Explanation: What are those bright lights in the sky ahead?  When hiking a high mountain pass in northern Italy three weeks ago, a conjunction between our Moon and the distant planet Jupiter was visible toward the south just after sunset. The picturesque mountains in the distance are Tre Cime di Lavaredo (Three Peaks of Lavaredo), a UNESCO World Heritage Site and three of the best known mountain peaks in Italy, the Dolomites, and the entire Alps. In the foreground on the left is Locatelli Hut, a refuge for tired hikers as it is located over an hour from nearest parking lot. The bright sky object on the upper left is Saturn.  The entire scene was captured on a single 8-second exposure.  Jupiter and Saturn will remain prominent in the southwestern sky after sunset this month, while the Moon, in its monthly orbit around the Earth, will pass near Jupiter again in about four days.
+

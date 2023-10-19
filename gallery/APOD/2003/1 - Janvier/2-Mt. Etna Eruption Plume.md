@@ -1,0 +1,10 @@
+Mt. Etna Eruption Plume,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0301/etna_iss.jpg)](https://apod.nasa.gov/apod/image/0301/etna_iss_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2003-01-02,
+
+Explanation: Mt. Etna has been erupting for hundreds of thousands of years.  In late October of last year, however, earthquakes triggered a particularly vigorous outburst from this well known volcano on the Italian island of Sicily.  Local schools were closed and air-traffic re-routed as hot lava poured out and ash spewed out and settled as far away as Libya.  Pictured above was the Mt. Etna ash plume as it appeared to astronauts on the International Space Station.  The view looks toward the southeast. Light colored smoke is due to forest fires caused by lava on the volcano's north face.
+

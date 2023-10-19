@@ -1,0 +1,10 @@
+Starry Night over Dubai,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1107/TowerHalfPan_tafreshi600h.jpg)](https://apod.nasa.gov/apod/image/1107/TowerHalfPan_tafreshi.jpg)
+
+Copyright: Babak Tafreshi, 
+
+Date: 2011-07-16,
+
+Explanation: A starry night over the city of Dubai in the United Arab Emirates is really not so starry. In fact, the Moon is the only celestial beacon to come close to competing with city lights in this night skyscape, a situation all too familiar to urban skygazers. The futuristic looking scene is dominated by the 800 meter tall Khalifa Tower, presently the tallest free standing structure on planet Earth. But for now you should also be able to make out a few of the very brightest stars in Earth's night sky. Capella is left of the tower and Aldebaran, Betelgeuse, Rigel, and stars in Orion's Belt can just be identified in the heavily light-polluted skies. Need some help finding them? Slide your cursor over the image.
+

@@ -1,0 +1,15 @@
+Full Moon, Green Rim,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0508/LunarGreenFlash_laveder_c100.jpg)](https://apod.nasa.gov/apod/image/0508/LunarGreenFlash_laveder_f.jpg)
+
+Copyright: 
+
+Laurent Laveder
+(PhotoAstronomique.net)
+
+, 
+
+Date: 2005-08-26,
+
+Explanation: July's Full Moon looks strangely darkened and distorted in this remarkable telescopic view. The image is one of a series recorded when the Moon was very near the horizon. The long sight-line through a turbulent atmosphere gives rise to the tantalizing optical effects, including the thin "mirage" shape that seems to float just above the Moon's upper edge. Also seen (more easily in the inset), along the Moon's upper edge is a noticeable green rim. Substantial atmospheric refraction produces this prism-like effect -- related to the more commonly witnessed green flash of the setting Sun. Careful inspection of the full image reveals a corresponding red rim along the lower edge, another intriguing signature of atmospheric refraction.  News: Beware the Mars Hoax
+

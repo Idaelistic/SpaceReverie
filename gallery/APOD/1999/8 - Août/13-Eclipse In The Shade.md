@@ -1,0 +1,12 @@
+Eclipse In The Shade,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9908/eclipsetree_ejisrael_c.jpg)](https://apod.nasa.gov/apod/image/9908/eclipsetree_ejisrael_c.jpg)
+
+Copyright: 
+E. Israel
+, 
+
+Date: 1999-08-13,
+
+Explanation: Near the shadow of the moon under a shady tree, dozens of images of a 1994 solar eclipse in progress are visible in this striking picture from the campus of Northwestern University in Evanston, Illinois. What creates the multiple images? Any small gap between leaves can act like a pin-hole camera, projecting a discernible image of the crescent sun onto the shaded sidewalk below. This tree's height and multitude of leaves combine dramatically to produce the large size and number of images. On August 11, many throughout Europe and Asia had the chance to enjoy similar views of the last total solar eclipse of the millennium as the moon's shadow raced across densely populated regions of the globe.
+

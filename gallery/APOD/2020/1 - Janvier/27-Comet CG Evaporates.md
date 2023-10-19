@@ -1,0 +1,10 @@
+Comet CG Evaporates,
+
+[![Build Status](https://apod.nasa.gov/apod/image/2001/Comet67P_Rosetta_1024.jpg)](https://apod.nasa.gov/apod/image/2001/Comet67P_Rosetta_1024.jpg)
+
+Copyright: No copyright, 
+
+Date: 2020-01-27,
+
+Explanation: Where do comet tails come from?  There are no obvious places on the nuclei of comets from which the jets that create comet tails emanate.  One of the best images of emerging jets is shown in the featured picture, taken in 2015 by ESA's robotic Rosetta spacecraft that orbited Comet 67P/Churyumov-Gerasimenko (Comet CG) from 2014 to 2016.  The picture shows plumes of gas and dust escaping numerous places from Comet CG's nucleus as it neared the Sun and heated up.  The comet has two prominent lobes, the larger one spanning about 4 kilometers, and a smaller 2.5-kilometer lobe connected by a narrow neck. Analyses indicate that evaporation must be taking place well inside the comet's surface to create the jets of dust and ice that we see emitted through the surface.  Comet CG (also known as Comet 67P) loses in jets about a meter of radius during each of its 6.44-year orbits around the Sun, a rate at which will completely destroy the comet in only thousands of years. In 2016, Rosetta's mission ended with a controlled impact onto Comet CG's surface.   Outreach Astronomers: Future APOD writers sought.
+

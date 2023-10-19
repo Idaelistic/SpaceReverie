@@ -1,0 +1,12 @@
+Comet LINEAR Approaches,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0007/linear_milan.gif)](https://apod.nasa.gov/apod/image/0007/linear_milan_big.gif)
+
+Copyright: 
+Wil Milan
+, 
+
+Date: 2000-07-04,
+
+Explanation: Just possibly, a new comet may become bright enough to see without binoculars later this month.  Comet C/1999 S4 LINEAR is rapidly approaching both the Earth and the Sun from the outer Solar System, and should be at its brightest around 2000 July 25 in the early evening sky of northern observers.  The comet was discovered by chance by project LINEAR last September.  The above time-lapse sequence of Comet LINEAR was taken on 2000 July 2 from Arizona and shows the comet's movement over only 19 minutes. Although Comet LINEAR's positions will be known quite accurately, the comet's future brightness and tail length can only be guessed, and it is quite possible that neither will become very impressive.
+

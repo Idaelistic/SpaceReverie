@@ -1,0 +1,15 @@
+Asia at Night,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9907/asia_dmsp.gif)](https://apod.nasa.gov/apod/image/9907/asia_dmsp_big.gif)
+
+Copyright: 
+DMSP 
+Digital Archive, 
+NGDC, 
+NOAA
+, 
+
+Date: 1999-07-28,
+
+Explanation: This is what Asia looks like at night!  Can you find your favorite Asian city? Although not all of Asia is shown, city lights might make this task possible.  The above picture is actually a composite of over 200 images made by satellites orbiting the Earth.  Scans were made by the USAF Defense Meteorological Satellite Program (DMSP) Operational Linescan System.  The DMSP satellites continue to help in the understanding and prediction of weather phenomena as well as provide key information about population patterns, city light levels, and even rural forest fires.
+

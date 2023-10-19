@@ -1,0 +1,10 @@
+Abell 370: Galaxy Cluster Gravitational Lens,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1903/Abell370Arcs_HubbleAndreo_960.jpg)](https://apod.nasa.gov/apod/image/1903/Abell370Arcs_HubbleAndreo_1840.jpg)
+
+Copyright: No copyright, 
+
+Date: 2019-03-19,
+
+Explanation: What are those strange arcs? While imaging the cluster of galaxies Abell 370, astronomers noticed an unusual arc.  The arc wasn't understood right away -- not until better images showed that the arc was a previously unseen type of astrophysical artifact of a gravitational lens, where the lens was the center of an entire cluster of galaxies. Today, we know that this arc, the brightest arc in the cluster, actually consists of two distorted images of a fairly normal galaxy that happens to lie far in the distance.  Abell 370's gravity caused the background galaxies' light -- and others -- to spread out and come to the observer along multiple paths, not unlike a distant light appears through the stem of a wine glass. Almost all of the yellow images featured here are galaxies in the Abell 370 cluster. An astute eye can pick up many strange arcs and distorted arclets, however, that are actually gravitationally lensed images of distant normal galaxies. Studying Abell 370 and its images gives astronomers a unique window into the distribution of normal and dark matter in galaxy clusters and the universe.
+

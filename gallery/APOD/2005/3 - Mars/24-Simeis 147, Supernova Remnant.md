@@ -1,0 +1,12 @@
+Simeis 147: Supernova Remnant,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0503/s147_gendler_c39.jpg)](https://apod.nasa.gov/apod/image/0503/s147_gendler_full.jpg)
+
+Copyright: 
+Robert Gendler
+, 
+
+Date: 2005-03-24,
+
+Explanation: It's easy to get lost following the intricate filaments in this detailed image of faint supernova remnant Simeis 147. Seen towards the constellation Taurus it covers nearly 3 degrees (6 full moons) on the sky corresponding to a width of 150 light-years at the stellar debris cloud's estimated distance of 3,000 light-years. The color composite image includes eight hours of exposure time with an H-alpha filter, transmiting only the light from recombining hydrogen atoms in the expanding nebulosity and tracing the regions of shocked, glowing gas. This supernova remnant has an apparent age of about 100,000 years - meaning light from the massive stellar explosion first reached Earth 100,000 years ago - but this expanding remnant is not the only aftermath. The cosmic catastrophe also left behind a spinning neutron star or pulsar, all that remains of the original star's core.
+

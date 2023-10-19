@@ -1,0 +1,12 @@
+The Dark River to Antares,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0806/darkriver_ruiz.jpg)](https://apod.nasa.gov/apod/image/0806/darkriver_ruiz_big.jpg)
+
+Copyright: 
+M�ximo Ruiz
+, 
+
+Date: 2008-06-03,
+
+Explanation: Connecting the Pipe Nebula to the bright star Antares is a flowing dark cloud nicknamed the Dark River.  The murkiness of the Dark River is caused by absorption of background starlight by dust, although the nebula contains mostly hydrogen and molecular gas.  Antares, the bright star that appears yellow just below the center of the frame, is embedded in the colorful Rho Ophiuchi nebula clouds.  The Dark River, pictured above across the upper left, spans over 20 times the angular diameter of the Moon and lies about 500 light years distant.  Other types of nebulas visible here include red emission nebula and the blue reflection nebula.
+

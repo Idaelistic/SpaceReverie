@@ -1,0 +1,10 @@
+Earth and Moon,
+
+## Vidéo: https://www.youtube.com/embed/dGVYC4UZQs8?rel=0, 
+
+Copyright: No copyright, 
+
+Date: 2017-12-04,
+
+Explanation: On rare occasions, the Earth and Moon are photographed together. One of most spectacular times this occurred was 25 years ago this month when the Jupiter-bound Galileo spacecraft zoomed past our home planetary system.  Then, robotic Galileo watched from about 15-times the Earth-Moon separation as our only natural satellite glided past our home world.  The featured video combines 52 historic color-enhanced images. Although our Moon may appear small next to the Earth, no other planet in our Solar System has a satellite so comparable in size .  The Sun, far off to the right, illuminated about half of each sphere, and shows the spinning Earth's white clouds, blue oceans, and tan continents.  Tonight, a nearly full Oak supermoon will be visible from all of Earth from sunset to sunrise.   Gallery: Supermoon 2017  Free APOD Lectures: January 5 in NYC & January 9 in DC
+

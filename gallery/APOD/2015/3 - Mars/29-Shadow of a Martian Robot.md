@@ -1,0 +1,10 @@
+Shadow of a Martian Robot,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1503/marsshadow_opportunity_960.jpg)](https://apod.nasa.gov/apod/image/1503/marsshadow_opportunity_1024.jpg)
+
+Copyright: No copyright, 
+
+Date: 2015-03-29,
+
+Explanation: What if you saw your shadow on Mars and it wasn't human?  Then you might be the Opportunity rover currently exploring Mars.  Opportunity has been exploring the red planet since early 2004, finding evidence of ancient water, and sending breathtaking images across the inner Solar System.  Pictured above in 2004, Opportunity looks opposite the Sun into Endurance Crater and sees its own shadow.  Two wheels are visible on the lower left and right, while the floor and walls of the unusual crater are visible in the background.  Opportunity is continuing on its long trek exploring unusual terrain in Meridiani Planum which continues to yield clues to the ancient history of Mars, our Solar System, and even humanity.
+

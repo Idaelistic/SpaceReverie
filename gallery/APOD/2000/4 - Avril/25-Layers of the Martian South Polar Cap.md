@@ -1,0 +1,10 @@
+Layers of the Martian South Polar Cap,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0004/marspolelayers_mgs.jpg)](https://apod.nasa.gov/apod/image/0004/marspolelayers_mgs_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2000-04-25,
+
+Explanation: The South Pole of Mars is stranger than was previously thought.  Pictured above are unexpectedly complex layers photographed recently by the Mars Global Surveyor spacecraft currently orbiting Mars.  The layers probably include carbon dioxide ice, water ice, rock and dust.  The intricate structures might indicate erosion patterns that hold clues to the history of the Martian climate over the past 100 million years.  The above image covers a region five kilometers across, resolving details as small as 25 meters across.
+

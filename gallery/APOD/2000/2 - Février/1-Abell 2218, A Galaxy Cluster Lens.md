@@ -1,0 +1,10 @@
+Abell 2218: A Galaxy Cluster Lens,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0002/a2218b_hst.jpg)](https://apod.nasa.gov/apod/image/0002/a2218b_hst_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2000-02-01,
+
+Explanation: Gravity can bend light.  Almost all of the bright objects in this recently released Hubble Space Telescope image are galaxies in the cluster known as Abell 2218.  The cluster is so massive and so compact that its gravity bends and focuses the light from galaxies that lie behind it.  As a result, multiple images of these background galaxies are distorted into long faint arcs - a simple lensing effect analogous to viewing distant street lamps through a glass of wine.  The cluster of galaxies Abell 2218 is itself about three billion light-years away in the northern constellation Draco.
+

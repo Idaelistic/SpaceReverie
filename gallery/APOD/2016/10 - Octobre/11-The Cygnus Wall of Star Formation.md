@@ -1,0 +1,12 @@
+The Cygnus Wall of Star Formation,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1610/CygnusWall_Wager_960.jpg)](https://apod.nasa.gov/apod/image/1610/CygnusWall_Wager_2000.jpg)
+
+Copyright: 
+Sara Wager
+, 
+
+Date: 2016-10-11,
+
+Explanation: Sometimes, stars form in walls -- bright walls of interstellar gas. In this vivid skyscape, stars are forming in the W-shaped ridge of emission known as the Cygnus Wall. Part of a larger emission nebula with a distinctive outline popularly called The North America Nebula, the cosmic ridge spans about 20 light-years. Constructed using narrowband data to highlight the telltale reddish glow from ionized hydrogen atoms recombining with electrons, the image mosaic follows an ionization front with fine details of dark, dusty forms in silhouette. Sculpted by energetic radiation from the region's young, hot, massive stars, the dark shapes inhabiting the view are clouds of cool gas and dust with stars likely forming within. The North America Nebula itself, NGC 7000, is about 1,500 light-years away.
+

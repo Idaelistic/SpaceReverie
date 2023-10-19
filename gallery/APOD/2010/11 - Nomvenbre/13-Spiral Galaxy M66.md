@@ -1,0 +1,10 @@
+Spiral Galaxy M66,
+
+[![Build Status](https://apod.nasa.gov/apod/image/1011/m66_croman_900c1.jpg)](https://apod.nasa.gov/apod/image/1011/m66_croman_big.jpg)
+
+Copyright: Russell Croman, 
+
+Date: 2010-11-13,
+
+Explanation: Big beautiful spiral galaxy M66 lies a mere 35 million light-years away. About 100 thousand light-years across, the gorgeous island universe is well known to astronomers as a member of the Leo Triplet of galaxies. In M66, pronounced dust lanes and young, blue star clusters sweep along spiral arms dotted with the tell-tale glow of pink star forming regions. This colorful and deep view also reveals faint extensions beyond the brighter galactic disk. Of course, the bright, spiky stars lie in the foreground, within our own Milky Way Galaxy, but many, small, distant background galaxies can be seen in the cosmic snapshot. Gravitational interactions with its neighboring galaxies have likely influenced the shape of spiral galaxy M66.
+

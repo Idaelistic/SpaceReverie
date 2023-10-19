@@ -1,0 +1,10 @@
+30 Doradus Across the Spectrum,
+
+[![Build Status](https://apod.nasa.gov/apod/image/9712/30dor_qdw.jpg)](https://apod.nasa.gov/apod/image/9712/30dor_qdw_big.gif)
+
+Copyright: No copyright, 
+
+Date: 1997-12-24,
+
+Explanation: 30 Doradus is lit up like a Christmas tree.  Shining in light across the electromagnetic spectrum, 30 Doradus glows because of all the energetic processes that go on there.  A distinctive region visible in a Milky Way satellite galaxy called the Large Magellanic Cloud (LMC), 30 Doradus is a hotbed of star formation, supernova explosions, and ionized plasma. The above image is a composite of three pictures taken in three different wavelength bands of light.  Red represents X-ray emission created by gas as hot as 1 million degrees Kelvin. Green represents emission from ionized hydrogen gas, and blue represents ultraviolet radiation primarily emitted by hot stars.  At the conclusion of this symphony of star formation and light in a few million years, astronomers expect that a new globular cluster will have formed.
+

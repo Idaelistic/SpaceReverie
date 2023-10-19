@@ -1,0 +1,10 @@
+The Rings of Saturn,
+
+[![Build Status](https://apod.nasa.gov/apod/image/satring1.gif)](https://apod.nasa.gov/apod/image/satring1.gif)
+
+Copyright: No copyright, 
+
+Date: 1995-07-30,
+
+Explanation: July 30, 1995    The Rings of Saturn  Credit: NASA, Jet Propulsion Laboratory, Voyager Project  Explanation:  Saturn's spectacular system of bright rings has been the subject of study and wonder since Galileo first turned his telescope on the ringed planet in 1610. To Galileo, the blurry image produced by his small telescope was confusing. Saturn appeared to him to have "ear-like" appendages which he thought might be large moons. Eventually, larger telescopes revealed the incredible truth - Saturn was surrounded by bright rings. The image above, made by NASA's Voyager 2 spacecraft, further reveals the intricate structure of the ring system. The image has been computer enhanced and color coded to bring out the subtle details. For more information about the picture see the NASA, JPL press release .
+

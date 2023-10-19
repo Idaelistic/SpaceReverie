@@ -1,0 +1,10 @@
+Near-Shoemaker Views Eros,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0003/eros0314_near.jpg)](https://apod.nasa.gov/apod/image/0003/eros0314_near_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2001-02-11,
+
+Explanation: Orbiting asteroid 433 Eros, 145 million miles from Earth, NASA's NEAR spacecraft has been returning stunning views as its year long mission of exploration nears completion. A mosaic of NEAR images recorded at a range of about 127 miles, this picture illustrates some of the amazing contrasts which apparently exist within the domain of this diminutive world. Features as small as 65 feet are visible here, while long shadows emphasize the differences in the cratered regions at the left and smooth grooved terrain at right. Up close, the undulating surface seems flecked with bright deposits and peppered with enormous boulders. Last year, NASA changed the spacecraft name from NEAR to NEAR-Shoemaker in honor of the late Dr. Eugene M. Shoemaker, legendary geologist, comet hunter, and inspirational pioneer in the field of interplanetary science. Tomorrow, NEAR-Shoemaker will complete its scheduled mission as it will be commanded to descend to the surface of the ancient asteroid.
+

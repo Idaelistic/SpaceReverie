@@ -1,0 +1,10 @@
+Globular Cluster M3 from WIYN,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0603/m3_noao.jpg)](https://apod.nasa.gov/apod/image/0603/m3_noao_big.jpg)
+
+Copyright: S. Kafka, 
+
+Date: 2006-03-12,
+
+Explanation: This huge ball of stars predates our Sun.  Long before humankind evolved, before dinosaurs roamed, and even before our Earth existed, ancient globs of stars condensed and orbited a young Milky Way Galaxy.  Of the 200 or so globular clusters that survive today, M3 is one of the largest and brightest, easily visible in the Northern hemisphere with binoculars.  M3 contains about half a million stars, most of which are old and red.  Light takes about 35,000 years to reach us from M3, which spans about 150 light years.  The above picture is a composite of blue and red images.
+

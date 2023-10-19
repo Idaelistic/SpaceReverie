@@ -1,0 +1,10 @@
+A Twisted Solar Eruptive Prominence,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0302/promanim4_eit.gif)](https://apod.nasa.gov/apod/image/0004/prom1743_eit_big.gif)
+
+Copyright: No copyright, 
+
+Date: 2003-02-23,
+
+Explanation: A huge eruptive prominence is seen moving out from our Sun in this condensed half-hour time-lapse sequence.  Ten Earths could easily fit in the "claw" of this seemingly solar monster.  This large prominence, though, is significant not only for its size, but its shape.  The twisted figure eight shape indicates that a complex  magnetic field threads through the emerging solar particles.  Recent evidence of differential rotation inside the Sun might help account for the surface explosion.  The sequence was taken early in the year 2000 by the Sun-orbiting SOHO satellite.  Although large prominences and energetic Coronal Mass Ejections (CMEs) are relatively rare, they are occurred more frequently near Solar Maximum, the time of peak sunspot and solar activity in the eleven-year solar cycle.
+

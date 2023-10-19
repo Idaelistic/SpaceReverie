@@ -1,0 +1,10 @@
+Eclipsing the Rings,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0703/saturnOccultation_Lawrence720.jpg)](https://apod.nasa.gov/apod/image/0703/saturnOccultation_Lawrence.jpg)
+
+Copyright: No copyright, 
+
+Date: 2007-03-16,
+
+Explanation: The March 3rd total lunar eclipse was widely viewed by denizens of planet Earth.  But only a day before, well placed observers could also watch a lunar occultation of Saturn as the planet passed behind the nearly Full Moon. From Selsey, UK, astronomer Pete Lawrence actually saw Saturn graze the lunar limb, the Moon's bright surface dramatically eclipsing a substantial part of the gas giant's spectacular rings. In this summary view of the grazing occultation, south is up and Saturn's position is shown every 90 seconds in a composite of images constructed from video frames. The frames were all recorded near the occultation event, then combined and adjusted to compensate for the large difference in brightness between Saturn and the lunar surface.
+

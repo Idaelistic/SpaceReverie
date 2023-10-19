@@ -1,0 +1,12 @@
+The Pipe Dark Nebula,
+
+[![Build Status](https://apod.nasa.gov/apod/image/pipe_lodriguss.gif)](https://apod.nasa.gov/apod/image/pipe_lodriguss_big.gif)
+
+Copyright: 
+Jerry Lodriguss
+, 
+
+Date: 1996-05-28,
+
+Explanation: The dark nebula predominant at the lower left of the above photograph is known as the Pipe Nebula.  The dark clouds, suggestively shaped like smoke rising from a pipe, are caused by absorption of background starlight by dust. These dust clouds can be traced all the way to the Rho Ophiuchi nebular clouds on the right. The brightest star in the field is Antares. Many types of nebula are highlighted here: the red are emission nebula, the blue are reflection nebula, and the dark are absorption nebula. This picture has been digitally enhanced.
+

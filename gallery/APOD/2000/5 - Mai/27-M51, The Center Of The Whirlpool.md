@@ -1,0 +1,10 @@
+M51: The Center Of The Whirlpool,
+
+[![Build Status](https://apod.nasa.gov/apod/image/0005/m51nuc_hst.jpg)](https://apod.nasa.gov/apod/image/0005/m51nuc_hst_big.jpg)
+
+Copyright: No copyright, 
+
+Date: 2000-05-27,
+
+Explanation: In the center of M51, a spiral galaxy 23 million light-years away, astronomers have identified a dense region of young stars. Viewed face-on in the constellation Canes Venatici, the swirling arcs of this galaxy's spiral arms have inspired its popular name, The Whirlpool Galaxy. This 1996 Hubble Space Telescope image of its nucleus reveals the light from millions of stars, perhaps one tenth the age of the Sun, packed into the bright central region. A mere 80 light-years across, this area is so crowded with stars that the view from a hypothetical planet orbiting one of these distant suns would be of a continuously bright sky! The dark "Y" shape visible within this region is an indication that lanes of dust are present, partially blocking the intense starlight.
+

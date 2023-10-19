@@ -1,0 +1,14 @@
+Vela Supernova Remnant in Optical,
+
+[![Build Status](https://apod.nasa.gov/apod/image/vela_roe.gif)](https://apod.nasa.gov/apod/image/vela_roe.gif)
+
+Copyright: 
+Royal Observatory, Edinburgh,
+Anglo-Australian 
+Observatory
+, 
+
+Date: 1996-06-13,
+
+Explanation: About 11,000 years ago a star in the constellation of Vela exploded.  This bright supernova may have been visible to the first human farmers. Today the Vela supernova remnant marks the position of a relatively close and recent explosion in our Galaxy. A roughly spherical, expanding shock wave is visible in X-rays. In the above optical photograph, the upper left corner of the spherical blast wave is shown in detail. As gas flies away from the detonated star, it reacts with the interstellar medium, knocking away closely held electrons from even heavy elements. When the electrons recombine with these atoms, light in many different colors and energy bands is produced.
+
