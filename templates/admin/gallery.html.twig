@@ -3,7 +3,6 @@
 {% block title %}Admin / Gallery{% endblock %}
 
 {% block body %}
-    <div class="container">
         {{ form_start(form_dtd) }}
             {{ form_errors(form_dtd) }}
             {{ form_row(form_dtd.start_date) }}
@@ -11,5 +10,4 @@
             <div class="d-grid gap-2"> <input class="btn btn-primary btn-block" type="submit" value="{{ 'Submit'|trans }}"> </div>
 
         {{ form_end(form_dtd) }}
-    </div>
 {% endblock %}

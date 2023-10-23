@@ -35,18 +35,25 @@ class ApodController extends AbstractController
             ->add('date', DateType::class, [
                 'widget' => 'single_text',
                 'input'  => 'array',
-
             ])
             ->getForm();
         ;
+
 
         $form->handleRequest($request);
         if ($form->isSubmitted() && $form->isValid()) {
             $date = $form->getData();
             $requested_date = $date['date']['year']."-".$date['date']['month']."-".$date['date']['day'];
-            $apod = $entityManager->getRepository(Apod::class)->findOneBy(["FullDate" => $requested_date]);
-            $formatedMonth = $apod->getMonth() -1 ;
-            $formatedMonth = $month_List[$formatedMonth];
+
+            if($requested_date <= "1995-6-16" || $requested_date >= "2023-10-23"){
+                $apod = $entityManager->getRepository(Apod::class)->findOneBy([], ['id' => 'desc']);
+                $formatedMonth = $apod->getMonth() -1 ;
+                $formatedMonth = $month_List[$formatedMonth];
+            } else {
+                $apod = $entityManager->getRepository(Apod::class)->findOneBy(["FullDate" => $requested_date]);
+                $formatedMonth = $apod->getMonth() -1 ;
+                $formatedMonth = $month_List[$formatedMonth];
+            }
 
         } else {
             $apod = $entityManager->getRepository(Apod::class)->findOneBy([], ['id' => 'desc']);
@@ -54,7 +61,7 @@ class ApodController extends AbstractController
             $formatedMonth = $month_List[$formatedMonth];
         }
 
-        return $this->render('apod/Apod.html.twig', [
+        return $this->render('gallery/Apod.html.twig', [
             'form' => $form->createView(),
             'day' =>$apod->getDay(),
             'month' => $formatedMonth,

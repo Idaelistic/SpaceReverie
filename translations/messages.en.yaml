@@ -1,7 +1,8 @@
 # Form / Button
-Submit: Submit
-Date: Date
+submit: Submit
+date: Date
 login: Login
+register: Register
 search: Search
 
 # Navbar
@@ -10,9 +11,9 @@ gallery: Gallery
 picture of the day: Picture of the day
 
 # APOD
-Search for a date: Search for a date
-Click on the photo to see it in Ultra HD!: Click on the photo to see it in Ultra HD!
-Copyright: Copyright
+search for a date: Search for a date
+click on the photo to see it in Ultra HD!: Click on the photo to see it in Ultra HD!
+copyright: Copyright
 between the: Between the
 and the: and the
 photo of: Photo of
