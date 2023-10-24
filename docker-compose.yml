@@ -28,6 +28,11 @@ services:
     ports:
       - 8888:8080
 
+  mailer:
+    image: schickling/mailcatcher
+    ports:
+      - 1025:1080
+
 volumes:
   ###> doctrine/doctrine-bundle ###
   db_data:
