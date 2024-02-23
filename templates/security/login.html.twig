@@ -1,0 +1,85 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Log in!{% endblock %}
+
+{% block body %}
+
+    <main class="container pt-5">
+        <div class="d-flex flex-column align-items-center mt-5">
+            <div class="w-100 bg-secondary rounded p-5" style="max-width: 526px;">
+                <h1>Sign in</h1>
+                <p class="pb-3 mb-3 mb-lg-4">{{ "dont_have_an_account_yet"|trans}} ?&nbsp;&nbsp;<a href="{{ path('app_register') }}">{{ "register_here"|trans }}!</a></p>
+
+                {% if error %}
+                    <div class="pb-3 mb-3 alert alert-danger">{{ error.messageKey|trans(error.messageData, 'security') }}</div>
+                {% endif %}
+
+                {% if app.user %}
+                    <div class="mb-3">
+                        You are logged in as {{ app.user.userIdentifier }}, <a href="{{ path('app_logout') }}">Logout</a>
+                    </div>
+                {% endif %}
+
+                <form class="needs-validation" novalidate method="post">
+                    <div class="pb-3 mb-3">
+                        <div class="position-relative">
+                            <i class="ai-user fs-lg position-absolute top-50 start-0 translate-middle-y ms-3"></i>
+                            <input placeholder="{{ 'username'|trans }}" type="text" value="{{ last_username }}" name="_username" id="username" class="form-control form-control-lg ps-5" autocomplete="username" required autofocus>
+                        </div>
+                    </div>
+                    <div class="mb-4">
+                        <div class="position-relative">
+                            <i class="ai-lock-closed fs-lg position-absolute top-50 start-0 translate-middle-y ms-3"></i>
+                            <div class="password-toggle">
+                                <input placeholder="{{ 'password'|trans }}" type="password" name="_password" id="password" class="form-control form-control-lg ps-5" autocomplete="current-password" required>
+                                <label class="password-toggle-btn" aria-label="Show/hide password">
+                                    <input class="password-toggle-check" type="checkbox"><span class="password-toggle-indicator"></span>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="d-flex flex-wrap align-items-center justify-content-between pb-4">
+                        <div class="form-check my-1">
+                            <input class="form-check-input" type="checkbox" id="keep-signedin">
+                            <label class="form-check-label ms-1" for="keep-signedin">{{ "remember_me"|trans }}</label>
+                        </div>
+                        <a class="fs-sm fw-semibold text-decoration-none my-1" href="">{{ 'forgot_password'|trans }} ?</a>
+                    </div>
+
+                    <input type="hidden" name="_csrf_token"
+                           value="{{ csrf_token('authenticate') }}"
+                    >
+
+                    <button class="btn btn-lg btn-primary w-100 mb-4" type="submit">{{ 'sign_in'|trans }}</button>
+
+                    <h2 class="h6 text-center pt-3 pt-lg-4 mb-4">Or sign in with your social account</h2>
+                    <div class="row row-cols-1 row-cols-sm-2 gy-3">
+                        <div class="col">
+                            <a class="btn btn-icon btn-outline-secondary btn-google btn-lg w-100" href="#">
+                                <i class="ai-google fs-xl me-2"></i> Google
+                            </a>
+                        </div>
+                        <div class="col">
+                            <a class="btn btn-icon btn-outline-secondary btn-facebook btn-lg w-100" href="#">
+                                <i class="ai-facebook fs-xl me-2"></i> Facebook
+                            </a>
+                        </div>
+                    </div>
+
+                    {#
+                    Uncomment this section and add a remember_me option below your firewall to activate remember me functionality.
+                    See https://symfony.com/doc/current/security/remember_me.html
+
+                    <div class="checkbox mb-3">
+                        <label>
+                            <input type="checkbox" name="_remember_me"> Remember me
+                        </label>
+                    </div>
+                    #}
+
+                </form>
+            </div>
+        </div>
+    </main>
+{% endblock %}

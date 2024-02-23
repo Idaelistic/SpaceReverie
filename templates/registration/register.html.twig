@@ -1,0 +1,61 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Register{% endblock %}
+
+{% block body %}
+
+    <main class="container pt-5">
+        <div class="d-flex flex-column align-items-center mt-5 ">
+            <div class="w-100 bg-secondary rounded p-5" style="max-width: 526px;">
+                <h1>Register</h1>
+                <p class="pb-3 mb-3 mb-lg-4">Already have an account ?&nbsp;&nbsp;<a href="{{ path('app_login') }}">Sign up</a></p>
+
+
+                {{ form_start(registrationForm, { 'attr' : { 'class': 'needs-validation', novalidate: 'novalidate'} }) }}
+                {{ form_errors(registrationForm) }}
+                <div class="pb-2 mb-1">
+                    <div class="position-relative">
+                        <i class="ai-user fs-lg position-absolute top-50 start-0 translate-middle-y ms-3"></i>
+                        {{ form_row(registrationForm.username) }}
+                    </div>
+                </div>
+                <div class="pb-2 mb-1">
+                    <div class="position-relative">
+                        <i class="ai-mail fs-lg position-absolute top-50 start-0 translate-middle-y ms-3"></i>
+                        {{ form_row(registrationForm.email) }}
+                    </div>
+                </div>
+
+                <div class="pb-2 mb-1">
+                    <div class="position-relative">
+                        <i class="ai-lock-closed fs-lg position-absolute top-50 start-0 translate-middle-y ms-3"></i>
+                        {{ form_row(registrationForm.plainPassword, { "attr": {"placeholder": "Password", 'type': 'password', 'id': 'password', 'class': 'form-control form-control-lg ps-5', 'required': 'required' } }) }}
+                    </div>
+                </div>
+
+                <div class="pb-3 pt-3">
+                    {{ form_row(registrationForm.agreeTerms) }}
+                </div>
+
+                <button class="btn btn-lg btn-primary w-100 mb-4" type="submit">Sign up</button>
+
+                <h2 class="h6 text-center pt-3 pt-lg-4 mb-4">Or register with your social account</h2>
+                <div class="row row-cols-1 row-cols-sm-2 gy-3">
+                    <div class="col">
+                        <a class="btn btn-icon btn-outline-secondary btn-google btn-lg w-100" href="#">
+                            <i class="ai-google fs-xl me-2"></i> Google
+                        </a>
+                    </div>
+                    <div class="col">
+                        <a class="btn btn-icon btn-outline-secondary btn-facebook btn-lg w-100" href="#">
+                            <i class="ai-facebook fs-xl me-2"></i> Facebook
+                        </a>
+                    </div>
+                </div>
+
+                {{ form_end(registrationForm) }}
+
+            </div>
+        </div>
+    </main>
+{% endblock %}
