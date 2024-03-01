@@ -60,7 +60,6 @@ services:
     ports:
       - 8888:8080
 
-
 volumes:
   caddy_data:
   caddy_config:

@@ -36,7 +36,17 @@ class RegistrationFormType extends AbstractType
 
             ->add('email', EmailType::class, [
                 'attr' => ['class' => 'form-control-lg ps-5', 'placeholder' => 'Email address' , 'required'=>'required'],
-                'label' => false
+                'label' => false,
+                'constraints' => [
+                new NotBlank([
+                    'message' => 'Please enter a password',
+                ]),
+                new Length([
+                    'min' => 3,
+                    'minMessage' => 'Your username should be at least {{ limit }} characters',
+                    'max' => 255,
+                ]),
+                ],
             ])
 
             ->add('agreeTerms', CheckboxType::class, [

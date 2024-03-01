@@ -1,7 +1,11 @@
 # Form / User
-
+submit: Submit
+sign_out: Sign out
 sign_in: Sign in 
+sign_up: Sign up
 username: Username
 password: Password
     
 forgot_password: Forgot password 
+register: Register
+login: Login

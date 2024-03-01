@@ -1,0 +1,26 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}SpaceReverie{% endblock %}
+
+{% block body %}
+
+    <main class="container pt-5">
+        <div class="d-flex flex-column align-items-center mt-5">
+            <div class="w-100 bg-secondary rounded p-5" style="max-width: 526px;">
+                <h1>{{ "confirmation"|trans }}</h1>
+                {% if app.user.isverified == 0 %}
+                    <p>Confirm your account now by entering your email address. </p>
+
+                    <form class="needs-validation" novalidate>
+                        <input class="form-control mb-4" type="email" id="validationCustom01" placeholder="Email" value="" required>
+                        <button type="submit" class="btn btn-primary w-100">{{ "submit"|trans }}</button>
+                    </form>
+                {% else %}
+
+                {% endif %}
+
+            </div>
+        </div>
+    </main>
+
+{% endblock %}
